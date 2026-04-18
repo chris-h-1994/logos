@@ -1,77 +1,281 @@
 {
   "entries" : [
     {
-      "canonicalTeamName" : "Dep. Recoleta Frauen",
+      "countryName" : "Guatemala",
+      "displayName" : "Achuapa",
+      "entityType" : "team",
+      "leagueName" : "Liga Nacional",
+      "legacyLookupKeys" : [
+        "guatemala|liga-nacional|achuapa"
+      ],
+      "lookupKey" : "guatemala|achuapa",
+      "relativePath" : "teams\/guatemala\/achuapa.png",
+      "sourceURLString" : "https:\/\/r2.thesportsdb.com\/images\/media\/team\/badge\/9bsx2w1690492669.png"
+    },
+    {
+      "countryName" : "Bolivien",
+      "displayName" : "Division Profesional",
+      "entityType" : "league",
+      "legacyLookupKeys" : [
+        "bolivien|division-profesional"
+      ],
+      "lookupKey" : "league|bolivien|division-profesional",
+      "relativePath" : "leagues\/bolivien\/division-profesional.png",
+      "sourceURLString" : "https:\/\/r2.thesportsdb.com\/images\/media\/league\/badge\/67roii1614772915.png"
+    },
+    {
+      "countryName" : "Costa Rica",
+      "displayName" : "Liga FPD",
+      "entityType" : "league",
+      "legacyLookupKeys" : [
+        "costa-rica|liga-fpd"
+      ],
+      "lookupKey" : "league|costa-rica|liga-fpd",
+      "relativePath" : "leagues\/costa-rica\/liga-fpd.png",
+      "sourceURLString" : "https:\/\/r2.thesportsdb.com\/images\/media\/league\/badge\/97r4et1716292122.png"
+    },
+    {
+      "countryName" : "Ecuador",
+      "displayName" : "Copa",
+      "entityType" : "league",
+      "legacyLookupKeys" : [
+        "ecuador|copa"
+      ],
+      "lookupKey" : "league|ecuador|copa",
+      "relativePath" : "leagues\/ecuador\/copa.png",
+      "sourceURLString" : "https:\/\/r2.thesportsdb.com\/images\/media\/league\/badge\/86kk7j1753772273.png"
+    },
+    {
+      "countryName" : "Ecuador",
+      "displayName" : "Serie A",
+      "entityType" : "league",
+      "legacyLookupKeys" : [
+        "ecuador|serie-a"
+      ],
+      "lookupKey" : "league|ecuador|serie-a",
+      "relativePath" : "leagues\/ecuador\/serie-a.png",
+      "sourceURLString" : "https:\/\/r2.thesportsdb.com\/images\/media\/league\/badge\/ofjuay1615839163.png"
+    },
+    {
+      "countryName" : "Ecuador",
+      "displayName" : "Serie B",
+      "entityType" : "league",
+      "legacyLookupKeys" : [
+        "ecuador|serie-b"
+      ],
+      "lookupKey" : "league|ecuador|serie-b",
+      "relativePath" : "leagues\/ecuador\/serie-b.png",
+      "sourceURLString" : "https:\/\/r2.thesportsdb.com\/images\/media\/league\/badge\/8ajrd11615839122.png"
+    },
+    {
+      "countryName" : "El Salvador",
+      "displayName" : "Primera Division, Clausura",
+      "entityType" : "league",
+      "legacyLookupKeys" : [
+        "el-salvador|primera-division-clausura"
+      ],
+      "lookupKey" : "league|el-salvador|primera-division-clausura",
+      "relativePath" : "leagues\/el-salvador\/primera-division-clausura.png",
+      "sourceURLString" : "https:\/\/r2.thesportsdb.com\/images\/media\/league\/badge\/2s08ci1752690548.png"
+    },
+    {
+      "countryName" : "Guatemala",
+      "displayName" : "Liga Nacional",
+      "entityType" : "league",
+      "legacyLookupKeys" : [
+        "guatemala|liga-nacional"
+      ],
+      "lookupKey" : "league|guatemala|liga-nacional",
+      "relativePath" : "leagues\/guatemala\/liga-nacional.png",
+      "sourceURLString" : "https:\/\/r2.thesportsdb.com\/images\/media\/league\/badge\/wtr5801717759494.png"
+    },
+    {
+      "countryName" : "Guatemala",
+      "displayName" : "Primera Division de Ascenso",
+      "entityType" : "league",
+      "legacyLookupKeys" : [
+        "guatemala|primera-division-de-ascenso"
+      ],
+      "lookupKey" : "league|guatemala|primera-division-de-ascenso",
+      "relativePath" : "leagues\/guatemala\/primera-division-de-ascenso.webp",
+      "sourceURLString" : "https:\/\/sportcdns.live\/resized\/224\/224\/tournament\/935bbb1b9ce4c6543084c9583b26045b9444e9b6b3c0e72bf4975a997f653bcb.webp"
+    },
+    {
+      "countryName" : "Honduras",
+      "displayName" : "Liga Nacional.",
+      "entityType" : "league",
+      "legacyLookupKeys" : [
+        "honduras|liga-nacional"
+      ],
+      "lookupKey" : "league|honduras|liga-nacional",
+      "relativePath" : "leagues\/honduras\/liga-nacional.png",
+      "sourceURLString" : "https:\/\/r2.thesportsdb.com\/images\/media\/league\/badge\/94pogz1646830106.png"
+    },
+    {
+      "countryName" : "Kolumbien",
+      "displayName" : "Liga Femenina",
+      "entityType" : "league",
+      "legacyLookupKeys" : [
+        "kolumbien|liga-femenina"
+      ],
+      "lookupKey" : "league|kolumbien|liga-femenina",
+      "relativePath" : "leagues\/kolumbien\/liga-femenina.png",
+      "sourceURLString" : "https:\/\/imagecache.365scores.com\/image\/upload\/f_png,w_250,h_250,c_limit,q_auto:eco,d_Countries:Round:109.png\/v2\/Competitions\/7041"
+    },
+    {
+      "countryName" : "Kolumbien",
+      "displayName" : "Primera A",
+      "entityType" : "league",
+      "legacyLookupKeys" : [
+        "kolumbien|primera-a"
+      ],
+      "lookupKey" : "league|kolumbien|primera-a",
+      "relativePath" : "leagues\/kolumbien\/primera-a.png",
+      "sourceURLString" : "https:\/\/r2.thesportsdb.com\/images\/media\/league\/badge\/sdz1351580833297.png"
+    },
+    {
+      "countryName" : "Kolumbien",
+      "displayName" : "Primera B",
+      "entityType" : "league",
+      "legacyLookupKeys" : [
+        "kolumbien|primera-b"
+      ],
+      "lookupKey" : "league|kolumbien|primera-b",
+      "relativePath" : "leagues\/kolumbien\/primera-b.png",
+      "sourceURLString" : "https:\/\/r2.thesportsdb.com\/images\/media\/league\/badge\/l2h1ao1615832028.png"
+    },
+    {
+      "countryName" : "Nicaragua",
+      "displayName" : "Primera Division",
+      "entityType" : "league",
+      "legacyLookupKeys" : [
+        "nicaragua|primera-division"
+      ],
+      "lookupKey" : "league|nicaragua|primera-division",
+      "relativePath" : "leagues\/nicaragua\/primera-division.png",
+      "sourceURLString" : "https:\/\/r2.thesportsdb.com\/images\/media\/league\/badge\/ah6qbr1596464815.png"
+    },
+    {
+      "countryName" : "Panama",
+      "displayName" : "Liga Prom ( Division 2)",
+      "entityType" : "league",
+      "legacyLookupKeys" : [
+        "panama|liga-prom-division-2"
+      ],
+      "lookupKey" : "league|panama|liga-prom-division-2",
+      "relativePath" : "leagues\/panama\/liga-prom-division-2.webp",
+      "sourceURLString" : "https:\/\/sportcdns.live\/resized\/224\/224\/tournament\/a3f6961745e2210f63d1e8db2596faaf13368606b00a7787ccad0ee199090d29.webp"
+    },
+    {
       "countryName" : "Paraguay",
-      "leagueName" : "Championship. Women",
+      "displayName" : "Primera División",
+      "entityType" : "league",
       "legacyLookupKeys" : [
-        "paraguay|championship-women|dep recoleta"
+        "paraguay|primera-division"
       ],
-      "lookupKey" : "paraguay|dep recoleta",
-      "relativePath" : "teams\/paraguay\/dep-recoleta-frauen.png",
-      "sourceURLString" : "https:\/\/r2.thesportsdb.com\/images\/media\/team\/badge\/v68cg01735661603.png",
-      "teamName" : "Dep. Recoleta Frauen"
+      "lookupKey" : "league|paraguay|primera-division",
+      "relativePath" : "leagues\/paraguay\/primera-division.png",
+      "sourceURLString" : "https:\/\/r2.thesportsdb.com\/images\/media\/league\/badge\/k1sbmx1652126723.png"
     },
     {
-      "canonicalTeamName" : "General Bernardino Caballero Frauen",
       "countryName" : "Paraguay",
-      "leagueName" : "Championship. Women",
+      "displayName" : "Reserve League",
+      "entityType" : "league",
       "legacyLookupKeys" : [
-        "paraguay|championship-women|general bernardino caballero"
+        "paraguay|reserve-league"
       ],
-      "lookupKey" : "paraguay|general bernardino caballero",
-      "relativePath" : "teams\/paraguay\/general-bernardino-caballero-frauen.png",
-      "sourceURLString" : "https:\/\/r2.thesportsdb.com\/images\/media\/team\/badge\/2prn101678717641.png",
-      "teamName" : "General Bernardino Caballero Frauen"
+      "lookupKey" : "league|paraguay|reserve-league",
+      "relativePath" : "leagues\/paraguay\/reserve-league.png",
+      "sourceURLString" : "https:\/\/img.sofascore.com\/api\/v1\/unique-tournament\/11564\/image"
     },
     {
-      "canonicalTeamName" : "Carlos A Mannucci Frauen",
       "countryName" : "Peru",
-      "leagueName" : "Liga Femenina",
+      "displayName" : "Liga 1",
+      "entityType" : "league",
       "legacyLookupKeys" : [
-        "peru|liga-femenina|carlos a mannucci"
+        "peru|liga-1"
       ],
-      "lookupKey" : "peru|carlos a mannucci",
-      "relativePath" : "teams\/peru\/carlos-a-mannucci-frauen.png",
-      "sourceURLString" : "https:\/\/r2.thesportsdb.com\/images\/media\/team\/badge\/uejyj61736447860.png",
-      "teamName" : "Carlos A Mannucci Frauen"
+      "lookupKey" : "league|peru|liga-1",
+      "relativePath" : "leagues\/peru\/liga-1.png",
+      "sourceURLString" : "https:\/\/r2.thesportsdb.com\/images\/media\/league\/badge\/1ujpwc1580040216.png\/medium"
     },
     {
-      "canonicalTeamName" : "Dep. Llacuabamba",
       "countryName" : "Peru",
-      "leagueName" : "Liga 2",
+      "displayName" : "Liga 2",
+      "entityType" : "league",
       "legacyLookupKeys" : [
-        "peru|liga-2|dep llacuabamba"
+        "peru|liga-2"
       ],
-      "lookupKey" : "peru|dep llacuabamba",
-      "relativePath" : "teams\/peru\/dep-llacuabamba.png",
-      "sourceURLString" : "https:\/\/r2.thesportsdb.com\/images\/media\/team\/badge\/i8pxgl1677525488.png",
-      "teamName" : "Dep. Llacuabamba"
+      "lookupKey" : "league|peru|liga-2",
+      "relativePath" : "leagues\/peru\/liga-2.png",
+      "sourceURLString" : "https:\/\/r2.thesportsdb.com\/images\/media\/league\/badge\/rbax1i1625260410.png"
     },
     {
-      "canonicalTeamName" : "EM Dep. Binacional",
-      "countryName" : "Peru",
-      "leagueName" : "Liga 2",
+      "countryName" : "Südamerika",
+      "displayName" : "Conmebol Libertadores",
+      "entityType" : "league",
       "legacyLookupKeys" : [
-        "peru|liga-2|em dep binacional"
+        "sudamerika|conmebol-libertadores"
       ],
-      "lookupKey" : "peru|em dep binacional",
-      "relativePath" : "teams\/peru\/em-dep-binacional.png",
-      "sourceURLString" : "https:\/\/r2.thesportsdb.com\/images\/media\/team\/badge\/4xtyac1678843505.png",
-      "teamName" : "EM Dep. Binacional"
+      "lookupKey" : "league|sudamerika|conmebol-libertadores",
+      "relativePath" : "leagues\/sudamerika\/conmebol-libertadores.png",
+      "sourceURLString" : "https:\/\/sportcdns.live\/resized\/224\/224\/tournament\/115a50d6104ffe32473269f6e98ce9a60ba3b6487ab27c6007f78c2cea64bdf2.png"
     },
     {
-      "canonicalTeamName" : "Union Minas",
-      "countryName" : "Peru",
-      "leagueName" : "Liga 2",
+      "countryName" : "Südamerika",
+      "displayName" : "Conmebol Sudamericana",
+      "entityType" : "league",
       "legacyLookupKeys" : [
-        "peru|liga-2|union minas"
+        "sudamerika|conmebol-sudamericana"
       ],
-      "lookupKey" : "peru|union minas",
-      "relativePath" : "teams\/peru\/union-minas.png",
-      "sourceURLString" : "https:\/\/r2.thesportsdb.com\/images\/media\/team\/badge\/78287y1773331074.png",
-      "teamName" : "Union Minas"
+      "lookupKey" : "league|sudamerika|conmebol-sudamericana",
+      "relativePath" : "leagues\/sudamerika\/conmebol-sudamericana.png",
+      "sourceURLString" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/c\/c2\/CONMEBOL_Sudamericana_logo_%282017%29.svg\/500px-CONMEBOL_Sudamericana_logo_%282017%29.svg.png"
+    },
+    {
+      "countryName" : "Uruguay",
+      "displayName" : "Primera Division",
+      "entityType" : "league",
+      "legacyLookupKeys" : [
+        "uruguay|primera-division"
+      ],
+      "lookupKey" : "league|uruguay|primera-division",
+      "relativePath" : "leagues\/uruguay\/primera-division.png",
+      "sourceURLString" : "https:\/\/r2.thesportsdb.com\/images\/media\/league\/badge\/3p98xv1740672448.png"
+    },
+    {
+      "countryName" : "Uruguay",
+      "displayName" : "Segunda Division",
+      "entityType" : "league",
+      "legacyLookupKeys" : [
+        "uruguay|segunda-division"
+      ],
+      "lookupKey" : "league|uruguay|segunda-division",
+      "relativePath" : "leagues\/uruguay\/segunda-division.png",
+      "sourceURLString" : "https:\/\/r2.thesportsdb.com\/images\/media\/league\/badge\/htc3kb1740672581.png"
+    },
+    {
+      "countryName" : "Venezuela",
+      "displayName" : "Primera Division",
+      "entityType" : "league",
+      "legacyLookupKeys" : [
+        "venezuela|primera-division"
+      ],
+      "lookupKey" : "league|venezuela|primera-division",
+      "relativePath" : "leagues\/venezuela\/primera-division.png",
+      "sourceURLString" : "https:\/\/r2.thesportsdb.com\/images\/media\/league\/badge\/z07l5a1639062253.png"
+    },
+    {
+      "countryName" : "Venezuela",
+      "displayName" : "Segunda Division",
+      "entityType" : "league",
+      "legacyLookupKeys" : [
+        "venezuela|segunda-division"
+      ],
+      "lookupKey" : "league|venezuela|segunda-division",
+      "relativePath" : "leagues\/venezuela\/segunda-division.png",
+      "sourceURLString" : "https:\/\/r2.thesportsdb.com\/images\/media\/league\/badge\/aiqv5o1773938597.png"
     }
   ],
-  "generatedAt" : "2026-04-18T19:18:43Z"
+  "generatedAt" : "2026-04-18T19:51:40Z"
 }
