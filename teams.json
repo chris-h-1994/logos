@@ -169,6 +169,18 @@
       "teamName" : "Cacahuatique II"
     },
     {
+      "canonicalTeamName" : "CD. Cacahuatique",
+      "countryName" : "El Salvador",
+      "leagueName" : "Copa Presidente",
+      "legacyLookupKeys" : [
+        "el-salvador|copa-presidente|cd cacahuatique"
+      ],
+      "lookupKey" : "el-salvador|cd cacahuatique",
+      "relativePath" : "teams\/el-salvador\/cd-cacahuatique.png",
+      "sourceURLString" : "https:\/\/r2.thesportsdb.com\/images\/media\/team\/badge\/f28bsj1721819043.png",
+      "teamName" : "CD. Cacahuatique"
+    },
+    {
       "canonicalTeamName" : "CD Dragon",
       "countryName" : "El Salvador",
       "leagueName" : "Copa Presidente",
@@ -205,6 +217,18 @@
       "teamName" : "CD Hercules"
     },
     {
+      "canonicalTeamName" : "CD Platense Municipal Zacatecoluca",
+      "countryName" : "El Salvador",
+      "leagueName" : "Primera Division, Clausura",
+      "legacyLookupKeys" : [
+        "el-salvador|primera-division-clausura|cd platense municipal zacatecoluca"
+      ],
+      "lookupKey" : "el-salvador|cd platense municipal zacatecoluca",
+      "relativePath" : "teams\/el-salvador\/cd-platense-municipal-zacatecoluca.png",
+      "sourceURLString" : "https:\/\/r2.thesportsdb.com\/images\/media\/team\/badge\/obx9ny1691663598.png",
+      "teamName" : "CD Platense Municipal Zacatecoluca"
+    },
+    {
       "canonicalTeamName" : "FAS",
       "countryName" : "El Salvador",
       "leagueName" : "Primera Division, Clausura",
@@ -229,5 +253,5 @@
       "teamName" : "Zacatecoluca"
     }
   ],
-  "generatedAt" : "2026-04-18T16:11:37Z"
+  "generatedAt" : "2026-04-18T17:44:26Z"
 }
