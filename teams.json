@@ -1,257 +1,77 @@
 {
   "entries" : [
     {
-      "canonicalTeamName" : "Alajuelense",
-      "countryName" : "Costa Rica",
-      "leagueName" : "Liga FPD",
+      "canonicalTeamName" : "Dep. Recoleta Frauen",
+      "countryName" : "Paraguay",
+      "leagueName" : "Championship. Women",
       "legacyLookupKeys" : [
-        "costa-rica|liga-fpd|alajuelense"
+        "paraguay|championship-women|dep recoleta"
       ],
-      "lookupKey" : "costa-rica|alajuelense",
-      "relativePath" : "teams\/costa-rica\/alajuelense.png",
-      "sourceURLString" : "https:\/\/r2.thesportsdb.com\/images\/media\/team\/badge\/zi9ft21707630526.png",
-      "teamName" : "Alajuelense"
+      "lookupKey" : "paraguay|dep recoleta",
+      "relativePath" : "teams\/paraguay\/dep-recoleta-frauen.png",
+      "sourceURLString" : "https:\/\/r2.thesportsdb.com\/images\/media\/team\/badge\/v68cg01735661603.png",
+      "teamName" : "Dep. Recoleta Frauen"
     },
     {
-      "canonicalTeamName" : "Cartagines",
-      "countryName" : "Costa Rica",
-      "leagueName" : "Liga FPD",
+      "canonicalTeamName" : "General Bernardino Caballero Frauen",
+      "countryName" : "Paraguay",
+      "leagueName" : "Championship. Women",
       "legacyLookupKeys" : [
-        "costa-rica|liga-fpd|cartagines"
+        "paraguay|championship-women|general bernardino caballero"
       ],
-      "lookupKey" : "costa-rica|cartagines",
-      "relativePath" : "teams\/costa-rica\/cartagines.png",
-      "sourceURLString" : "https:\/\/r2.thesportsdb.com\/images\/media\/team\/badge\/0mo64x1589122311.png",
-      "teamName" : "Cartagines"
+      "lookupKey" : "paraguay|general bernardino caballero",
+      "relativePath" : "teams\/paraguay\/general-bernardino-caballero-frauen.png",
+      "sourceURLString" : "https:\/\/r2.thesportsdb.com\/images\/media\/team\/badge\/2prn101678717641.png",
+      "teamName" : "General Bernardino Caballero Frauen"
     },
     {
-      "canonicalTeamName" : "Deportivo Saprissa",
-      "countryName" : "Costa Rica",
-      "leagueName" : "Liga FPD",
+      "canonicalTeamName" : "Carlos A Mannucci Frauen",
+      "countryName" : "Peru",
+      "leagueName" : "Liga Femenina",
       "legacyLookupKeys" : [
-        "costa-rica|liga-fpd|deportivo saprissa"
+        "peru|liga-femenina|carlos a mannucci"
       ],
-      "lookupKey" : "costa-rica|deportivo saprissa",
-      "relativePath" : "teams\/costa-rica\/deportivo-saprissa.png",
-      "sourceURLString" : "https:\/\/r2.thesportsdb.com\/images\/media\/team\/badge\/tvj33z1707630611.png",
-      "teamName" : "Deportivo Saprissa"
+      "lookupKey" : "peru|carlos a mannucci",
+      "relativePath" : "teams\/peru\/carlos-a-mannucci-frauen.png",
+      "sourceURLString" : "https:\/\/r2.thesportsdb.com\/images\/media\/team\/badge\/uejyj61736447860.png",
+      "teamName" : "Carlos A Mannucci Frauen"
     },
     {
-      "canonicalTeamName" : "Guadalupe",
-      "countryName" : "Costa Rica",
-      "leagueName" : "Liga FPD",
+      "canonicalTeamName" : "Dep. Llacuabamba",
+      "countryName" : "Peru",
+      "leagueName" : "Liga 2",
       "legacyLookupKeys" : [
-        "costa-rica|liga-fpd|guadalupe"
+        "peru|liga-2|dep llacuabamba"
       ],
-      "lookupKey" : "costa-rica|guadalupe",
-      "relativePath" : "teams\/costa-rica\/guadalupe.png",
-      "sourceURLString" : "https:\/\/r2.thesportsdb.com\/images\/media\/team\/badge\/vkt01e1606771982.png",
-      "teamName" : "Guadalupe"
+      "lookupKey" : "peru|dep llacuabamba",
+      "relativePath" : "teams\/peru\/dep-llacuabamba.png",
+      "sourceURLString" : "https:\/\/r2.thesportsdb.com\/images\/media\/team\/badge\/i8pxgl1677525488.png",
+      "teamName" : "Dep. Llacuabamba"
     },
     {
-      "canonicalTeamName" : "Herediano",
-      "countryName" : "Costa Rica",
-      "leagueName" : "Liga FPD",
+      "canonicalTeamName" : "EM Dep. Binacional",
+      "countryName" : "Peru",
+      "leagueName" : "Liga 2",
       "legacyLookupKeys" : [
-        "costa-rica|liga-fpd|herediano"
+        "peru|liga-2|em dep binacional"
       ],
-      "lookupKey" : "costa-rica|herediano",
-      "relativePath" : "teams\/costa-rica\/herediano.png",
-      "sourceURLString" : "https:\/\/r2.thesportsdb.com\/images\/media\/team\/badge\/20qq911582143301.png",
-      "teamName" : "Herediano"
+      "lookupKey" : "peru|em dep binacional",
+      "relativePath" : "teams\/peru\/em-dep-binacional.png",
+      "sourceURLString" : "https:\/\/r2.thesportsdb.com\/images\/media\/team\/badge\/4xtyac1678843505.png",
+      "teamName" : "EM Dep. Binacional"
     },
     {
-      "canonicalTeamName" : "Municipal Liberia",
-      "countryName" : "Costa Rica",
-      "leagueName" : "Liga FPD",
+      "canonicalTeamName" : "Union Minas",
+      "countryName" : "Peru",
+      "leagueName" : "Liga 2",
       "legacyLookupKeys" : [
-        "costa-rica|liga-fpd|municipal liberia"
+        "peru|liga-2|union minas"
       ],
-      "lookupKey" : "costa-rica|municipal liberia",
-      "relativePath" : "teams\/costa-rica\/municipal-liberia.png",
-      "sourceURLString" : "https:\/\/r2.thesportsdb.com\/images\/media\/team\/badge\/l26ju61687165399.png",
-      "teamName" : "Municipal Liberia"
-    },
-    {
-      "canonicalTeamName" : "Municipal Perez Zeledon",
-      "countryName" : "Costa Rica",
-      "leagueName" : "Liga FPD",
-      "legacyLookupKeys" : [
-        "costa-rica|liga-fpd|municipal perez zeledon"
-      ],
-      "lookupKey" : "costa-rica|municipal perez zeledon",
-      "relativePath" : "teams\/costa-rica\/municipal-perez-zeledon.png",
-      "sourceURLString" : "https:\/\/r2.thesportsdb.com\/images\/media\/team\/badge\/rbsepr1589122379.png",
-      "teamName" : "Municipal Perez Zeledon"
-    },
-    {
-      "canonicalTeamName" : "Puntarenas",
-      "countryName" : "Costa Rica",
-      "leagueName" : "Liga FPD",
-      "legacyLookupKeys" : [
-        "costa-rica|liga-fpd|puntarenas"
-      ],
-      "lookupKey" : "costa-rica|puntarenas",
-      "relativePath" : "teams\/costa-rica\/puntarenas.png",
-      "sourceURLString" : "https:\/\/r2.thesportsdb.com\/images\/media\/team\/badge\/ljzov51657724106.png",
-      "teamName" : "Puntarenas"
-    },
-    {
-      "canonicalTeamName" : "San Carlos",
-      "countryName" : "Costa Rica",
-      "leagueName" : "Liga FPD",
-      "legacyLookupKeys" : [
-        "costa-rica|liga-fpd|san carlos"
-      ],
-      "lookupKey" : "costa-rica|san carlos",
-      "relativePath" : "teams\/costa-rica\/san-carlos.png",
-      "sourceURLString" : "https:\/\/r2.thesportsdb.com\/images\/media\/team\/badge\/m145jb1694151931.png",
-      "teamName" : "San Carlos"
-    },
-    {
-      "canonicalTeamName" : "Sporting San Jose",
-      "countryName" : "Costa Rica",
-      "leagueName" : "Liga FPD",
-      "legacyLookupKeys" : [
-        "costa-rica|liga-fpd|sporting san jose"
-      ],
-      "lookupKey" : "costa-rica|sporting san jose",
-      "relativePath" : "teams\/costa-rica\/sporting-san-jose.png",
-      "sourceURLString" : "https:\/\/r2.thesportsdb.com\/images\/media\/team\/badge\/7wzxlo1606770023.png",
-      "teamName" : "Sporting San Jose"
-    },
-    {
-      "canonicalTeamName" : "A.D. Isidro Metapán",
-      "countryName" : "El Salvador",
-      "leagueName" : "Primera Division, Clausura",
-      "legacyLookupKeys" : [
-        "el-salvador|primera-division-clausura|a d isidro metapan"
-      ],
-      "lookupKey" : "el-salvador|a d isidro metapan",
-      "relativePath" : "teams\/el-salvador\/a-d-isidro-metapan.png",
-      "sourceURLString" : "https:\/\/r2.thesportsdb.com\/images\/media\/team\/badge\/1yitw51589126705.png",
-      "teamName" : "A.D. Isidro Metapán"
-    },
-    {
-      "canonicalTeamName" : "C.D. Luis Ángel Firpo",
-      "countryName" : "El Salvador",
-      "leagueName" : "Primera Division, Clausura",
-      "legacyLookupKeys" : [
-        "el-salvador|primera-division-clausura|c d luis angel firpo"
-      ],
-      "lookupKey" : "el-salvador|c d luis angel firpo",
-      "relativePath" : "teams\/el-salvador\/c-d-luis-angel-firpo.png",
-      "sourceURLString" : "https:\/\/r2.thesportsdb.com\/images\/media\/team\/badge\/x6yo0a1603307122.png",
-      "teamName" : "C.D. Luis Ángel Firpo"
-    },
-    {
-      "canonicalTeamName" : "C.D. Municipal Limeno",
-      "countryName" : "El Salvador",
-      "leagueName" : "Primera Division, Clausura",
-      "legacyLookupKeys" : [
-        "el-salvador|primera-division-clausura|c d municipal limeno"
-      ],
-      "lookupKey" : "el-salvador|c d municipal limeno",
-      "relativePath" : "teams\/el-salvador\/c-d-municipal-limeno.png",
-      "sourceURLString" : "https:\/\/r2.thesportsdb.com\/images\/media\/team\/badge\/0z2pit1609881767.png",
-      "teamName" : "C.D. Municipal Limeno"
-    },
-    {
-      "canonicalTeamName" : "Cacahuatique II",
-      "countryName" : "El Salvador",
-      "leagueName" : "Primera Division Reserves",
-      "legacyLookupKeys" : [
-        "el-salvador|primera-division-reserves|cacahuatique"
-      ],
-      "lookupKey" : "el-salvador|cacahuatique",
-      "relativePath" : "teams\/el-salvador\/cacahuatique-ii.png",
-      "sourceURLString" : "https:\/\/r2.thesportsdb.com\/images\/media\/team\/badge\/f28bsj1721819043.png",
-      "teamName" : "Cacahuatique II"
-    },
-    {
-      "canonicalTeamName" : "CD. Cacahuatique",
-      "countryName" : "El Salvador",
-      "leagueName" : "Copa Presidente",
-      "legacyLookupKeys" : [
-        "el-salvador|copa-presidente|cd cacahuatique"
-      ],
-      "lookupKey" : "el-salvador|cd cacahuatique",
-      "relativePath" : "teams\/el-salvador\/cd-cacahuatique.png",
-      "sourceURLString" : "https:\/\/r2.thesportsdb.com\/images\/media\/team\/badge\/f28bsj1721819043.png",
-      "teamName" : "CD. Cacahuatique"
-    },
-    {
-      "canonicalTeamName" : "CD Dragon",
-      "countryName" : "El Salvador",
-      "leagueName" : "Copa Presidente",
-      "legacyLookupKeys" : [
-        "el-salvador|copa-presidente|cd dragon"
-      ],
-      "lookupKey" : "el-salvador|cd dragon",
-      "relativePath" : "teams\/el-salvador\/cd-dragon.png",
-      "sourceURLString" : "https:\/\/r2.thesportsdb.com\/images\/media\/team\/badge\/tybnhk1658150439.png",
-      "teamName" : "CD Dragon"
-    },
-    {
-      "canonicalTeamName" : "CD FAS II U20",
-      "countryName" : "El Salvador",
-      "leagueName" : "Primera Division Reserves",
-      "legacyLookupKeys" : [
-        "el-salvador|primera-division-reserves|cd fas"
-      ],
-      "lookupKey" : "el-salvador|cd fas",
-      "relativePath" : "teams\/el-salvador\/cd-fas-ii-u20.png",
-      "sourceURLString" : "https:\/\/r2.thesportsdb.com\/images\/media\/team\/badge\/7nosll1589126710.png",
-      "teamName" : "CD FAS II U20"
-    },
-    {
-      "canonicalTeamName" : "CD Hercules",
-      "countryName" : "El Salvador",
-      "leagueName" : "Copa Presidente",
-      "legacyLookupKeys" : [
-        "el-salvador|copa-presidente|cd hercules"
-      ],
-      "lookupKey" : "el-salvador|cd hercules",
-      "relativePath" : "teams\/el-salvador\/cd-hercules.png",
-      "sourceURLString" : "https:\/\/r2.thesportsdb.com\/images\/media\/team\/badge\/w196z31749146318.png",
-      "teamName" : "CD Hercules"
-    },
-    {
-      "canonicalTeamName" : "CD Platense Municipal Zacatecoluca",
-      "countryName" : "El Salvador",
-      "leagueName" : "Primera Division, Clausura",
-      "legacyLookupKeys" : [
-        "el-salvador|primera-division-clausura|cd platense municipal zacatecoluca"
-      ],
-      "lookupKey" : "el-salvador|cd platense municipal zacatecoluca",
-      "relativePath" : "teams\/el-salvador\/cd-platense-municipal-zacatecoluca.png",
-      "sourceURLString" : "https:\/\/r2.thesportsdb.com\/images\/media\/team\/badge\/obx9ny1691663598.png",
-      "teamName" : "CD Platense Municipal Zacatecoluca"
-    },
-    {
-      "canonicalTeamName" : "FAS",
-      "countryName" : "El Salvador",
-      "leagueName" : "Primera Division, Clausura",
-      "legacyLookupKeys" : [
-        "el-salvador|primera-division-clausura|fas"
-      ],
-      "lookupKey" : "el-salvador|fas",
-      "relativePath" : "teams\/el-salvador\/fas.png",
-      "sourceURLString" : "https:\/\/r2.thesportsdb.com\/images\/media\/team\/badge\/7nosll1589126710.png",
-      "teamName" : "FAS"
-    },
-    {
-      "canonicalTeamName" : "Zacatecoluca",
-      "countryName" : "El Salvador",
-      "leagueName" : "Primera Division, Clausura",
-      "legacyLookupKeys" : [
-        "el-salvador|primera-division-clausura|zacatecoluca"
-      ],
-      "lookupKey" : "el-salvador|zacatecoluca",
-      "relativePath" : "teams\/el-salvador\/zacatecoluca.png",
-      "sourceURLString" : "https:\/\/r2.thesportsdb.com\/images\/media\/team\/badge\/ak6irg1752688147.png",
-      "teamName" : "Zacatecoluca"
+      "lookupKey" : "peru|union minas",
+      "relativePath" : "teams\/peru\/union-minas.png",
+      "sourceURLString" : "https:\/\/r2.thesportsdb.com\/images\/media\/team\/badge\/78287y1773331074.png",
+      "teamName" : "Union Minas"
     }
   ],
-  "generatedAt" : "2026-04-18T17:52:03Z"
+  "generatedAt" : "2026-04-18T19:18:43Z"
 }
