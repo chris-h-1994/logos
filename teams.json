@@ -1,75 +1,509 @@
 {
   "entries" : [
     {
+      "countryName" : "Ecuador",
+      "displayName" : "7 de Febrero",
+      "entityType" : "team",
+      "leagueName" : "Copa",
       "legacyLookupKeys" : [
-        "ecuador|copa|cd el nacional"
+        "ecuador|copa|7 de febrero"
       ],
-      "lookupKey" : "ecuador|cd el nacional",
-      "relativePath" : "teams\/ecuador\/cd-el-nacional.png"
+      "lookupKey" : "ecuador|7 de febrero",
+      "relativePath" : "teams\/ecuador\/7-de-febrero.png",
+      "sourceURLString" : "https:\/\/r2.thesportsdb.com\/images\/media\/team\/badge\/igxdez1775236463.png"
     },
     {
+      "countryName" : "Ecuador",
+      "displayName" : "Astillero FC",
+      "entityType" : "team",
+      "leagueName" : "Copa",
       "legacyLookupKeys" : [
-        "ecuador|superliga-women|cd espuce"
+        "ecuador|copa|astillero fc"
       ],
-      "lookupKey" : "ecuador|cd espuce",
-      "relativePath" : "teams\/ecuador\/cd-espuce-frauen.png"
+      "lookupKey" : "ecuador|astillero fc",
+      "relativePath" : "teams\/ecuador\/astillero-fc.png",
+      "sourceURLString" : "https:\/\/r2.thesportsdb.com\/images\/media\/team\/badge\/793nqb1775231424.png"
     },
     {
+      "countryName" : "Ecuador",
+      "displayName" : "Atl. Vinotinto",
+      "entityType" : "team",
+      "leagueName" : "Copa",
       "legacyLookupKeys" : [
-        "ecuador|copa|dep santo domingo"
+        "ecuador|copa|atl vinotinto"
       ],
-      "lookupKey" : "ecuador|dep santo domingo",
-      "relativePath" : "teams\/ecuador\/dep-santo-domingo.png"
+      "lookupKey" : "ecuador|atl vinotinto",
+      "relativePath" : "teams\/ecuador\/atl-vinotinto.png",
+      "sourceURLString" : "https:\/\/r2.thesportsdb.com\/images\/media\/team\/badge\/39ncbm1740586038.png"
     },
     {
+      "countryName" : "Ecuador",
+      "displayName" : "Cde Juventud Italiana",
+      "entityType" : "team",
+      "leagueName" : "Copa",
       "legacyLookupKeys" : [
-        "ecuador|superliga-women|el nacional"
+        "ecuador|copa|cde juventud italiana"
       ],
-      "lookupKey" : "ecuador|el nacional",
-      "relativePath" : "teams\/ecuador\/el-nacional-frauen.png"
+      "lookupKey" : "ecuador|cde juventud italiana",
+      "relativePath" : "teams\/ecuador\/cde-juventud-italiana.png",
+      "sourceURLString" : "https:\/\/r2.thesportsdb.com\/images\/media\/team\/badge\/58tg5x1775233473.png"
     },
     {
+      "countryName" : "Ecuador",
+      "displayName" : "Daquilema FC",
+      "entityType" : "team",
+      "leagueName" : "Copa",
+      "legacyLookupKeys" : [
+        "ecuador|copa|daquilema fc"
+      ],
+      "lookupKey" : "ecuador|daquilema fc",
+      "relativePath" : "teams\/ecuador\/daquilema-fc.png",
+      "sourceURLString" : "https:\/\/r2.thesportsdb.com\/images\/media\/team\/badge\/21zqgz1775231661.png"
+    },
+    {
+      "countryName" : "Ecuador",
+      "displayName" : "Dep. Ibarra",
+      "entityType" : "team",
+      "leagueName" : "Copa",
+      "legacyLookupKeys" : [
+        "ecuador|copa|dep ibarra"
+      ],
+      "lookupKey" : "ecuador|dep ibarra",
+      "relativePath" : "teams\/ecuador\/dep-ibarra.png",
+      "sourceURLString" : "https:\/\/r2.thesportsdb.com\/images\/media\/team\/badge\/sc2heg1750468413.png"
+    },
+    {
+      "countryName" : "Ecuador",
+      "displayName" : "Dep. Quito",
+      "entityType" : "team",
+      "leagueName" : "Copa",
+      "legacyLookupKeys" : [
+        "ecuador|copa|dep quito"
+      ],
+      "lookupKey" : "ecuador|dep quito",
+      "relativePath" : "teams\/ecuador\/dep-quito.png",
+      "sourceURLString" : "https:\/\/r2.thesportsdb.com\/images\/media\/team\/badge\/kinhjw1775231887.png\/medium"
+    },
+    {
+      "countryName" : "Ecuador",
+      "displayName" : "Dunamis 04",
+      "entityType" : "team",
+      "leagueName" : "Copa",
+      "legacyLookupKeys" : [
+        "ecuador|copa|dunamis 04"
+      ],
+      "lookupKey" : "ecuador|dunamis 04",
+      "relativePath" : "teams\/ecuador\/dunamis-04.png",
+      "sourceURLString" : "https:\/\/r2.thesportsdb.com\/images\/media\/team\/badge\/ztir4j1775232179.png"
+    },
+    {
+      "countryName" : "Ecuador",
+      "displayName" : "FC Insutec",
+      "entityType" : "team",
+      "leagueName" : "Copa",
+      "legacyLookupKeys" : [
+        "ecuador|copa|fc insutec"
+      ],
+      "lookupKey" : "ecuador|fc insutec",
+      "relativePath" : "teams\/ecuador\/fc-insutec.png",
+      "sourceURLString" : "https:\/\/r2.thesportsdb.com\/images\/media\/team\/badge\/pdeiyp1775233196.png"
+    },
+    {
+      "countryName" : "Ecuador",
+      "displayName" : "Guaranda FC",
+      "entityType" : "team",
+      "leagueName" : "Copa",
+      "legacyLookupKeys" : [
+        "ecuador|copa|guaranda fc"
+      ],
+      "lookupKey" : "ecuador|guaranda fc",
+      "relativePath" : "teams\/ecuador\/guaranda-fc.png",
+      "sourceURLString" : "https:\/\/r2.thesportsdb.com\/images\/media\/team\/badge\/6egsx61775232766.png"
+    },
+    {
+      "countryName" : "Ecuador",
+      "displayName" : "Huaquillas FC",
+      "entityType" : "team",
+      "leagueName" : "Copa",
+      "legacyLookupKeys" : [
+        "ecuador|copa|huaquillas fc"
+      ],
+      "lookupKey" : "ecuador|huaquillas fc",
+      "relativePath" : "teams\/ecuador\/huaquillas-fc.png",
+      "sourceURLString" : "https:\/\/r2.thesportsdb.com\/images\/media\/team\/badge\/7pn2hw1750468804.png"
+    },
+    {
+      "countryName" : "Ecuador",
+      "displayName" : "Imbabura",
+      "entityType" : "team",
+      "leagueName" : "Copa",
+      "legacyLookupKeys" : [
+        "ecuador|copa|imbabura"
+      ],
+      "lookupKey" : "ecuador|imbabura",
+      "relativePath" : "teams\/ecuador\/imbabura.png",
+      "sourceURLString" : "https:\/\/r2.thesportsdb.com\/images\/media\/team\/badge\/3f0c7a1677527718.png"
+    },
+    {
+      "countryName" : "Ecuador",
+      "displayName" : "Ind. Azogues",
+      "entityType" : "team",
+      "leagueName" : "Copa",
+      "legacyLookupKeys" : [
+        "ecuador|copa|ind azogues"
+      ],
+      "lookupKey" : "ecuador|ind azogues",
+      "relativePath" : "teams\/ecuador\/ind-azogues.png",
+      "sourceURLString" : "https:\/\/r2.thesportsdb.com\/images\/media\/team\/badge\/gl1heo1775233043.png"
+    },
+    {
+      "countryName" : "Ecuador",
+      "displayName" : "Ind. Juniors",
+      "entityType" : "team",
+      "leagueName" : "Copa",
       "legacyLookupKeys" : [
         "ecuador|copa|ind juniors"
       ],
       "lookupKey" : "ecuador|ind juniors",
-      "relativePath" : "teams\/ecuador\/ind-juniors.png"
+      "relativePath" : "teams\/ecuador\/ind-juniors.png",
+      "sourceURLString" : "https:\/\/r2.thesportsdb.com\/images\/media\/team\/badge\/fwtb9j1615839275.png\/medium"
     },
     {
+      "countryName" : "Ecuador",
+      "displayName" : "La Union",
+      "entityType" : "team",
+      "leagueName" : "Copa",
       "legacyLookupKeys" : [
-        "ecuador|superliga-women|ldu quito"
+        "ecuador|copa|la union"
       ],
-      "lookupKey" : "ecuador|ldu quito",
-      "relativePath" : "teams\/ecuador\/ldu-quito-frauen.png"
+      "lookupKey" : "ecuador|la union",
+      "relativePath" : "teams\/ecuador\/la-union.png",
+      "sourceURLString" : "https:\/\/r2.thesportsdb.com\/images\/media\/team\/badge\/qmm7wk1775233672.png"
     },
     {
+      "countryName" : "Ecuador",
+      "displayName" : "Loja City",
+      "entityType" : "team",
+      "leagueName" : "Copa",
       "legacyLookupKeys" : [
-        "ecuador|serie-a|leones del norte"
+        "ecuador|copa|loja city"
       ],
-      "lookupKey" : "ecuador|leones del norte",
-      "relativePath" : "teams\/ecuador\/leones-del-norte.png"
+      "lookupKey" : "ecuador|loja city",
+      "relativePath" : "teams\/ecuador\/loja-city.png",
+      "sourceURLString" : "https:\/\/r2.thesportsdb.com\/images\/media\/team\/badge\/bpvh9n1750469779.png"
     },
     {
+      "countryName" : "Ecuador",
+      "displayName" : "Nazareno FC",
+      "entityType" : "team",
+      "leagueName" : "Copa",
       "legacyLookupKeys" : [
-        "ecuador|superliga-women"
+        "ecuador|copa|nazareno fc"
       ],
-      "lookupKey" : "league|ecuador|superliga-women",
-      "relativePath" : "leagues\/ecuador\/superliga-women.png"
+      "lookupKey" : "ecuador|nazareno fc",
+      "relativePath" : "teams\/ecuador\/nazareno-fc.png",
+      "sourceURLString" : "https:\/\/r2.thesportsdb.com\/images\/media\/team\/badge\/kw60vd1775234643.png\/medium"
     },
     {
+      "countryName" : "Ecuador",
+      "displayName" : "Rio Aguarico FC",
+      "entityType" : "team",
+      "leagueName" : "Copa",
       "legacyLookupKeys" : [
-        "el-salvador|copa-presidente"
+        "ecuador|copa|rio aguarico fc"
       ],
-      "lookupKey" : "league|el-salvador|copa-presidente",
-      "relativePath" : "leagues\/el-salvador\/copa-presidente.png"
+      "lookupKey" : "ecuador|rio aguarico fc",
+      "relativePath" : "teams\/ecuador\/rio-aguarico-fc.png",
+      "sourceURLString" : "https:\/\/r2.thesportsdb.com\/images\/media\/team\/badge\/mru8cp1750471178.png"
     },
     {
+      "countryName" : "Ecuador",
+      "displayName" : "Udj de Quininde",
+      "entityType" : "team",
+      "leagueName" : "Copa",
       "legacyLookupKeys" : [
-        "el-salvador|segunda-division"
+        "ecuador|copa|udj de quininde"
       ],
-      "lookupKey" : "league|el-salvador|segunda-division",
-      "relativePath" : "leagues\/el-salvador\/segunda-division.png"
+      "lookupKey" : "ecuador|udj de quininde",
+      "relativePath" : "teams\/ecuador\/udj-de-quininde.png",
+      "sourceURLString" : "https:\/\/r2.thesportsdb.com\/images\/media\/team\/badge\/wak3e31775235785.png"
+    },
+    {
+      "countryName" : "El Salvador",
+      "displayName" : "AD Batanecos",
+      "entityType" : "team",
+      "leagueName" : "Segunda Division",
+      "legacyLookupKeys" : [
+        "el-salvador|segunda-division|ad batanecos"
+      ],
+      "lookupKey" : "el-salvador|ad batanecos",
+      "relativePath" : "teams\/el-salvador\/ad-batanecos.png",
+      "sourceURLString" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/5\/50\/A.D._Batanecos_logo.png\/250px-A.D._Batanecos_logo.png"
+    },
+    {
+      "countryName" : "El Salvador",
+      "displayName" : "AD Espartano",
+      "entityType" : "team",
+      "leagueName" : "Segunda Division",
+      "legacyLookupKeys" : [
+        "el-salvador|segunda-division|ad espartano"
+      ],
+      "lookupKey" : "el-salvador|ad espartano",
+      "relativePath" : "teams\/el-salvador\/ad-espartano.png",
+      "sourceURLString" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/c\/c4\/C.D._Espartano_logo.png"
+    },
+    {
+      "countryName" : "El Salvador",
+      "displayName" : "AD Juventud Ind.",
+      "entityType" : "team",
+      "leagueName" : "Segunda Division",
+      "legacyLookupKeys" : [
+        "el-salvador|segunda-division|ad juventud ind"
+      ],
+      "lookupKey" : "el-salvador|ad juventud ind",
+      "relativePath" : "teams\/el-salvador\/ad-juventud-ind.png",
+      "sourceURLString" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/3\/3f\/A.D._Juventud_Independiente_logo.png\/250px-A.D._Juventud_Independiente_logo.png"
+    },
+    {
+      "countryName" : "El Salvador",
+      "displayName" : "Adet Aruba",
+      "entityType" : "team",
+      "leagueName" : "Segunda Division",
+      "legacyLookupKeys" : [
+        "el-salvador|segunda-division|adet aruba"
+      ],
+      "lookupKey" : "el-salvador|adet aruba",
+      "relativePath" : "teams\/el-salvador\/adet-aruba.png",
+      "sourceURLString" : "https:\/\/sportcdns.live\/team\/cbfb28fb722bdb64c863a959e84a9094fab5319d315cc9375c8e2a8a2db9d765.webp"
+    },
+    {
+      "countryName" : "El Salvador",
+      "displayName" : "Aguila",
+      "entityType" : "team",
+      "leagueName" : "Copa Presidente",
+      "legacyLookupKeys" : [
+        "el-salvador|copa-presidente|aguila"
+      ],
+      "lookupKey" : "el-salvador|aguila",
+      "relativePath" : "teams\/el-salvador\/aguila.png",
+      "sourceURLString" : "https:\/\/r2.thesportsdb.com\/images\/media\/team\/badge\/e5w93b1582144094.png"
+    },
+    {
+      "countryName" : "El Salvador",
+      "displayName" : "Alianza II",
+      "entityType" : "team",
+      "leagueName" : "Primera Division Reserves",
+      "legacyLookupKeys" : [
+        "el-salvador|primera-division-reserves|alianza"
+      ],
+      "lookupKey" : "el-salvador|alianza",
+      "relativePath" : "teams\/el-salvador\/alianza-ii.png",
+      "sourceURLString" : "https:\/\/r2.thesportsdb.com\/images\/media\/team\/badge\/ghlv261609881539.png"
+    },
+    {
+      "countryName" : "El Salvador",
+      "displayName" : "Alianza FC",
+      "entityType" : "team",
+      "leagueName" : "Copa Presidente",
+      "legacyLookupKeys" : [
+        "el-salvador|copa-presidente|alianza fc"
+      ],
+      "lookupKey" : "el-salvador|alianza fc",
+      "relativePath" : "teams\/el-salvador\/alianza-fc.png",
+      "sourceURLString" : "https:\/\/r2.thesportsdb.com\/images\/media\/team\/badge\/ghlv261609881539.png"
+    },
+    {
+      "countryName" : "El Salvador",
+      "displayName" : "Atl. Balboa",
+      "entityType" : "team",
+      "leagueName" : "Segunda Division",
+      "legacyLookupKeys" : [
+        "el-salvador|segunda-division|atl balboa"
+      ],
+      "lookupKey" : "el-salvador|atl balboa",
+      "relativePath" : "teams\/el-salvador\/atl-balboa.png",
+      "sourceURLString" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/c\/c0\/Atlético_Balboa_logo.png\/250px-Atlético_Balboa_logo.png"
+    },
+    {
+      "countryName" : "El Salvador",
+      "displayName" : "CD Cruzeiro",
+      "entityType" : "team",
+      "leagueName" : "Segunda Division",
+      "legacyLookupKeys" : [
+        "el-salvador|segunda-division|cd cruzeiro"
+      ],
+      "lookupKey" : "el-salvador|cd cruzeiro",
+      "relativePath" : "teams\/el-salvador\/cd-cruzeiro.png",
+      "sourceURLString" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/a\/ab\/C.D._Cruzeiro_logo.png"
+    },
+    {
+      "countryName" : "El Salvador",
+      "displayName" : "CD INCA",
+      "entityType" : "team",
+      "leagueName" : "Segunda Division",
+      "legacyLookupKeys" : [
+        "el-salvador|segunda-division|cd inca"
+      ],
+      "lookupKey" : "el-salvador|cd inca",
+      "relativePath" : "teams\/el-salvador\/cd-inca.png",
+      "sourceURLString" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/e\/e3\/C.D._Inca_Súper_Flat_logo.png\/250px-C.D._Inca_Súper_Flat_logo.png"
+    },
+    {
+      "countryName" : "El Salvador",
+      "displayName" : "CD Pipil",
+      "entityType" : "team",
+      "leagueName" : "Segunda Division",
+      "legacyLookupKeys" : [
+        "el-salvador|segunda-division|cd pipil"
+      ],
+      "lookupKey" : "el-salvador|cd pipil",
+      "relativePath" : "teams\/el-salvador\/cd-pipil.png",
+      "sourceURLString" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/4\/4a\/C.D._Pipil_logo.png\/250px-C.D._Pipil_logo.png"
+    },
+    {
+      "countryName" : "El Salvador",
+      "displayName" : "CD Talleres Jr",
+      "entityType" : "team",
+      "leagueName" : "Segunda Division",
+      "legacyLookupKeys" : [
+        "el-salvador|segunda-division|cd talleres jr"
+      ],
+      "lookupKey" : "el-salvador|cd talleres jr",
+      "relativePath" : "teams\/el-salvador\/cd-talleres-jr.png",
+      "sourceURLString" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/1\/18\/C.D._Talleres_Jr_logo.png\/250px-C.D._Talleres_Jr_logo.png"
+    },
+    {
+      "countryName" : "El Salvador",
+      "displayName" : "Fuerte Aguilares",
+      "entityType" : "team",
+      "leagueName" : "Segunda Division",
+      "legacyLookupKeys" : [
+        "el-salvador|segunda-division|fuerte aguilares"
+      ],
+      "lookupKey" : "el-salvador|fuerte aguilares",
+      "relativePath" : "teams\/el-salvador\/fuerte-aguilares.png",
+      "sourceURLString" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/4\/40\/C.D._Fuerte_Aguilares_logo.png\/250px-C.D._Fuerte_Aguilares_logo.png"
+    },
+    {
+      "countryName" : "El Salvador",
+      "displayName" : "Fuerte San Francisco",
+      "entityType" : "team",
+      "leagueName" : "Copa Presidente",
+      "legacyLookupKeys" : [
+        "el-salvador|copa-presidente|fuerte san francisco"
+      ],
+      "lookupKey" : "el-salvador|fuerte san francisco",
+      "relativePath" : "teams\/el-salvador\/fuerte-san-francisco.png",
+      "sourceURLString" : "https:\/\/r2.thesportsdb.com\/images\/media\/team\/badge\/1ysqy11691663600.png"
+    },
+    {
+      "countryName" : "El Salvador",
+      "displayName" : "Inter FA",
+      "entityType" : "team",
+      "leagueName" : "Primera Division, Clausura",
+      "legacyLookupKeys" : [
+        "el-salvador|primera-division-clausura|inter fa"
+      ],
+      "lookupKey" : "el-salvador|inter fa",
+      "relativePath" : "teams\/el-salvador\/inter-fa.png",
+      "sourceURLString" : "https:\/\/r2.thesportsdb.com\/images\/media\/team\/badge\/u5eeh41752688314.png"
+    },
+    {
+      "countryName" : "El Salvador",
+      "displayName" : "Isidro Metapan II",
+      "entityType" : "team",
+      "leagueName" : "Primera Division Reserves",
+      "legacyLookupKeys" : [
+        "el-salvador|primera-division-reserves|isidro metapan"
+      ],
+      "lookupKey" : "el-salvador|isidro metapan",
+      "relativePath" : "teams\/el-salvador\/isidro-metapan-ii.png",
+      "sourceURLString" : "https:\/\/r2.thesportsdb.com\/images\/media\/team\/badge\/1yitw51589126705.png"
+    },
+    {
+      "countryName" : "El Salvador",
+      "displayName" : "Luis Angel Firpo",
+      "entityType" : "team",
+      "leagueName" : "Copa Presidente",
+      "legacyLookupKeys" : [
+        "el-salvador|copa-presidente|luis angel firpo"
+      ],
+      "lookupKey" : "el-salvador|luis angel firpo",
+      "relativePath" : "teams\/el-salvador\/luis-angel-firpo.png",
+      "sourceURLString" : "https:\/\/r2.thesportsdb.com\/images\/media\/team\/badge\/x6yo0a1603307122.png"
+    },
+    {
+      "countryName" : "El Salvador",
+      "displayName" : "Municipal Limeno",
+      "entityType" : "team",
+      "leagueName" : "Copa Presidente",
+      "legacyLookupKeys" : [
+        "el-salvador|copa-presidente|municipal limeno"
+      ],
+      "lookupKey" : "el-salvador|municipal limeno",
+      "relativePath" : "teams\/el-salvador\/municipal-limeno.png",
+      "sourceURLString" : "https:\/\/r2.thesportsdb.com\/images\/media\/team\/badge\/0z2pit1609881767.png"
+    },
+    {
+      "countryName" : "El Salvador",
+      "displayName" : "Neo Pipil",
+      "entityType" : "team",
+      "leagueName" : "Segunda Division",
+      "legacyLookupKeys" : [
+        "el-salvador|segunda-division|neo pipil"
+      ],
+      "lookupKey" : "el-salvador|neo pipil",
+      "relativePath" : "teams\/el-salvador\/neo-pipil.png",
+      "sourceURLString" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/6\/69\/C.D._Neo_Pipil_logo.png"
+    },
+    {
+      "countryName" : "El Salvador",
+      "displayName" : "Olimpico Litoral",
+      "entityType" : "team",
+      "leagueName" : "Segunda Division",
+      "legacyLookupKeys" : [
+        "el-salvador|segunda-division|olimpico litoral"
+      ],
+      "lookupKey" : "el-salvador|olimpico litoral",
+      "relativePath" : "teams\/el-salvador\/olimpico-litoral.png",
+      "sourceURLString" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/0\/05\/C.D._Olímpico_Litoral_logo.png\/250px-C.D._Olímpico_Litoral_logo.png"
+    },
+    {
+      "countryName" : "El Salvador",
+      "displayName" : "Platense Zacatecoluca II",
+      "entityType" : "team",
+      "leagueName" : "Primera Division Reserves",
+      "legacyLookupKeys" : [
+        "el-salvador|primera-division-reserves|platense zacatecoluca"
+      ],
+      "lookupKey" : "el-salvador|platense zacatecoluca",
+      "relativePath" : "teams\/el-salvador\/platense-zacatecoluca-ii.png",
+      "sourceURLString" : "https:\/\/r2.thesportsdb.com\/images\/media\/team\/badge\/obx9ny1691663598.png"
+    },
+    {
+      "countryName" : "El Salvador",
+      "displayName" : "Sensunte Cabanas FC",
+      "entityType" : "team",
+      "leagueName" : "Segunda Division",
+      "legacyLookupKeys" : [
+        "el-salvador|segunda-division|sensunte cabanas fc"
+      ],
+      "lookupKey" : "el-salvador|sensunte cabanas fc",
+      "relativePath" : "teams\/el-salvador\/sensunte-cabanas-fc.png",
+      "sourceURLString" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/9\/9f\/Sensunte_Cabañas_F.C._logo.png"
+    },
+    {
+      "countryName" : "El Salvador",
+      "displayName" : "Zacatecoluca FC II",
+      "entityType" : "team",
+      "leagueName" : "Primera Division Reserves",
+      "legacyLookupKeys" : [
+        "el-salvador|primera-division-reserves|zacatecoluca fc"
+      ],
+      "lookupKey" : "el-salvador|zacatecoluca fc",
+      "relativePath" : "teams\/el-salvador\/zacatecoluca-fc-ii.png",
+      "sourceURLString" : "https:\/\/r2.thesportsdb.com\/images\/media\/team\/badge\/ak6irg1752688147.png"
     }
   ],
-  "generatedAt" : "2026-04-22T15:25:47Z"
+  "generatedAt" : "2026-04-22T15:32:54Z"
 }
