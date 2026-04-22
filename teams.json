@@ -1,17 +1,19 @@
 {
   "entries" : [
     {
-      "countryName" : "Costa Rica",
-      "displayName" : "ADR Jicaral",
-      "entityType" : "team",
-      "leagueName" : "Liga de Ascenso, Clausura",
       "legacyLookupKeys" : [
         "costa-rica|liga-de-ascenso-clausura|adr jicaral"
       ],
       "lookupKey" : "costa-rica|adr jicaral",
-      "relativePath" : "teams\/costa-rica\/adr-jicaral.png",
-      "sourceURLString" : "https:\/\/liasce.com\/wp-content\/uploads\/2022\/06\/jicaral-sercoba.png"
+      "relativePath" : "teams\/costa-rica\/adr-jicaral.png"
+    },
+    {
+      "legacyLookupKeys" : [
+        "ecuador|superliga-women|carneras ups"
+      ],
+      "lookupKey" : "ecuador|carneras ups",
+      "relativePath" : "teams\/ecuador\/carneras-ups-frauen.png"
     }
   ],
-  "generatedAt" : "2026-04-22T13:24:17Z"
+  "generatedAt" : "2026-04-22T14:15:37Z"
 }
