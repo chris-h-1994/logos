@@ -25,244 +25,685 @@
       "sourceURLString" : "https:\/\/sportcdns.live\/team\/66c8320e6b1492ea43857102408bbedd1a3c9afa56c782c7fc68446cde36b00b.webp"
     },
     {
-      "countryName" : "Panama",
-      "displayName" : "Liga Prom",
+      "countryName" : "Paraguay",
+      "displayName" : "Campeonato Femenino",
       "entityType" : "league",
       "legacyLookupKeys" : [
-        "panama|liga-prom"
+        "paraguay|campeonato-femenino"
       ],
-      "lookupKey" : "league|panama|liga-prom",
-      "relativePath" : "leagues\/panama\/liga-prom.png",
-      "sourceURLString" : "https:\/\/image-service.onefootball.com\/transform?w=280&h=280&dpr=2&image=https%3A%2F%2Fi0.wp.com%2Fpanamagol.com%2Fwp-content%2Fuploads%2F2023%2F11%2FLigaProm-logo.png%3Fresize%3D200%252C200%26ssl%3D1"
+      "lookupKey" : "league|paraguay|campeonato-femenino",
+      "relativePath" : "leagues\/paraguay\/campeonato-femenino.png",
+      "sourceURLString" : "https:\/\/img.sofascore.com\/api\/v1\/unique-tournament\/26134\/image"
     },
     {
-      "countryName" : "Panama",
-      "displayName" : "Academia Costa del Este",
-      "entityType" : "team",
-      "leagueName" : "Liga Prom ( Division 2)",
+      "countryName" : "Paraguay",
+      "displayName" : "Copa",
+      "entityType" : "league",
       "legacyLookupKeys" : [
-        "panama|liga-prom-division-2|academia costa del este"
+        "paraguay|copa"
       ],
-      "lookupKey" : "panama|academia costa del este",
-      "relativePath" : "teams\/panama\/academia-costa-del-este.png",
-      "sourceURLString" : "https:\/\/sportcdns.live\/team\/230148bb2ea9ccb283b6043cec093493c028a4dda6b9547812a71ec870e8423f.webp"
+      "lookupKey" : "league|paraguay|copa",
+      "relativePath" : "leagues\/paraguay\/copa.png",
+      "sourceURLString" : "https:\/\/r2.thesportsdb.com\/images\/media\/league\/badge\/k1sbmx1652126723.png"
     },
     {
-      "countryName" : "Panama",
-      "displayName" : "Academia Mario Mendez",
-      "entityType" : "team",
-      "leagueName" : "Liga Prom ( Division 2)",
+      "countryName" : "Paraguay",
+      "displayName" : "Segunda Division",
+      "entityType" : "league",
       "legacyLookupKeys" : [
-        "panama|liga-prom-division-2|academia mario mendez"
+        "paraguay|segunda-division"
       ],
-      "lookupKey" : "panama|academia mario mendez",
-      "relativePath" : "teams\/panama\/academia-mario-mendez.png",
-      "sourceURLString" : "https:\/\/sportcdns.live\/team\/bb57a3a92c10afaafe29b3e99490b60ddf1457c952d74a32ff9f9b57c71745d5.webp"
+      "lookupKey" : "league|paraguay|segunda-division",
+      "relativePath" : "leagues\/paraguay\/segunda-division.png",
+      "sourceURLString" : "https:\/\/r2.thesportsdb.com\/images\/media\/league\/badge\/t2gzvr1752734813.png\/medium"
     },
     {
-      "countryName" : "Panama",
-      "displayName" : "Aguilas de la Universidad de Panama",
-      "entityType" : "team",
-      "leagueName" : "Liga Prom ( Division 2)",
+      "countryName" : "Paraguay",
+      "displayName" : "Tercera Division",
+      "entityType" : "league",
       "legacyLookupKeys" : [
-        "panama|liga-prom-division-2|aguilas de la universidad de panama"
+        "paraguay|tercera-division"
       ],
-      "lookupKey" : "panama|aguilas de la universidad de panama",
-      "relativePath" : "teams\/panama\/aguilas-de-la-universidad-de-panama.png",
-      "sourceURLString" : "https:\/\/sportcdns.live\/team\/663cf15fabffd2067e1ea7e95447c9ba2ee211eaf4bf5944da3dfdd575d8158d.webp"
+      "lookupKey" : "league|paraguay|tercera-division",
+      "relativePath" : "leagues\/paraguay\/tercera-division.png",
+      "sourceURLString" : "https:\/\/sportcdns.live\/resized\/224\/224\/tournament\/92d1279190ade054d407fd972585e9ca48737cb4b3c89c31fcbf9113d2837df4.webp"
     },
     {
-      "countryName" : "Panama",
-      "displayName" : "Alianza Panama II",
+      "countryName" : "Paraguay",
+      "displayName" : "1 de Marzo de Fernando de la Mora",
       "entityType" : "team",
-      "leagueName" : "Liga Prom ( Division 2)",
+      "leagueName" : "Copa",
       "legacyLookupKeys" : [
-        "panama|liga-prom-division-2|alianza panama"
+        "paraguay|copa|1 de marzo de fernando de la mora"
       ],
-      "lookupKey" : "panama|alianza panama",
-      "relativePath" : "teams\/panama\/alianza-panama-ii.png",
-      "sourceURLString" : "https:\/\/sportcdns.live\/team\/b22169309b135d81fb92162a58f2489b26315b61fe4816106a8894f432469f08.webp"
+      "lookupKey" : "paraguay|1 de marzo de fernando de la mora",
+      "relativePath" : "teams\/paraguay\/1-de-marzo-de-fernando-de-la-mora.png",
+      "sourceURLString" : "https:\/\/r2.thesportsdb.com\/images\/media\/team\/badge\/esv9cx1730846764.png\/medium"
     },
     {
-      "countryName" : "Panama",
-      "displayName" : "Arabe Unido II",
+      "countryName" : "Paraguay",
+      "displayName" : "1 de Marzo de Pilar",
       "entityType" : "team",
-      "leagueName" : "Liga Prom ( Division 2)",
+      "leagueName" : "Copa",
       "legacyLookupKeys" : [
-        "panama|liga-prom-division-2|arabe unido"
+        "paraguay|copa|1 de marzo de pilar"
       ],
-      "lookupKey" : "panama|arabe unido",
-      "relativePath" : "teams\/panama\/arabe-unido-ii.png",
-      "sourceURLString" : "https:\/\/sportcdns.live\/team\/c4a7a567f8ad0c888e6cd47f8a6638b09674114a1f3874235edc119c7d639691.webp"
+      "lookupKey" : "paraguay|1 de marzo de pilar",
+      "relativePath" : "teams\/paraguay\/1-de-marzo-de-pilar.png",
+      "sourceURLString" : "https:\/\/r2.thesportsdb.com\/images\/media\/team\/badge\/0zyb021736700531.png"
     },
     {
-      "countryName" : "Panama",
-      "displayName" : "CA Ind. de La Chorrera II",
+      "countryName" : "Paraguay",
+      "displayName" : "1 Marzo",
       "entityType" : "team",
-      "leagueName" : "Liga Prom ( Division 2)",
+      "leagueName" : "Third Division",
       "legacyLookupKeys" : [
-        "panama|liga-prom-division-2|ca ind de la chorrera"
+        "paraguay|third-division|1 marzo"
       ],
-      "lookupKey" : "panama|ca ind de la chorrera",
-      "relativePath" : "teams\/panama\/ca-ind-de-la-chorrera-ii.png",
-      "sourceURLString" : "https:\/\/r2.thesportsdb.com\/images\/media\/team\/badge\/dra6xs1768358312.png"
+      "lookupKey" : "paraguay|1 marzo",
+      "relativePath" : "teams\/paraguay\/1-marzo.png",
+      "sourceURLString" : "https:\/\/img.sofascore.com\/api\/v1\/team\/296090\/image"
     },
     {
-      "countryName" : "Panama",
-      "displayName" : "CD Plaza Amador II",
+      "countryName" : "Paraguay",
+      "displayName" : "12 de Octubre FC (Itaugua)",
       "entityType" : "team",
-      "leagueName" : "Liga Prom ( Division 2)",
+      "leagueName" : "Third Division",
       "legacyLookupKeys" : [
-        "panama|liga-prom-division-2|cd plaza amador"
+        "paraguay|third-division|12 de octubre fc (itaugua)"
       ],
-      "lookupKey" : "panama|cd plaza amador",
-      "relativePath" : "teams\/panama\/cd-plaza-amador-ii.png",
-      "sourceURLString" : "https:\/\/r2.thesportsdb.com\/images\/media\/team\/badge\/78pior1589297968.png"
+      "lookupKey" : "paraguay|12 de octubre fc (itaugua)",
+      "relativePath" : "teams\/paraguay\/12-de-octubre-fc-itaugua.png",
+      "sourceURLString" : "https:\/\/img.sofascore.com\/api\/v1\/team\/5989\/image"
     },
     {
-      "countryName" : "Panama",
-      "displayName" : "Champions FC Academy",
+      "countryName" : "Paraguay",
+      "displayName" : "12 de Octubre SD (Asuncion)",
       "entityType" : "team",
-      "leagueName" : "Liga Prom ( Division 2)",
+      "leagueName" : "Third Division",
       "legacyLookupKeys" : [
-        "panama|liga-prom-division-2|champions fc academy"
+        "paraguay|third-division|12 de octubre sd (asuncion)"
       ],
-      "lookupKey" : "panama|champions fc academy",
-      "relativePath" : "teams\/panama\/champions-fc-academy.png",
-      "sourceURLString" : "https:\/\/sportcdns.live\/team\/e99a476afe1f790ba38cf04f55fb5e5d3ff0e4e458aab9d028427cdcf0e5c30b.webp"
+      "lookupKey" : "paraguay|12 de octubre sd (asuncion)",
+      "relativePath" : "teams\/paraguay\/12-de-octubre-sd-asuncion.png",
+      "sourceURLString" : "https:\/\/img.sofascore.com\/api\/v1\/team\/317931\/image"
     },
     {
-      "countryName" : "Panama",
-      "displayName" : "Chorrillo",
+      "countryName" : "Paraguay",
+      "displayName" : "24 de Setiembre",
       "entityType" : "team",
-      "leagueName" : "Liga Prom ( Division 2)",
+      "leagueName" : "Copa",
       "legacyLookupKeys" : [
-        "panama|liga-prom-division-2|chorrillo"
+        "paraguay|copa|24 de setiembre"
       ],
-      "lookupKey" : "panama|chorrillo",
-      "relativePath" : "teams\/panama\/chorrillo.png",
-      "sourceURLString" : "https:\/\/r2.thesportsdb.com\/images\/media\/team\/badge\/3senwi1760593628.png"
+      "lookupKey" : "paraguay|24 de setiembre",
+      "relativePath" : "teams\/paraguay\/24-de-setiembre.png",
+      "sourceURLString" : "https:\/\/img.sofascore.com\/api\/v1\/team\/293550\/image"
     },
     {
-      "countryName" : "Panama",
-      "displayName" : "Dep. Bocas",
+      "countryName" : "Paraguay",
+      "displayName" : "24 de Setiembre Aregua",
       "entityType" : "team",
-      "leagueName" : "Liga Prom ( Division 2)",
+      "leagueName" : "Third Division",
       "legacyLookupKeys" : [
-        "panama|liga-prom-division-2|dep bocas"
+        "paraguay|third-division|24 de setiembre aregua"
       ],
-      "lookupKey" : "panama|dep bocas",
-      "relativePath" : "teams\/panama\/dep-bocas.png",
-      "sourceURLString" : "https:\/\/sportcdns.live\/team\/fb2db3f062170662383e0e52ec4b7ed32ebb76dd861d60b8dff383923b4c77ae.webp"
+      "lookupKey" : "paraguay|24 de setiembre aregua",
+      "relativePath" : "teams\/paraguay\/24-de-setiembre-aregua.png",
+      "sourceURLString" : "https:\/\/img.sofascore.com\/api\/v1\/team\/293550\/image"
     },
     {
-      "countryName" : "Panama",
-      "displayName" : "Herrera FC",
+      "countryName" : "Paraguay",
+      "displayName" : "29 de Septiembre",
       "entityType" : "team",
-      "leagueName" : "Liga Prom ( Division 2)",
+      "leagueName" : "Third Division",
       "legacyLookupKeys" : [
-        "panama|liga-prom-division-2|herrera fc"
+        "paraguay|third-division|29 de septiembre"
       ],
-      "lookupKey" : "panama|herrera fc",
-      "relativePath" : "teams\/panama\/herrera-fc.png",
-      "sourceURLString" : "https:\/\/sportcdns.live\/team\/15c4dbc43518104f989a543ae25f8fcd98ccede9fa1265e28f16f41cf52b2f65.webp"
+      "lookupKey" : "paraguay|29 de septiembre",
+      "relativePath" : "teams\/paraguay\/29-de-septiembre.png",
+      "sourceURLString" : "https:\/\/img.sofascore.com\/api\/v1\/team\/387618\/image"
     },
     {
-      "countryName" : "Panama",
-      "displayName" : "La Familia Atalaya",
+      "countryName" : "Paraguay",
+      "displayName" : "29 de Setiembre",
       "entityType" : "team",
-      "leagueName" : "Liga Prom",
+      "leagueName" : "Copa",
       "legacyLookupKeys" : [
-        "panama|liga-prom|la familia atalaya"
+        "paraguay|copa|29 de setiembre"
       ],
-      "lookupKey" : "panama|la familia atalaya",
-      "relativePath" : "teams\/panama\/la-familia-atalaya.png",
-      "sourceURLString" : "https:\/\/sportcdns.live\/team\/6db28d3944f644ceb5f9cfb6c9b9726b0d817e949d18e2412b9df850502cb8fd.webp"
+      "lookupKey" : "paraguay|29 de setiembre",
+      "relativePath" : "teams\/paraguay\/29-de-setiembre.png",
+      "sourceURLString" : "https:\/\/r2.thesportsdb.com\/images\/media\/team\/badge\/qc9x811730825791.png"
     },
     {
-      "countryName" : "Panama",
-      "displayName" : "Panama City Sporting",
+      "countryName" : "Paraguay",
+      "displayName" : "3 de Febrero",
       "entityType" : "team",
-      "leagueName" : "Liga Prom ( Division 2)",
+      "leagueName" : "Third Division",
       "legacyLookupKeys" : [
-        "panama|liga-prom-division-2|panama city sporting"
+        "paraguay|third-division|3 de febrero"
       ],
-      "lookupKey" : "panama|panama city sporting",
-      "relativePath" : "teams\/panama\/panama-city-sporting.png",
-      "sourceURLString" : "https:\/\/sportcdns.live\/team\/2e67b35e39a7c0b4d8e0a38ae7b5bbfd7f8dcf8db76bbc0383706a98c3b8e8cc.webp"
+      "lookupKey" : "paraguay|3 de febrero",
+      "relativePath" : "teams\/paraguay\/3-de-febrero.png",
+      "sourceURLString" : "https:\/\/r2.thesportsdb.com\/images\/media\/team\/badge\/x5ukz11611773151.png"
     },
     {
-      "countryName" : "Panama",
-      "displayName" : "San Martin Del Este",
+      "countryName" : "Paraguay",
+      "displayName" : "3 de Febrero de Ricardo Brugada",
       "entityType" : "team",
-      "leagueName" : "Liga Prom ( Division 2)",
+      "leagueName" : "Copa",
       "legacyLookupKeys" : [
-        "panama|liga-prom-division-2|san martin del este"
+        "paraguay|copa|3 de febrero de ricardo brugada"
       ],
-      "lookupKey" : "panama|san martin del este",
-      "relativePath" : "teams\/panama\/san-martin-del-este.png",
-      "sourceURLString" : "https:\/\/sportcdns.live\/team\/484445a3ecbc2a54ae0d1b2b4ff9ad79fe9a755cba30f48da6821dc85fc1ab1c.webp"
+      "lookupKey" : "paraguay|3 de febrero de ricardo brugada",
+      "relativePath" : "teams\/paraguay\/3-de-febrero-de-ricardo-brugada.png",
+      "sourceURLString" : "https:\/\/img.sofascore.com\/api\/v1\/team\/530402\/image"
     },
     {
-      "countryName" : "Panama",
-      "displayName" : "San Miguelito II",
+      "countryName" : "Paraguay",
+      "displayName" : "3 de Noviembre",
       "entityType" : "team",
-      "leagueName" : "Liga Prom ( Division 2)",
+      "leagueName" : "Segunda Division",
       "legacyLookupKeys" : [
-        "panama|liga-prom-division-2|san miguelito"
+        "paraguay|segunda-division|3 de noviembre"
       ],
-      "lookupKey" : "panama|san miguelito",
-      "relativePath" : "teams\/panama\/san-miguelito-ii.png",
-      "sourceURLString" : "https:\/\/sportcdns.live\/team\/454fc1e5b841983a4ecd1c68b95f88237683a0b9c653f6b71791b3483e551ca6.webp"
+      "lookupKey" : "paraguay|3 de noviembre",
+      "relativePath" : "teams\/paraguay\/3-de-noviembre.png",
+      "sourceURLString" : "https:\/\/r2.thesportsdb.com\/images\/media\/team\/badge\/etgkyh1730825318.png"
     },
     {
-      "countryName" : "Panama",
-      "displayName" : "SD Atl. Nacional",
+      "countryName" : "Paraguay",
+      "displayName" : "Atl. Juventud",
       "entityType" : "team",
-      "leagueName" : "Liga Prom ( Division 2)",
+      "leagueName" : "Copa",
       "legacyLookupKeys" : [
-        "panama|liga-prom-division-2|sd atl nacional"
+        "paraguay|copa|atl juventud"
       ],
-      "lookupKey" : "panama|sd atl nacional",
-      "relativePath" : "teams\/panama\/sd-atl-nacional.png",
-      "sourceURLString" : "https:\/\/sportcdns.live\/team\/e561aecb9703889b11a7787d76f682129c6720ed6f352e6a8a13688b7cc893d4.webp"
+      "lookupKey" : "paraguay|atl juventud",
+      "relativePath" : "teams\/paraguay\/atl-juventud.png",
+      "sourceURLString" : "https:\/\/r2.thesportsdb.com\/images\/media\/team\/badge\/9inmff1730847064.png"
     },
     {
-      "countryName" : "Panama",
-      "displayName" : "Udelas",
+      "countryName" : "Paraguay",
+      "displayName" : "Atlantida",
       "entityType" : "team",
-      "leagueName" : "Liga Prom ( Division 2)",
+      "leagueName" : "Copa",
       "legacyLookupKeys" : [
-        "panama|liga-prom-division-2|udelas"
+        "paraguay|copa|atlantida"
       ],
-      "lookupKey" : "panama|udelas",
-      "relativePath" : "teams\/panama\/udelas.png",
-      "sourceURLString" : "https:\/\/sportcdns.live\/team\/d5a1840ae4d8f345bad4f79a4ff371866db2dd5faa386d8be2d6d08db1538b02.webp"
+      "lookupKey" : "paraguay|atlantida",
+      "relativePath" : "teams\/paraguay\/atlantida.png",
+      "sourceURLString" : "https:\/\/r2.thesportsdb.com\/images\/media\/team\/badge\/w22k6j1730825977.png"
     },
     {
-      "countryName" : "Panama",
-      "displayName" : "UMECIT II",
+      "countryName" : "Paraguay",
+      "displayName" : "Atlantida SC",
       "entityType" : "team",
-      "leagueName" : "Liga Prom ( Division 2)",
+      "leagueName" : "Third Division",
       "legacyLookupKeys" : [
-        "panama|liga-prom-division-2|umecit"
+        "paraguay|third-division|atlantida sc"
       ],
-      "lookupKey" : "panama|umecit",
-      "relativePath" : "teams\/panama\/umecit-ii.png",
-      "sourceURLString" : "https:\/\/r2.thesportsdb.com\/images\/media\/team\/badge\/nhwml41674118697.png"
+      "lookupKey" : "paraguay|atlantida sc",
+      "relativePath" : "teams\/paraguay\/atlantida-sc.png",
+      "sourceURLString" : "https:\/\/r2.thesportsdb.com\/images\/media\/team\/badge\/w22k6j1730825977.png"
     },
     {
-      "countryName" : "Panama",
-      "displayName" : "Veraguas United II",
+      "countryName" : "Paraguay",
+      "displayName" : "Capitan Figari",
       "entityType" : "team",
-      "leagueName" : "Liga Prom ( Division 2)",
+      "leagueName" : "Copa",
       "legacyLookupKeys" : [
-        "panama|liga-prom-division-2|veraguas united"
+        "paraguay|copa|capitan figari"
       ],
-      "lookupKey" : "panama|veraguas united",
-      "relativePath" : "teams\/panama\/veraguas-united-ii.png",
-      "sourceURLString" : "https:\/\/r2.thesportsdb.com\/images\/media\/team\/badge\/zwx9x51649354013.png"
+      "lookupKey" : "paraguay|capitan figari",
+      "relativePath" : "teams\/paraguay\/capitan-figari.png",
+      "sourceURLString" : "https:\/\/r2.thesportsdb.com\/images\/media\/team\/badge\/vud5sw1730847231.png"
+    },
+    {
+      "countryName" : "Paraguay",
+      "displayName" : "Carapegua",
+      "entityType" : "team",
+      "leagueName" : "Segunda Division",
+      "legacyLookupKeys" : [
+        "paraguay|segunda-division|carapegua"
+      ],
+      "lookupKey" : "paraguay|carapegua",
+      "relativePath" : "teams\/paraguay\/carapegua.png",
+      "sourceURLString" : "https:\/\/r2.thesportsdb.com\/images\/media\/team\/badge\/tu0gn01674200414.png"
+    },
+    {
+      "countryName" : "Paraguay",
+      "displayName" : "Cristobal Colon",
+      "entityType" : "team",
+      "leagueName" : "Copa",
+      "legacyLookupKeys" : [
+        "paraguay|copa|cristobal colon"
+      ],
+      "lookupKey" : "paraguay|cristobal colon",
+      "relativePath" : "teams\/paraguay\/cristobal-colon.png",
+      "sourceURLString" : "https:\/\/img.sofascore.com\/api\/v1\/team\/318175\/image"
+    },
+    {
+      "countryName" : "Paraguay",
+      "displayName" : "Cristobal Colon de Nemby",
+      "entityType" : "team",
+      "leagueName" : "Copa",
+      "legacyLookupKeys" : [
+        "paraguay|copa|cristobal colon de nemby"
+      ],
+      "lookupKey" : "paraguay|cristobal colon de nemby",
+      "relativePath" : "teams\/paraguay\/cristobal-colon-de-nemby.png",
+      "sourceURLString" : "https:\/\/r2.thesportsdb.com\/images\/media\/team\/badge\/t3orpr1730832482.png"
+    },
+    {
+      "countryName" : "Paraguay",
+      "displayName" : "Cristobal Colon JAS",
+      "entityType" : "team",
+      "leagueName" : "Third Division",
+      "legacyLookupKeys" : [
+        "paraguay|third-division|cristobal colon jas"
+      ],
+      "lookupKey" : "paraguay|cristobal colon jas",
+      "relativePath" : "teams\/paraguay\/cristobal-colon-jas.png",
+      "sourceURLString" : "https:\/\/img.sofascore.com\/api\/v1\/team\/318175\/image"
+    },
+    {
+      "countryName" : "Paraguay",
+      "displayName" : "Dep. Minga Guazu",
+      "entityType" : "team",
+      "leagueName" : "Copa",
+      "legacyLookupKeys" : [
+        "paraguay|copa|dep minga guazu"
+      ],
+      "lookupKey" : "paraguay|dep minga guazu",
+      "relativePath" : "teams\/paraguay\/dep-minga-guazu.png",
+      "sourceURLString" : "https:\/\/r2.thesportsdb.com\/images\/media\/team\/badge\/l00inp1755990524.png"
+    },
+    {
+      "countryName" : "Paraguay",
+      "displayName" : "Dep. Pinoza",
+      "entityType" : "team",
+      "leagueName" : "Copa",
+      "legacyLookupKeys" : [
+        "paraguay|copa|dep pinoza"
+      ],
+      "lookupKey" : "paraguay|dep pinoza",
+      "relativePath" : "teams\/paraguay\/dep-pinoza.png",
+      "sourceURLString" : "https:\/\/r2.thesportsdb.com\/images\/media\/team\/badge\/j3uk1y1730847377.png"
+    },
+    {
+      "countryName" : "Paraguay",
+      "displayName" : "Dep. Recoleta II",
+      "entityType" : "team",
+      "leagueName" : "Reserve League",
+      "legacyLookupKeys" : [
+        "paraguay|reserve-league|dep recoleta"
+      ],
+      "lookupKey" : "paraguay|dep recoleta",
+      "relativePath" : "teams\/paraguay\/dep-recoleta-ii.png",
+      "sourceURLString" : "https:\/\/r2.thesportsdb.com\/images\/media\/team\/badge\/v68cg01735661603.png"
+    },
+    {
+      "countryName" : "Paraguay",
+      "displayName" : "Dep. Union",
+      "entityType" : "team",
+      "leagueName" : "Copa",
+      "legacyLookupKeys" : [
+        "paraguay|copa|dep union"
+      ],
+      "lookupKey" : "paraguay|dep union",
+      "relativePath" : "teams\/paraguay\/dep-union.png",
+      "sourceURLString" : "https:\/\/r2.thesportsdb.com\/images\/media\/team\/badge\/7y80jw1758647797.png"
+    },
+    {
+      "countryName" : "Paraguay",
+      "displayName" : "Encarnacion",
+      "entityType" : "team",
+      "leagueName" : "Segunda Division",
+      "legacyLookupKeys" : [
+        "paraguay|segunda-division|encarnacion"
+      ],
+      "lookupKey" : "paraguay|encarnacion",
+      "relativePath" : "teams\/paraguay\/encarnacion.png",
+      "sourceURLString" : "https:\/\/r2.thesportsdb.com\/images\/media\/team\/badge\/b299061730664719.png"
+    },
+    {
+      "countryName" : "Paraguay",
+      "displayName" : "Fernando de la Mora",
+      "entityType" : "team",
+      "leagueName" : "Segunda Division",
+      "legacyLookupKeys" : [
+        "paraguay|segunda-division|fernando de la mora"
+      ],
+      "lookupKey" : "paraguay|fernando de la mora",
+      "relativePath" : "teams\/paraguay\/fernando-de-la-mora.png",
+      "sourceURLString" : "https:\/\/r2.thesportsdb.com\/images\/media\/team\/badge\/cqc1is1611773168.png"
+    },
+    {
+      "countryName" : "Paraguay",
+      "displayName" : "Fulgencio Yegros",
+      "entityType" : "team",
+      "leagueName" : "Copa",
+      "legacyLookupKeys" : [
+        "paraguay|copa|fulgencio yegros"
+      ],
+      "lookupKey" : "paraguay|fulgencio yegros",
+      "relativePath" : "teams\/paraguay\/fulgencio-yegros.png",
+      "sourceURLString" : "https:\/\/r2.thesportsdb.com\/images\/media\/team\/badge\/umdg5m1611773172.png"
+    },
+    {
+      "countryName" : "Paraguay",
+      "displayName" : "General Caballero",
+      "entityType" : "team",
+      "leagueName" : "Segunda Division",
+      "legacyLookupKeys" : [
+        "paraguay|segunda-division|general caballero"
+      ],
+      "lookupKey" : "paraguay|general caballero",
+      "relativePath" : "teams\/paraguay\/general-caballero.png",
+      "sourceURLString" : "https:\/\/r2.thesportsdb.com\/images\/media\/team\/badge\/2prn101678717641.png"
+    },
+    {
+      "countryName" : "Paraguay",
+      "displayName" : "General Caballero de Campo Grande",
+      "entityType" : "team",
+      "leagueName" : "Copa",
+      "legacyLookupKeys" : [
+        "paraguay|copa|general caballero de campo grande"
+      ],
+      "lookupKey" : "paraguay|general caballero de campo grande",
+      "relativePath" : "teams\/paraguay\/general-caballero-de-campo-grande.png",
+      "sourceURLString" : "https:\/\/r2.thesportsdb.com\/images\/media\/team\/badge\/duwv301750189852.png"
+    },
+    {
+      "countryName" : "Paraguay",
+      "displayName" : "General Caballero de Zeballos Cue",
+      "entityType" : "team",
+      "leagueName" : "Copa",
+      "legacyLookupKeys" : [
+        "paraguay|copa|general caballero de zeballos cue"
+      ],
+      "lookupKey" : "paraguay|general caballero de zeballos cue",
+      "relativePath" : "teams\/paraguay\/general-caballero-de-zeballos-cue.png",
+      "sourceURLString" : "https:\/\/r2.thesportsdb.com\/images\/media\/team\/badge\/fd090l1730847553.png"
+    },
+    {
+      "countryName" : "Paraguay",
+      "displayName" : "General Caballero JLM",
+      "entityType" : "team",
+      "leagueName" : "Copa",
+      "legacyLookupKeys" : [
+        "paraguay|copa|general caballero jlm"
+      ],
+      "lookupKey" : "paraguay|general caballero jlm",
+      "relativePath" : "teams\/paraguay\/general-caballero-jlm.png",
+      "sourceURLString" : "https:\/\/r2.thesportsdb.com\/images\/media\/team\/badge\/2prn101678717641.png"
+    },
+    {
+      "countryName" : "Paraguay",
+      "displayName" : "General Diaz",
+      "entityType" : "team",
+      "leagueName" : "Copa",
+      "legacyLookupKeys" : [
+        "paraguay|copa|general diaz"
+      ],
+      "lookupKey" : "paraguay|general diaz",
+      "relativePath" : "teams\/paraguay\/general-diaz.png",
+      "sourceURLString" : "https:\/\/r2.thesportsdb.com\/images\/media\/team\/badge\/nqiwoz1579989406.png"
+    },
+    {
+      "countryName" : "Paraguay",
+      "displayName" : "Guarani Asuncion II",
+      "entityType" : "team",
+      "leagueName" : "Reserve League",
+      "legacyLookupKeys" : [
+        "paraguay|reserve-league|guarani asuncion"
+      ],
+      "lookupKey" : "paraguay|guarani asuncion",
+      "relativePath" : "teams\/paraguay\/guarani-asuncion-ii.png",
+      "sourceURLString" : "https:\/\/r2.thesportsdb.com\/images\/media\/team\/badge\/rlsr7u1579989354.png\/medium"
+    },
+    {
+      "countryName" : "Paraguay",
+      "displayName" : "Guarani de Fram",
+      "entityType" : "team",
+      "leagueName" : "Copa",
+      "legacyLookupKeys" : [
+        "paraguay|copa|guarani de fram"
+      ],
+      "lookupKey" : "paraguay|guarani de fram",
+      "relativePath" : "teams\/paraguay\/guarani-de-fram.png",
+      "sourceURLString" : "https:\/\/r2.thesportsdb.com\/images\/media\/team\/badge\/p7l11t1739505876.png"
+    },
+    {
+      "countryName" : "Paraguay",
+      "displayName" : "Independiente de Julian Augusto Saldivar",
+      "entityType" : "team",
+      "leagueName" : "Copa",
+      "legacyLookupKeys" : [
+        "paraguay|copa|independiente de julian augusto saldivar"
+      ],
+      "lookupKey" : "paraguay|independiente de julian augusto saldivar",
+      "relativePath" : "teams\/paraguay\/independiente-de-julian-augusto-saldivar.png",
+      "sourceURLString" : "https:\/\/r2.thesportsdb.com\/images\/media\/team\/badge\/sjord81758647095.png"
+    },
+    {
+      "countryName" : "Paraguay",
+      "displayName" : "Independiente FBC",
+      "entityType" : "team",
+      "leagueName" : "Segunda Division",
+      "legacyLookupKeys" : [
+        "paraguay|segunda-division|independiente fbc"
+      ],
+      "lookupKey" : "paraguay|independiente fbc",
+      "relativePath" : "teams\/paraguay\/independiente-fbc.png",
+      "sourceURLString" : "https:\/\/r2.thesportsdb.com\/images\/media\/team\/badge\/k7pm0p1611773184.png"
+    },
+    {
+      "countryName" : "Paraguay",
+      "displayName" : "Libertad Asuncion II",
+      "entityType" : "team",
+      "leagueName" : "Reserve League",
+      "legacyLookupKeys" : [
+        "paraguay|reserve-league|libertad asuncion"
+      ],
+      "lookupKey" : "paraguay|libertad asuncion",
+      "relativePath" : "teams\/paraguay\/libertad-asuncion-ii.png",
+      "sourceURLString" : "https:\/\/r2.thesportsdb.com\/images\/media\/team\/badge\/np5lsg1579989360.png\/medium"
+    },
+    {
+      "countryName" : "Paraguay",
+      "displayName" : "Libertad Limpeno Frauen",
+      "entityType" : "team",
+      "leagueName" : "Frauen",
+      "legacyLookupKeys" : [
+        "paraguay|frauen|libertad limpeno"
+      ],
+      "lookupKey" : "paraguay|libertad limpeno",
+      "relativePath" : "teams\/paraguay\/libertad-limpeno-frauen.png",
+      "sourceURLString" : "https:\/\/img.sofascore.com\/api\/v1\/team\/318566\/image"
+    },
+    {
+      "countryName" : "Paraguay",
+      "displayName" : "Luqueno II",
+      "entityType" : "team",
+      "leagueName" : "Reserve League",
+      "legacyLookupKeys" : [
+        "paraguay|reserve-league|luqueno"
+      ],
+      "lookupKey" : "paraguay|luqueno",
+      "relativePath" : "teams\/paraguay\/luqueno-ii.png",
+      "sourceURLString" : "https:\/\/r2.thesportsdb.com\/images\/media\/team\/badge\/nsmlja1579991077.png"
+    },
+    {
+      "countryName" : "Paraguay",
+      "displayName" : "Nacional Asuncion",
+      "entityType" : "team",
+      "leagueName" : "Primera División",
+      "legacyLookupKeys" : [
+        "paraguay|primera-division|nacional asuncion"
+      ],
+      "lookupKey" : "paraguay|nacional asuncion",
+      "relativePath" : "teams\/paraguay\/nacional-asuncion.png",
+      "sourceURLString" : "https:\/\/r2.thesportsdb.com\/images\/media\/team\/badge\/uv7z921579989369.png"
+    },
+    {
+      "countryName" : "Paraguay",
+      "displayName" : "Nacional Humaita Frauen",
+      "entityType" : "team",
+      "leagueName" : "Frauen",
+      "legacyLookupKeys" : [
+        "paraguay|frauen|nacional humaita"
+      ],
+      "lookupKey" : "paraguay|nacional humaita",
+      "relativePath" : "teams\/paraguay\/nacional-humaita-frauen.png",
+      "sourceURLString" : "https:\/\/img.sofascore.com\/api\/v1\/team\/326686\/image"
+    },
+    {
+      "countryName" : "Paraguay",
+      "displayName" : "Oriental",
+      "entityType" : "team",
+      "leagueName" : "Copa",
+      "legacyLookupKeys" : [
+        "paraguay|copa|oriental"
+      ],
+      "lookupKey" : "paraguay|oriental",
+      "relativePath" : "teams\/paraguay\/oriental.png",
+      "sourceURLString" : "https:\/\/r2.thesportsdb.com\/images\/media\/team\/badge\/w2ipgb1730906984.png\/medium"
+    },
+    {
+      "countryName" : "Paraguay",
+      "displayName" : "Paraguari AC",
+      "entityType" : "team",
+      "leagueName" : "Segunda Division",
+      "legacyLookupKeys" : [
+        "paraguay|segunda-division|paraguari ac"
+      ],
+      "lookupKey" : "paraguay|paraguari ac",
+      "relativePath" : "teams\/paraguay\/paraguari-ac.png",
+      "sourceURLString" : "https:\/\/r2.thesportsdb.com\/images\/media\/team\/badge\/hxtrx21773678717.png"
+    },
+    {
+      "countryName" : "Paraguay",
+      "displayName" : "Pastoreo",
+      "entityType" : "team",
+      "leagueName" : "Copa",
+      "legacyLookupKeys" : [
+        "paraguay|copa|pastoreo"
+      ],
+      "lookupKey" : "paraguay|pastoreo",
+      "relativePath" : "teams\/paraguay\/pastoreo.png",
+      "sourceURLString" : "https:\/\/r2.thesportsdb.com\/images\/media\/team\/badge\/i7h75c1640225688.png"
+    },
+    {
+      "countryName" : "Paraguay",
+      "displayName" : "Pilcomayo",
+      "entityType" : "team",
+      "leagueName" : "Copa",
+      "legacyLookupKeys" : [
+        "paraguay|copa|pilcomayo"
+      ],
+      "lookupKey" : "paraguay|pilcomayo",
+      "relativePath" : "teams\/paraguay\/pilcomayo.png",
+      "sourceURLString" : "https:\/\/r2.thesportsdb.com\/images\/media\/team\/badge\/w1r7dy1730907191.png"
+    },
+    {
+      "countryName" : "Paraguay",
+      "displayName" : "Rubio Nu",
+      "entityType" : "team",
+      "leagueName" : "Primera División",
+      "legacyLookupKeys" : [
+        "paraguay|primera-division|rubio nu"
+      ],
+      "lookupKey" : "paraguay|rubio nu",
+      "relativePath" : "teams\/paraguay\/rubio-nu.png",
+      "sourceURLString" : "https:\/\/r2.thesportsdb.com\/images\/media\/team\/badge\/49iqvp1611773192.png"
+    },
+    {
+      "countryName" : "Paraguay",
+      "displayName" : "San Lorenzo",
+      "entityType" : "team",
+      "leagueName" : "Primera División",
+      "legacyLookupKeys" : [
+        "paraguay|primera-division|san lorenzo"
+      ],
+      "lookupKey" : "paraguay|san lorenzo",
+      "relativePath" : "teams\/paraguay\/san-lorenzo.png",
+      "sourceURLString" : "https:\/\/r2.thesportsdb.com\/images\/media\/team\/badge\/yi6fi91579991071.png"
+    },
+    {
+      "countryName" : "Paraguay",
+      "displayName" : "Sol de America",
+      "entityType" : "team",
+      "leagueName" : "Segunda Division",
+      "legacyLookupKeys" : [
+        "paraguay|segunda-division|sol de america"
+      ],
+      "lookupKey" : "paraguay|sol de america",
+      "relativePath" : "teams\/paraguay\/sol-de-america.png",
+      "sourceURLString" : "https:\/\/r2.thesportsdb.com\/images\/media\/team\/badge\/262lff1579989421.png"
+    },
+    {
+      "countryName" : "Paraguay",
+      "displayName" : "Sport Colonial",
+      "entityType" : "team",
+      "leagueName" : "Copa",
+      "legacyLookupKeys" : [
+        "paraguay|copa|sport colonial"
+      ],
+      "lookupKey" : "paraguay|sport colonial",
+      "relativePath" : "teams\/paraguay\/sport-colonial.png",
+      "sourceURLString" : "https:\/\/r2.thesportsdb.com\/images\/media\/team\/badge\/80609v1730907500.png"
+    },
+    {
+      "countryName" : "Paraguay",
+      "displayName" : "Sportivo Carapegua",
+      "entityType" : "team",
+      "leagueName" : "Copa",
+      "legacyLookupKeys" : [
+        "paraguay|copa|sportivo carapegua"
+      ],
+      "lookupKey" : "paraguay|sportivo carapegua",
+      "relativePath" : "teams\/paraguay\/sportivo-carapegua.png",
+      "sourceURLString" : "https:\/\/r2.thesportsdb.com\/images\/media\/team\/badge\/tu0gn01674200414.png"
+    },
+    {
+      "countryName" : "Paraguay",
+      "displayName" : "Sportivo San Pedro",
+      "entityType" : "team",
+      "leagueName" : "Copa",
+      "legacyLookupKeys" : [
+        "paraguay|copa|sportivo san pedro"
+      ],
+      "lookupKey" : "paraguay|sportivo san pedro",
+      "relativePath" : "teams\/paraguay\/sportivo-san-pedro.png",
+      "sourceURLString" : "https:\/\/r2.thesportsdb.com\/images\/media\/team\/badge\/9121wl1733092485.png"
+    },
+    {
+      "countryName" : "Paraguay",
+      "displayName" : "Sportivo Trinidense",
+      "entityType" : "team",
+      "leagueName" : "Primera División",
+      "legacyLookupKeys" : [
+        "paraguay|primera-division|sportivo trinidense"
+      ],
+      "lookupKey" : "paraguay|sportivo trinidense",
+      "relativePath" : "teams\/paraguay\/sportivo-trinidense.png",
+      "sourceURLString" : "https:\/\/r2.thesportsdb.com\/images\/media\/team\/badge\/oi8bxo1766423607.png"
+    },
+    {
+      "countryName" : "Paraguay",
+      "displayName" : "Torres Cue",
+      "entityType" : "team",
+      "leagueName" : "Copa",
+      "legacyLookupKeys" : [
+        "paraguay|copa|torres cue"
+      ],
+      "lookupKey" : "paraguay|torres cue",
+      "relativePath" : "teams\/paraguay\/torres-cue.png",
+      "sourceURLString" : "https:\/\/r2.thesportsdb.com\/images\/media\/team\/badge\/lzdev11758648497.png"
     }
   ],
-  "generatedAt" : "2026-04-22T20:04:56Z"
+  "generatedAt" : "2026-04-22T21:06:05Z"
 }
