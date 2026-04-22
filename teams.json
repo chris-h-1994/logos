@@ -1,100 +1,68 @@
 {
   "entries" : [
     {
-      "countryName" : "Ecuador",
-      "displayName" : "CD El Nacional",
-      "entityType" : "team",
-      "leagueName" : "Copa",
       "legacyLookupKeys" : [
         "ecuador|copa|cd el nacional"
       ],
       "lookupKey" : "ecuador|cd el nacional",
-      "relativePath" : "teams\/ecuador\/cd-el-nacional.png",
-      "sourceURLString" : "https:\/\/r2.thesportsdb.com\/images\/media\/team\/badge\/d1bstv1736221692.png\/medium"
+      "relativePath" : "teams\/ecuador\/cd-el-nacional.png"
     },
     {
-      "countryName" : "Ecuador",
-      "displayName" : "CD Espuce Frauen",
-      "entityType" : "team",
-      "leagueName" : "Superliga Women",
       "legacyLookupKeys" : [
         "ecuador|superliga-women|cd espuce"
       ],
       "lookupKey" : "ecuador|cd espuce",
-      "relativePath" : "teams\/ecuador\/cd-espuce-frauen.png",
-      "sourceURLString" : "https:\/\/upload.wikimedia.org\/wikipedia\/lt\/8\/83\/Espuce_Fútbol_Club_logo.png"
+      "relativePath" : "teams\/ecuador\/cd-espuce-frauen.png"
     },
     {
-      "countryName" : "Ecuador",
-      "displayName" : "Dep. Santo Domingo",
-      "entityType" : "team",
-      "leagueName" : "Copa",
       "legacyLookupKeys" : [
         "ecuador|copa|dep santo domingo"
       ],
       "lookupKey" : "ecuador|dep santo domingo",
-      "relativePath" : "teams\/ecuador\/dep-santo-domingo.png",
-      "sourceURLString" : "https:\/\/r2.thesportsdb.com\/images\/media\/team\/badge\/ctqfvg1750468510.png\/medium"
+      "relativePath" : "teams\/ecuador\/dep-santo-domingo.png"
     },
     {
-      "countryName" : "Ecuador",
-      "displayName" : "El Nacional Frauen",
-      "entityType" : "team",
-      "leagueName" : "Superliga Women",
       "legacyLookupKeys" : [
         "ecuador|superliga-women|el nacional"
       ],
       "lookupKey" : "ecuador|el nacional",
-      "relativePath" : "teams\/ecuador\/el-nacional-frauen.png",
-      "sourceURLString" : "https:\/\/r2.thesportsdb.com\/images\/media\/team\/badge\/d1bstv1736221692.png\/medium"
+      "relativePath" : "teams\/ecuador\/el-nacional-frauen.png"
     },
     {
-      "countryName" : "Ecuador",
-      "displayName" : "Ind. Juniors",
-      "entityType" : "team",
-      "leagueName" : "Copa",
       "legacyLookupKeys" : [
         "ecuador|copa|ind juniors"
       ],
       "lookupKey" : "ecuador|ind juniors",
-      "relativePath" : "teams\/ecuador\/ind-juniors.png",
-      "sourceURLString" : "https:\/\/r2.thesportsdb.com\/images\/media\/team\/badge\/fwtb9j1615839275.png\/medium"
+      "relativePath" : "teams\/ecuador\/ind-juniors.png"
     },
     {
-      "countryName" : "Ecuador",
-      "displayName" : "LDU Quito Frauen",
-      "entityType" : "team",
-      "leagueName" : "Superliga Women",
       "legacyLookupKeys" : [
         "ecuador|superliga-women|ldu quito"
       ],
       "lookupKey" : "ecuador|ldu quito",
-      "relativePath" : "teams\/ecuador\/ldu-quito-frauen.png",
-      "sourceURLString" : "https:\/\/r2.thesportsdb.com\/images\/media\/team\/badge\/5tf5ch1736404372.png"
+      "relativePath" : "teams\/ecuador\/ldu-quito-frauen.png"
     },
     {
-      "countryName" : "Ecuador",
-      "displayName" : "Leones Del Norte",
-      "entityType" : "team",
-      "leagueName" : "Serie A",
       "legacyLookupKeys" : [
         "ecuador|serie-a|leones del norte"
       ],
       "lookupKey" : "ecuador|leones del norte",
-      "relativePath" : "teams\/ecuador\/leones-del-norte.png",
-      "sourceURLString" : "https:\/\/r2.thesportsdb.com\/images\/media\/team\/badge\/q8yw9a1734021908.png"
+      "relativePath" : "teams\/ecuador\/leones-del-norte.png"
     },
     {
-      "countryName" : "Ecuador",
-      "displayName" : "Superliga Women",
-      "entityType" : "league",
       "legacyLookupKeys" : [
         "ecuador|superliga-women"
       ],
       "lookupKey" : "league|ecuador|superliga-women",
-      "relativePath" : "leagues\/ecuador\/superliga-women.png",
-      "sourceURLString" : "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/3\/37\/Ecuadorian_football_-_Women%27s_S%C3%BAperliga_%28wordm%2Bnologo%29.svg\/1280px-Ecuadorian_football_-_Women%27s_S%C3%BAperliga_%28wordm%2Bnologo%29.svg.png"
+      "relativePath" : "leagues\/ecuador\/superliga-women.png"
+    },
+    {
+      "legacyLookupKeys" : [
+        "el-salvador|segunda-division"
+      ],
+      "lookupKey" : "league|el-salvador|segunda-division",
+      "relativePath" : "leagues\/el-salvador\/segunda-division.png"
     }
   ],
-  "generatedAt" : "2026-04-22T14:19:11Z"
+  "generatedAt" : "2026-04-22T15:10:46Z"
 }
