@@ -1,137 +1,519 @@
 {
   "entries" : [
     {
-      "countryName" : "Ecuador",
-      "displayName" : "Astillero FC",
+      "countryName" : "Bolivien",
+      "displayName" : "Chaco",
       "entityType" : "team",
-      "leagueName" : "Copa",
+      "leagueName" : "N Nacional B Copa Simon Bolivar",
       "legacyLookupKeys" : [
-        "ecuador|copa|astillero fc"
+        "bolivien|n-nacional-b-copa-simon-bolivar|chaco"
       ],
-      "lookupKey" : "ecuador|astillero fc",
-      "relativePath" : "teams\/ecuador\/astillero-fc.png",
-      "sourceURLString" : "https:\/\/r2.thesportsdb.com\/images\/media\/team\/badge\/793nqb1775231424.png"
+      "lookupKey" : "bolivien|chaco",
+      "relativePath" : "teams\/bolivien\/chaco.png",
+      "sourceURLString" : "https:\/\/r2.thesportsdb.com\/images\/media\/team\/badge\/norare1757828509.png"
     },
     {
-      "countryName" : "Ecuador",
-      "displayName" : "Cde Juventud Italiana",
+      "countryName" : "Bolivien",
+      "displayName" : "Chocorosi",
       "entityType" : "team",
-      "leagueName" : "Copa",
+      "leagueName" : "N Nacional B Copa Simon Bolivar",
       "legacyLookupKeys" : [
-        "ecuador|copa|cde juventud italiana"
+        "bolivien|n-nacional-b-copa-simon-bolivar|chocorosi"
       ],
-      "lookupKey" : "ecuador|cde juventud italiana",
-      "relativePath" : "teams\/ecuador\/cde-juventud-italiana.png",
-      "sourceURLString" : "https:\/\/r2.thesportsdb.com\/images\/media\/team\/badge\/58tg5x1775233473.png"
+      "lookupKey" : "bolivien|chocorosi",
+      "relativePath" : "teams\/bolivien\/chocorosi.png",
+      "sourceURLString" : "https:\/\/r2.thesportsdb.com\/images\/media\/team\/badge\/5lmfoi1759012761.png"
     },
     {
-      "countryName" : "Ecuador",
-      "displayName" : "Daquilema FC",
+      "countryName" : "Bolivien",
+      "displayName" : "Ciudad Nueva",
       "entityType" : "team",
-      "leagueName" : "Copa",
+      "leagueName" : "N Nacional B Copa Simon Bolivar",
       "legacyLookupKeys" : [
-        "ecuador|copa|daquilema fc"
+        "bolivien|n-nacional-b-copa-simon-bolivar|ciudad nueva"
       ],
-      "lookupKey" : "ecuador|daquilema fc",
-      "relativePath" : "teams\/ecuador\/daquilema-fc.png",
-      "sourceURLString" : "https:\/\/r2.thesportsdb.com\/images\/media\/team\/badge\/21zqgz1775231661.png"
+      "lookupKey" : "bolivien|ciudad nueva",
+      "relativePath" : "teams\/bolivien\/ciudad-nueva.png",
+      "sourceURLString" : "https:\/\/r2.thesportsdb.com\/images\/media\/team\/badge\/zy26uj1730946690.png"
     },
     {
-      "countryName" : "Ecuador",
-      "displayName" : "Dep. Ibarra",
+      "countryName" : "Bolivien",
+      "displayName" : "Dep. Shalo",
       "entityType" : "team",
-      "leagueName" : "Copa",
+      "leagueName" : "N Nacional B Copa Simon Bolivar",
       "legacyLookupKeys" : [
-        "ecuador|copa|dep ibarra"
+        "bolivien|n-nacional-b-copa-simon-bolivar|dep shalo"
       ],
-      "lookupKey" : "ecuador|dep ibarra",
-      "relativePath" : "teams\/ecuador\/dep-ibarra.png",
-      "sourceURLString" : "https:\/\/r2.thesportsdb.com\/images\/media\/team\/badge\/sc2heg1750468413.png"
+      "lookupKey" : "bolivien|dep shalo",
+      "relativePath" : "teams\/bolivien\/dep-shalo.png",
+      "sourceURLString" : "https:\/\/r2.thesportsdb.com\/images\/media\/team\/badge\/30tya41662491056.png"
     },
     {
-      "countryName" : "Ecuador",
-      "displayName" : "FC Insutec",
+      "countryName" : "Bolivien",
+      "displayName" : "Fancesa",
       "entityType" : "team",
-      "leagueName" : "Copa",
+      "leagueName" : "N Nacional B Copa Simon Bolivar",
       "legacyLookupKeys" : [
-        "ecuador|copa|fc insutec"
+        "bolivien|n-nacional-b-copa-simon-bolivar|fancesa"
       ],
-      "lookupKey" : "ecuador|fc insutec",
-      "relativePath" : "teams\/ecuador\/fc-insutec.png",
-      "sourceURLString" : "https:\/\/r2.thesportsdb.com\/images\/media\/team\/badge\/pdeiyp1775233196.png"
+      "lookupKey" : "bolivien|fancesa",
+      "relativePath" : "teams\/bolivien\/fancesa.png",
+      "sourceURLString" : "https:\/\/r2.thesportsdb.com\/images\/media\/team\/badge\/5ovuwf1614284882.png"
     },
     {
-      "countryName" : "Ecuador",
-      "displayName" : "Guaranda FC",
+      "countryName" : "Bolivien",
+      "displayName" : "Guadalajara de Qaqachaca",
       "entityType" : "team",
-      "leagueName" : "Copa",
+      "leagueName" : "N Nacional B Copa Simon Bolivar",
       "legacyLookupKeys" : [
-        "ecuador|copa|guaranda fc"
+        "bolivien|n-nacional-b-copa-simon-bolivar|guadalajara de qaqachaca"
       ],
-      "lookupKey" : "ecuador|guaranda fc",
-      "relativePath" : "teams\/ecuador\/guaranda-fc.png",
-      "sourceURLString" : "https:\/\/r2.thesportsdb.com\/images\/media\/team\/badge\/6egsx61775232766.png"
+      "lookupKey" : "bolivien|guadalajara de qaqachaca",
+      "relativePath" : "teams\/bolivien\/guadalajara-de-qaqachaca.png",
+      "sourceURLString" : "https:\/\/r2.thesportsdb.com\/images\/media\/team\/badge\/r1piyh1759012349.png"
     },
     {
-      "countryName" : "Ecuador",
-      "displayName" : "Huaquillas FC",
+      "countryName" : "Bolivien",
+      "displayName" : "IN San Juan",
       "entityType" : "team",
-      "leagueName" : "Copa",
+      "leagueName" : "N Nacional B Copa Simon Bolivar",
       "legacyLookupKeys" : [
-        "ecuador|copa|huaquillas fc"
+        "bolivien|n-nacional-b-copa-simon-bolivar|in san juan"
       ],
-      "lookupKey" : "ecuador|huaquillas fc",
-      "relativePath" : "teams\/ecuador\/huaquillas-fc.png",
-      "sourceURLString" : "https:\/\/r2.thesportsdb.com\/images\/media\/team\/badge\/7pn2hw1750468804.png"
+      "lookupKey" : "bolivien|in san juan",
+      "relativePath" : "teams\/bolivien\/in-san-juan.png",
+      "sourceURLString" : "https:\/\/r2.thesportsdb.com\/images\/media\/team\/badge\/irtcx21757829256.png"
     },
     {
-      "countryName" : "Ecuador",
-      "displayName" : "Ind. Azogues",
+      "countryName" : "Bolivien",
+      "displayName" : "Ingenieros",
       "entityType" : "team",
-      "leagueName" : "Copa",
+      "leagueName" : "N Nacional B Copa Simon Bolivar",
       "legacyLookupKeys" : [
-        "ecuador|copa|ind azogues"
+        "bolivien|n-nacional-b-copa-simon-bolivar|ingenieros"
       ],
-      "lookupKey" : "ecuador|ind azogues",
-      "relativePath" : "teams\/ecuador\/ind-azogues.png",
-      "sourceURLString" : "https:\/\/r2.thesportsdb.com\/images\/media\/team\/badge\/gl1heo1775233043.png"
+      "lookupKey" : "bolivien|ingenieros",
+      "relativePath" : "teams\/bolivien\/ingenieros.png",
+      "sourceURLString" : "https:\/\/r2.thesportsdb.com\/images\/media\/team\/badge\/bl9vxp1759013798.png"
     },
     {
-      "countryName" : "Ecuador",
-      "displayName" : "Rio Aguarico FC",
+      "countryName" : "Bolivien",
+      "displayName" : "Ingenio",
       "entityType" : "team",
-      "leagueName" : "Copa",
+      "leagueName" : "N Nacional B Copa Simon Bolivar",
       "legacyLookupKeys" : [
-        "ecuador|copa|rio aguarico fc"
+        "bolivien|n-nacional-b-copa-simon-bolivar|ingenio"
       ],
-      "lookupKey" : "ecuador|rio aguarico fc",
-      "relativePath" : "teams\/ecuador\/rio-aguarico-fc.png",
-      "sourceURLString" : "https:\/\/r2.thesportsdb.com\/images\/media\/team\/badge\/mru8cp1750471178.png"
+      "lookupKey" : "bolivien|ingenio",
+      "relativePath" : "teams\/bolivien\/ingenio.png",
+      "sourceURLString" : "https:\/\/r2.thesportsdb.com\/images\/media\/team\/badge\/ocj5231759012959.png"
     },
     {
-      "countryName" : "Ecuador",
-      "displayName" : "Udj de Quinindé",
+      "countryName" : "Bolivien",
+      "displayName" : "Municipal de Tarija",
       "entityType" : "team",
-      "leagueName" : "Copa",
+      "leagueName" : "N Nacional B Copa Simon Bolivar",
       "legacyLookupKeys" : [
-        "ecuador|copa|udj de quininde"
+        "bolivien|n-nacional-b-copa-simon-bolivar|municipal de tarija"
       ],
-      "lookupKey" : "ecuador|udj de quininde",
-      "relativePath" : "teams\/ecuador\/udj-de-quininde.png",
-      "sourceURLString" : "https:\/\/r2.thesportsdb.com\/images\/media\/team\/badge\/wak3e31775235785.png"
+      "lookupKey" : "bolivien|municipal de tarija",
+      "relativePath" : "teams\/bolivien\/municipal-de-tarija.png",
+      "sourceURLString" : "https:\/\/r2.thesportsdb.com\/images\/media\/team\/badge\/ebd41c1759013525.png"
     },
     {
-      "countryName" : "Mittelamerika",
-      "displayName" : "Dep. Toluca",
+      "countryName" : "Bolivien",
+      "displayName" : "Municipal Tiquipaya",
       "entityType" : "team",
-      "leagueName" : "Concacaf Champions Cup",
+      "leagueName" : "N Nacional B Copa Simon Bolivar",
       "legacyLookupKeys" : [
-        "mittelamerika|concacaf-champions-cup|dep toluca"
+        "bolivien|n-nacional-b-copa-simon-bolivar|municipal tiquipaya"
       ],
-      "lookupKey" : "mittelamerika|dep toluca",
-      "relativePath" : "teams\/mittelamerika\/dep-toluca.png",
-      "sourceURLString" : "https:\/\/r2.thesportsdb.com\/images\/media\/team\/badge\/y64wy91523913186.png"
+      "lookupKey" : "bolivien|municipal tiquipaya",
+      "relativePath" : "teams\/bolivien\/municipal-tiquipaya.png",
+      "sourceURLString" : "https:\/\/r2.thesportsdb.com\/images\/media\/team\/badge\/3xudz61614284900.png"
+    },
+    {
+      "countryName" : "Bolivien",
+      "displayName" : "Nacional Sucre",
+      "entityType" : "team",
+      "leagueName" : "N Nacional B Copa Simon Bolivar",
+      "legacyLookupKeys" : [
+        "bolivien|n-nacional-b-copa-simon-bolivar|nacional sucre"
+      ],
+      "lookupKey" : "bolivien|nacional sucre",
+      "relativePath" : "teams\/bolivien\/nacional-sucre.png",
+      "sourceURLString" : "https:\/\/r2.thesportsdb.com\/images\/media\/team\/badge\/6akbge1759013366.png"
+    },
+    {
+      "countryName" : "Bolivien",
+      "displayName" : "Nueva Cliza",
+      "entityType" : "team",
+      "leagueName" : "N Nacional B Copa Simon Bolivar",
+      "legacyLookupKeys" : [
+        "bolivien|n-nacional-b-copa-simon-bolivar|nueva cliza"
+      ],
+      "lookupKey" : "bolivien|nueva cliza",
+      "relativePath" : "teams\/bolivien\/nueva-cliza.png",
+      "sourceURLString" : "https:\/\/r2.thesportsdb.com\/images\/media\/team\/badge\/80k43j1662491072.png"
+    },
+    {
+      "countryName" : "Bolivien",
+      "displayName" : "Olympic FC Cochabamba",
+      "entityType" : "team",
+      "leagueName" : "N Nacional B Copa Simon Bolivar",
+      "legacyLookupKeys" : [
+        "bolivien|n-nacional-b-copa-simon-bolivar|olympic fc cochabamba"
+      ],
+      "lookupKey" : "bolivien|olympic fc cochabamba",
+      "relativePath" : "teams\/bolivien\/olympic-fc-cochabamba.png",
+      "sourceURLString" : "https:\/\/r2.thesportsdb.com\/images\/media\/team\/badge\/npun0w1759013168.png"
+    },
+    {
+      "countryName" : "Bolivien",
+      "displayName" : "Primero de Mayo",
+      "entityType" : "team",
+      "leagueName" : "N Nacional B Copa Simon Bolivar",
+      "legacyLookupKeys" : [
+        "bolivien|n-nacional-b-copa-simon-bolivar|primero de mayo"
+      ],
+      "lookupKey" : "bolivien|primero de mayo",
+      "relativePath" : "teams\/bolivien\/primero-de-mayo.png",
+      "sourceURLString" : "https:\/\/r2.thesportsdb.com\/images\/media\/team\/badge\/sast0m1757828990.png"
+    },
+    {
+      "countryName" : "Bolivien",
+      "displayName" : "Pucarani",
+      "entityType" : "team",
+      "leagueName" : "N Nacional B Copa Simon Bolivar",
+      "legacyLookupKeys" : [
+        "bolivien|n-nacional-b-copa-simon-bolivar|pucarani"
+      ],
+      "lookupKey" : "bolivien|pucarani",
+      "relativePath" : "teams\/bolivien\/pucarani.png",
+      "sourceURLString" : "https:\/\/r2.thesportsdb.com\/images\/media\/team\/badge\/2o73vn1759014136.png"
+    },
+    {
+      "countryName" : "Bolivien",
+      "displayName" : "Rio San Juan Humi",
+      "entityType" : "team",
+      "leagueName" : "N Nacional B Copa Simon Bolivar",
+      "legacyLookupKeys" : [
+        "bolivien|n-nacional-b-copa-simon-bolivar|rio san juan humi"
+      ],
+      "lookupKey" : "bolivien|rio san juan humi",
+      "relativePath" : "teams\/bolivien\/rio-san-juan-humi.png",
+      "sourceURLString" : "https:\/\/r2.thesportsdb.com\/images\/media\/team\/badge\/1gyd811730950818.png"
+    },
+    {
+      "countryName" : "Bolivien",
+      "displayName" : "Torre Fuerte",
+      "entityType" : "team",
+      "leagueName" : "N Nacional B Copa Simon Bolivar",
+      "legacyLookupKeys" : [
+        "bolivien|n-nacional-b-copa-simon-bolivar|torre fuerte"
+      ],
+      "lookupKey" : "bolivien|torre fuerte",
+      "relativePath" : "teams\/bolivien\/torre-fuerte.png",
+      "sourceURLString" : "https:\/\/r2.thesportsdb.com\/images\/media\/team\/badge\/6nai321614284937.png"
+    },
+    {
+      "countryName" : "Bolivien",
+      "displayName" : "Union Tarija",
+      "entityType" : "team",
+      "leagueName" : "N Nacional B Copa Simon Bolivar",
+      "legacyLookupKeys" : [
+        "bolivien|n-nacional-b-copa-simon-bolivar|union tarija"
+      ],
+      "lookupKey" : "bolivien|union tarija",
+      "relativePath" : "teams\/bolivien\/union-tarija.png",
+      "sourceURLString" : "https:\/\/r2.thesportsdb.com\/images\/media\/team\/badge\/q9tz601759014298.png"
+    },
+    {
+      "countryName" : "Bolivien",
+      "displayName" : "Universitario de Pando",
+      "entityType" : "team",
+      "leagueName" : "N Nacional B Copa Simon Bolivar",
+      "legacyLookupKeys" : [
+        "bolivien|n-nacional-b-copa-simon-bolivar|universitario de pando"
+      ],
+      "lookupKey" : "bolivien|universitario de pando",
+      "relativePath" : "teams\/bolivien\/universitario-de-pando.png",
+      "sourceURLString" : "https:\/\/r2.thesportsdb.com\/images\/media\/team\/badge\/5f8rya1614284940.png"
+    },
+    {
+      "countryName" : "Bolivien",
+      "displayName" : "Universitario de Sucre",
+      "entityType" : "team",
+      "leagueName" : "N Nacional B Copa Simon Bolivar",
+      "legacyLookupKeys" : [
+        "bolivien|n-nacional-b-copa-simon-bolivar|universitario de sucre"
+      ],
+      "lookupKey" : "bolivien|universitario de sucre",
+      "relativePath" : "teams\/bolivien\/universitario-de-sucre.png",
+      "sourceURLString" : "https:\/\/r2.thesportsdb.com\/images\/media\/team\/badge\/wgb8vs1643755827.png"
+    },
+    {
+      "countryName" : "Costa Rica",
+      "displayName" : "AD Aserri",
+      "entityType" : "team",
+      "leagueName" : "Liga de Ascenso, Clausura",
+      "legacyLookupKeys" : [
+        "costa-rica|liga-de-ascenso-clausura|ad aserri"
+      ],
+      "lookupKey" : "costa-rica|ad aserri",
+      "relativePath" : "teams\/costa-rica\/ad-aserri.png",
+      "sourceURLString" : "https:\/\/liasce.com\/wp-content\/uploads\/2015\/05\/ad-aserri-fc.png"
+    },
+    {
+      "countryName" : "Costa Rica",
+      "displayName" : "AD Cariari Pococi",
+      "entityType" : "team",
+      "leagueName" : "Liga de Ascenso, Clausura",
+      "legacyLookupKeys" : [
+        "costa-rica|liga-de-ascenso-clausura|ad cariari pococi"
+      ],
+      "lookupKey" : "costa-rica|ad cariari pococi",
+      "relativePath" : "teams\/costa-rica\/ad-cariari-pococi.png",
+      "sourceURLString" : "https:\/\/liasce.com\/wp-content\/uploads\/2020\/07\/ad-cariari-pococ.png"
+    },
+    {
+      "countryName" : "Costa Rica",
+      "displayName" : "AD Carmelita",
+      "entityType" : "team",
+      "leagueName" : "Liga de Ascenso, Clausura",
+      "legacyLookupKeys" : [
+        "costa-rica|liga-de-ascenso-clausura|ad carmelita"
+      ],
+      "lookupKey" : "costa-rica|ad carmelita",
+      "relativePath" : "teams\/costa-rica\/ad-carmelita.png",
+      "sourceURLString" : "https:\/\/liasce.com\/wp-content\/uploads\/2019\/06\/ad-carmelita.png"
+    },
+    {
+      "countryName" : "Costa Rica",
+      "displayName" : "AD Cofutpa",
+      "entityType" : "team",
+      "leagueName" : "Liga de Ascenso, Clausura",
+      "legacyLookupKeys" : [
+        "costa-rica|liga-de-ascenso-clausura|ad cofutpa"
+      ],
+      "lookupKey" : "costa-rica|ad cofutpa",
+      "relativePath" : "teams\/costa-rica\/ad-cofutpa.png",
+      "sourceURLString" : "https:\/\/liasce.com\/wp-content\/uploads\/2015\/08\/deportiva-cofutpa.png"
+    },
+    {
+      "countryName" : "Costa Rica",
+      "displayName" : "AD Grecia",
+      "entityType" : "team",
+      "leagueName" : "Liga de Ascenso, Clausura",
+      "legacyLookupKeys" : [
+        "costa-rica|liga-de-ascenso-clausura|ad grecia"
+      ],
+      "lookupKey" : "costa-rica|ad grecia",
+      "relativePath" : "teams\/costa-rica\/ad-grecia.png",
+      "sourceURLString" : "https:\/\/liasce.com\/wp-content\/uploads\/2024\/06\/mpal-grecia.png"
+    },
+    {
+      "countryName" : "Costa Rica",
+      "displayName" : "AD Municipal Turrialba",
+      "entityType" : "team",
+      "leagueName" : "Liga de Ascenso, Clausura",
+      "legacyLookupKeys" : [
+        "costa-rica|liga-de-ascenso-clausura|ad municipal turrialba"
+      ],
+      "lookupKey" : "costa-rica|ad municipal turrialba",
+      "relativePath" : "teams\/costa-rica\/ad-municipal-turrialba.png",
+      "sourceURLString" : "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/b\/ba\/Logo_del_Municipal_Turrialba.svg\/250px-Logo_del_Municipal_Turrialba.svg.png"
+    },
+    {
+      "countryName" : "Costa Rica",
+      "displayName" : "AD San Carlos",
+      "entityType" : "team",
+      "leagueName" : "Liga FPD",
+      "legacyLookupKeys" : [
+        "costa-rica|liga-fpd|ad san carlos"
+      ],
+      "lookupKey" : "costa-rica|ad san carlos",
+      "relativePath" : "teams\/costa-rica\/ad-san-carlos.png",
+      "sourceURLString" : "https:\/\/r2.thesportsdb.com\/images\/media\/team\/badge\/v7hikt1606772054.png"
+    },
+    {
+      "countryName" : "Costa Rica",
+      "displayName" : "ADR Jicaral",
+      "entityType" : "team",
+      "leagueName" : "Liga de Ascenso, Clausura",
+      "legacyLookupKeys" : [
+        "costa-rica|liga-de-ascenso-clausura|adr jicaral"
+      ],
+      "lookupKey" : "costa-rica|adr jicaral",
+      "relativePath" : "teams\/costa-rica\/adr-jicaral.png",
+      "sourceURLString" : "https:\/\/liasce.com\/wp-content\/uploads\/2022\/06\/jicaral-sercoba.png"
+    },
+    {
+      "countryName" : "Costa Rica",
+      "displayName" : "Consultants Moravia",
+      "entityType" : "team",
+      "leagueName" : "Liga de Ascenso, Clausura",
+      "legacyLookupKeys" : [
+        "costa-rica|liga-de-ascenso-clausura|consultants moravia"
+      ],
+      "lookupKey" : "costa-rica|consultants moravia",
+      "relativePath" : "teams\/costa-rica\/consultants-moravia.png",
+      "sourceURLString" : "https:\/\/liasce.com\/wp-content\/uploads\/2017\/06\/logofcdesamparados.png"
+    },
+    {
+      "countryName" : "Costa Rica",
+      "displayName" : "Dep. Upala",
+      "entityType" : "team",
+      "leagueName" : "Liga de Ascenso, Clausura",
+      "legacyLookupKeys" : [
+        "costa-rica|liga-de-ascenso-clausura|dep upala"
+      ],
+      "lookupKey" : "costa-rica|dep upala",
+      "relativePath" : "teams\/costa-rica\/dep-upala.png",
+      "sourceURLString" : "https:\/\/liasce.com\/wp-content\/uploads\/2024\/06\/upala-fc.png"
+    },
+    {
+      "countryName" : "Costa Rica",
+      "displayName" : "Escorpiones",
+      "entityType" : "team",
+      "leagueName" : "Liga de Ascenso, Clausura",
+      "legacyLookupKeys" : [
+        "costa-rica|liga-de-ascenso-clausura|escorpiones"
+      ],
+      "lookupKey" : "costa-rica|escorpiones",
+      "relativePath" : "teams\/costa-rica\/escorpiones.png",
+      "sourceURLString" : "https:\/\/liasce.com\/wp-content\/uploads\/2015\/08\/escorpiones-de-beln.png"
+    },
+    {
+      "countryName" : "Costa Rica",
+      "displayName" : "Inter San Carlos",
+      "entityType" : "team",
+      "leagueName" : "Liga de Ascenso, Clausura",
+      "legacyLookupKeys" : [
+        "costa-rica|liga-de-ascenso-clausura|inter san carlos"
+      ],
+      "lookupKey" : "costa-rica|inter san carlos",
+      "relativePath" : "teams\/costa-rica\/inter-san-carlos.png",
+      "sourceURLString" : "https:\/\/liasce.com\/wp-content\/uploads\/2015\/05\/inter-san-carlos.png"
+    },
+    {
+      "countryName" : "Costa Rica",
+      "displayName" : "Limon Black Star",
+      "entityType" : "team",
+      "leagueName" : "Liga de Ascenso, Clausura",
+      "legacyLookupKeys" : [
+        "costa-rica|liga-de-ascenso-clausura|limon black star"
+      ],
+      "lookupKey" : "costa-rica|limon black star",
+      "relativePath" : "teams\/costa-rica\/limon-black-star.png",
+      "sourceURLString" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/5\/53\/Limón_Black_Star_-_Team_badge.png\/250px-Limón_Black_Star_-_Team_badge.png"
+    },
+    {
+      "countryName" : "Costa Rica",
+      "displayName" : "Municipal Santa Ana",
+      "entityType" : "team",
+      "leagueName" : "Liga de Ascenso, Clausura",
+      "legacyLookupKeys" : [
+        "costa-rica|liga-de-ascenso-clausura|municipal santa ana"
+      ],
+      "lookupKey" : "costa-rica|municipal santa ana",
+      "relativePath" : "teams\/costa-rica\/municipal-santa-ana.png",
+      "sourceURLString" : "https:\/\/liasce.com\/wp-content\/uploads\/2017\/06\/santa-ana-fc.png"
+    },
+    {
+      "countryName" : "Costa Rica",
+      "displayName" : "Pitbulls Santa Barbara FC",
+      "entityType" : "team",
+      "leagueName" : "Liga de Ascenso, Clausura",
+      "legacyLookupKeys" : [
+        "costa-rica|liga-de-ascenso-clausura|pitbulls santa barbara fc"
+      ],
+      "lookupKey" : "costa-rica|pitbulls santa barbara fc",
+      "relativePath" : "teams\/costa-rica\/pitbulls-santa-barbara-fc.png",
+      "sourceURLString" : "https:\/\/liasce.com\/wp-content\/uploads\/2025\/07\/pitbulls-de-santa-barbara.png"
+    },
+    {
+      "countryName" : "Costa Rica",
+      "displayName" : "Quepos Cambute",
+      "entityType" : "team",
+      "leagueName" : "Liga de Ascenso, Clausura",
+      "legacyLookupKeys" : [
+        "costa-rica|liga-de-ascenso-clausura|quepos cambute"
+      ],
+      "lookupKey" : "costa-rica|quepos cambute",
+      "relativePath" : "teams\/costa-rica\/quepos-cambute.png",
+      "sourceURLString" : "https:\/\/liasce.com\/wp-content\/uploads\/2022\/07\/quepos-cambute.png"
+    },
+    {
+      "countryName" : "Costa Rica",
+      "displayName" : "Santa Cruz PFA",
+      "entityType" : "team",
+      "leagueName" : "Liga de Ascenso, Clausura",
+      "legacyLookupKeys" : [
+        "costa-rica|liga-de-ascenso-clausura|santa cruz pfa"
+      ],
+      "lookupKey" : "costa-rica|santa cruz pfa",
+      "relativePath" : "teams\/costa-rica\/santa-cruz-pfa.png",
+      "sourceURLString" : "https:\/\/liasce.com\/wp-content\/uploads\/2023\/06\/santa-cruz-pfa.png"
+    },
+    {
+      "countryName" : "Costa Rica",
+      "displayName" : "Sarchi FC",
+      "entityType" : "team",
+      "leagueName" : "Liga de Ascenso, Clausura",
+      "legacyLookupKeys" : [
+        "costa-rica|liga-de-ascenso-clausura|sarchi fc"
+      ],
+      "lookupKey" : "costa-rica|sarchi fc",
+      "relativePath" : "teams\/costa-rica\/sarchi-fc.png",
+      "sourceURLString" : "https:\/\/liasce.com\/wp-content\/uploads\/2019\/06\/sarchi-fc.png"
+    },
+    {
+      "countryName" : "Costa Rica",
+      "displayName" : "Uruguay de Coronado",
+      "entityType" : "team",
+      "leagueName" : "Liga de Ascenso, Clausura",
+      "legacyLookupKeys" : [
+        "costa-rica|liga-de-ascenso-clausura|uruguay de coronado"
+      ],
+      "lookupKey" : "costa-rica|uruguay de coronado",
+      "relativePath" : "teams\/costa-rica\/uruguay-de-coronado.png",
+      "sourceURLString" : "https:\/\/liasce.com\/wp-content\/uploads\/2016\/07\/uruguay-.png"
+    },
+    {
+      "countryName" : "Bolivien",
+      "displayName" : "N Nacional B Copa Simon Bolivar",
+      "entityType" : "league",
+      "legacyLookupKeys" : [
+        "bolivien|n-nacional-b-copa-simon-bolivar"
+      ],
+      "lookupKey" : "league|bolivien|n-nacional-b-copa-simon-bolivar",
+      "relativePath" : "leagues\/bolivien\/n-nacional-b-copa-simon-bolivar.png",
+      "sourceURLString" : "https:\/\/r2.thesportsdb.com\/images\/media\/league\/badge\/782g031614351015.png"
+    },
+    {
+      "countryName" : "Costa Rica",
+      "displayName" : "Liga de Ascenso, Clausura",
+      "entityType" : "league",
+      "legacyLookupKeys" : [
+        "costa-rica|liga-de-ascenso-clausura"
+      ],
+      "lookupKey" : "league|costa-rica|liga-de-ascenso-clausura",
+      "relativePath" : "leagues\/costa-rica\/liga-de-ascenso-clausura.png",
+      "sourceURLString" : "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/e\/e4\/Logo_Liasce_2025.png\/250px-Logo_Liasce_2025.png"
+    },
+    {
+      "countryName" : "Paraguay",
+      "displayName" : "Guairena FC",
+      "entityType" : "team",
+      "leagueName" : "Primera División",
+      "legacyLookupKeys" : [
+        "paraguay|primera-division|guairena fc"
+      ],
+      "lookupKey" : "paraguay|guairena fc",
+      "relativePath" : "teams\/paraguay\/guairena-fc.png",
+      "sourceURLString" : "https:\/\/r2.thesportsdb.com\/images\/media\/team\/badge\/09cg6j1678845419.png"
     }
   ],
-  "generatedAt" : "2026-04-19T22:44:34Z"
+  "generatedAt" : "2026-04-22T12:36:25Z"
 }
