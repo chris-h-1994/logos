@@ -58,11 +58,18 @@
     },
     {
       "legacyLookupKeys" : [
+        "el-salvador|copa-presidente"
+      ],
+      "lookupKey" : "league|el-salvador|copa-presidente",
+      "relativePath" : "leagues\/el-salvador\/copa-presidente.png"
+    },
+    {
+      "legacyLookupKeys" : [
         "el-salvador|segunda-division"
       ],
       "lookupKey" : "league|el-salvador|segunda-division",
       "relativePath" : "leagues\/el-salvador\/segunda-division.png"
     }
   ],
-  "generatedAt" : "2026-04-22T15:10:46Z"
+  "generatedAt" : "2026-04-22T15:25:47Z"
 }
