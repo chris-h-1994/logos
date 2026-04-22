@@ -1,19 +1,365 @@
 {
   "entries" : [
     {
+      "countryName" : "Ecuador",
+      "displayName" : "Ind. Juniors",
+      "entityType" : "team",
+      "leagueName" : "Copa",
       "legacyLookupKeys" : [
         "ecuador|copa|ind juniors"
       ],
       "lookupKey" : "ecuador|ind juniors",
-      "relativePath" : "teams\/ecuador\/ind-juniors.png"
+      "relativePath" : "teams\/ecuador\/ind-juniors.png",
+      "sourceURLString" : "https:\/\/r2.thesportsdb.com\/images\/media\/team\/badge\/fwtb9j1615839275.png\/medium"
     },
     {
+      "countryName" : "Guatemala",
+      "displayName" : "AFF Guatemala",
+      "entityType" : "team",
+      "leagueName" : "Primera Division de Ascenso",
       "legacyLookupKeys" : [
-        "guatemala|segunda-division-de"
+        "guatemala|primera-division-de-ascenso|aff guatemala"
       ],
-      "lookupKey" : "league|guatemala|segunda-division-de",
-      "relativePath" : "leagues\/guatemala\/segunda-division-de.png"
+      "lookupKey" : "guatemala|aff guatemala",
+      "relativePath" : "teams\/guatemala\/aff-guatemala.png",
+      "sourceURLString" : "https:\/\/cd.futbolchapin.app\/wp-content\/uploads\/2022\/07\/logo-aff-guatemala.png"
+    },
+    {
+      "countryName" : "Guatemala",
+      "displayName" : "Aguacatan FC",
+      "entityType" : "team",
+      "leagueName" : "Primera Division de Ascenso",
+      "legacyLookupKeys" : [
+        "guatemala|primera-division-de-ascenso|aguacatan fc"
+      ],
+      "lookupKey" : "guatemala|aguacatan fc",
+      "relativePath" : "teams\/guatemala\/aguacatan-fc.png",
+      "sourceURLString" : "https:\/\/primeradivision-gt.com\/wp-content\/uploads\/2025\/07\/aguacatan-128x128.png"
+    },
+    {
+      "countryName" : "Guatemala",
+      "displayName" : "Antigua GFC",
+      "entityType" : "team",
+      "leagueName" : "Liga Nacional",
+      "legacyLookupKeys" : [
+        "guatemala|liga-nacional|antigua gfc"
+      ],
+      "lookupKey" : "guatemala|antigua gfc",
+      "relativePath" : "teams\/guatemala\/antigua-gfc.png",
+      "sourceURLString" : "https:\/\/r2.thesportsdb.com\/images\/media\/team\/badge\/nciyxk1582144585.png\/medium"
+    },
+    {
+      "countryName" : "Guatemala",
+      "displayName" : "CD Marquense",
+      "entityType" : "team",
+      "leagueName" : "Liga Nacional",
+      "legacyLookupKeys" : [
+        "guatemala|liga-nacional|cd marquense"
+      ],
+      "lookupKey" : "guatemala|cd marquense",
+      "relativePath" : "teams\/guatemala\/cd-marquense.png",
+      "sourceURLString" : "https:\/\/r2.thesportsdb.com\/images\/media\/team\/badge\/dfu3s81717759230.png"
+    },
+    {
+      "countryName" : "Guatemala",
+      "displayName" : "Chichicasteco",
+      "entityType" : "team",
+      "leagueName" : "Primera Division de Ascenso",
+      "legacyLookupKeys" : [
+        "guatemala|primera-division-de-ascenso|chichicasteco"
+      ],
+      "lookupKey" : "guatemala|chichicasteco",
+      "relativePath" : "teams\/guatemala\/chichicasteco.png",
+      "sourceURLString" : "https:\/\/primeradivision-gt.com\/wp-content\/uploads\/2025\/07\/chichicasteco-128x128.png"
+    },
+    {
+      "countryName" : "Guatemala",
+      "displayName" : "Chimaltenango",
+      "entityType" : "team",
+      "leagueName" : "Primera Division de Ascenso",
+      "legacyLookupKeys" : [
+        "guatemala|primera-division-de-ascenso|chimaltenango"
+      ],
+      "lookupKey" : "guatemala|chimaltenango",
+      "relativePath" : "teams\/guatemala\/chimaltenango.png",
+      "sourceURLString" : "https:\/\/primeradivision-gt.com\/wp-content\/uploads\/2025\/07\/chimaltenango-128x128.png"
+    },
+    {
+      "countryName" : "Guatemala",
+      "displayName" : "Comunicaciones",
+      "entityType" : "team",
+      "leagueName" : "Liga Nacional",
+      "legacyLookupKeys" : [
+        "guatemala|liga-nacional|comunicaciones"
+      ],
+      "lookupKey" : "guatemala|comunicaciones",
+      "relativePath" : "teams\/guatemala\/comunicaciones.png",
+      "sourceURLString" : "https:\/\/r2.thesportsdb.com\/images\/media\/team\/badge\/svx7ji1580931084.png"
+    },
+    {
+      "countryName" : "Guatemala",
+      "displayName" : "CSD Chiquimulilla",
+      "entityType" : "team",
+      "leagueName" : "Primera Division de Ascenso",
+      "legacyLookupKeys" : [
+        "guatemala|primera-division-de-ascenso|csd chiquimulilla"
+      ],
+      "lookupKey" : "guatemala|csd chiquimulilla",
+      "relativePath" : "teams\/guatemala\/csd-chiquimulilla.png",
+      "sourceURLString" : "https:\/\/cd.futbolchapin.app\/wp-content\/uploads\/2021\/01\/logo-chiquimulilla.png"
+    },
+    {
+      "countryName" : "Guatemala",
+      "displayName" : "Csd Ipala",
+      "entityType" : "team",
+      "leagueName" : "Primera Division de Ascenso",
+      "legacyLookupKeys" : [
+        "guatemala|primera-division-de-ascenso|csd ipala"
+      ],
+      "lookupKey" : "guatemala|csd ipala",
+      "relativePath" : "teams\/guatemala\/csd-ipala.png",
+      "sourceURLString" : "https:\/\/primeradivision-gt.com\/wp-content\/uploads\/2025\/07\/ipala-128x128.png"
+    },
+    {
+      "countryName" : "Guatemala",
+      "displayName" : "CSD Sacachispas",
+      "entityType" : "team",
+      "leagueName" : "Primera Division de Ascenso",
+      "legacyLookupKeys" : [
+        "guatemala|primera-division-de-ascenso|csd sacachispas"
+      ],
+      "lookupKey" : "guatemala|csd sacachispas",
+      "relativePath" : "teams\/guatemala\/csd-sacachispas.png",
+      "sourceURLString" : "https:\/\/primeradivision-gt.com\/wp-content\/uploads\/2025\/03\/equipo-sacachispas-128x128.png"
+    },
+    {
+      "countryName" : "Guatemala",
+      "displayName" : "CSyD Nueva Concepcion",
+      "entityType" : "team",
+      "leagueName" : "Primera Division de Ascenso",
+      "legacyLookupKeys" : [
+        "guatemala|primera-division-de-ascenso|csyd nueva concepcion"
+      ],
+      "lookupKey" : "guatemala|csyd nueva concepcion",
+      "relativePath" : "teams\/guatemala\/csyd-nueva-concepcion.png",
+      "sourceURLString" : "https:\/\/primeradivision-gt.com\/wp-content\/uploads\/2025\/03\/150x150-logo-128x128.png"
+    },
+    {
+      "countryName" : "Guatemala",
+      "displayName" : "Dep. Carcha",
+      "entityType" : "team",
+      "leagueName" : "Primera Division de Ascenso",
+      "legacyLookupKeys" : [
+        "guatemala|primera-division-de-ascenso|dep carcha"
+      ],
+      "lookupKey" : "guatemala|dep carcha",
+      "relativePath" : "teams\/guatemala\/dep-carcha.png",
+      "sourceURLString" : "https:\/\/primeradivision-gt.com\/wp-content\/uploads\/2025\/07\/carcha-128x128.png"
+    },
+    {
+      "countryName" : "Guatemala",
+      "displayName" : "Dep. Coatepeque",
+      "entityType" : "team",
+      "leagueName" : "Primera Division de Ascenso",
+      "legacyLookupKeys" : [
+        "guatemala|primera-division-de-ascenso|dep coatepeque"
+      ],
+      "lookupKey" : "guatemala|dep coatepeque",
+      "relativePath" : "teams\/guatemala\/dep-coatepeque.png",
+      "sourceURLString" : "https:\/\/tmssl.akamaized.net\/\/images\/wappen\/big\/36776.png?lm=1649692962"
+    },
+    {
+      "countryName" : "Guatemala",
+      "displayName" : "Dep. Gomera",
+      "entityType" : "team",
+      "leagueName" : "Primera Division de Ascenso",
+      "legacyLookupKeys" : [
+        "guatemala|primera-division-de-ascenso|dep gomera"
+      ],
+      "lookupKey" : "guatemala|dep gomera",
+      "relativePath" : "teams\/guatemala\/dep-gomera.png",
+      "sourceURLString" : "https:\/\/primeradivision-gt.com\/wp-content\/uploads\/2025\/07\/gomerano-128x128.png"
+    },
+    {
+      "countryName" : "Guatemala",
+      "displayName" : "Dep. Guastatoya",
+      "entityType" : "team",
+      "leagueName" : "Liga Nacional",
+      "legacyLookupKeys" : [
+        "guatemala|liga-nacional|dep guastatoya"
+      ],
+      "lookupKey" : "guatemala|dep guastatoya",
+      "relativePath" : "teams\/guatemala\/dep-guastatoya.png",
+      "sourceURLString" : "https:\/\/r2.thesportsdb.com\/images\/media\/team\/badge\/179jmc1751391444.png"
+    },
+    {
+      "countryName" : "Guatemala",
+      "displayName" : "Dep. Iztapa",
+      "entityType" : "team",
+      "leagueName" : "Primera Division de Ascenso",
+      "legacyLookupKeys" : [
+        "guatemala|primera-division-de-ascenso|dep iztapa"
+      ],
+      "lookupKey" : "guatemala|dep iztapa",
+      "relativePath" : "teams\/guatemala\/dep-iztapa.png",
+      "sourceURLString" : "https:\/\/primeradivision-gt.com\/wp-content\/uploads\/2025\/03\/equipo-iztapa-128x128.png"
+    },
+    {
+      "countryName" : "Guatemala",
+      "displayName" : "Dep. Malacateco",
+      "entityType" : "team",
+      "leagueName" : "Liga Nacional",
+      "legacyLookupKeys" : [
+        "guatemala|liga-nacional|dep malacateco"
+      ],
+      "lookupKey" : "guatemala|dep malacateco",
+      "relativePath" : "teams\/guatemala\/dep-malacateco.png",
+      "sourceURLString" : "https:\/\/r2.thesportsdb.com\/images\/media\/team\/badge\/stkkh01624628906.png"
+    },
+    {
+      "countryName" : "Guatemala",
+      "displayName" : "Dep. Mixco",
+      "entityType" : "team",
+      "leagueName" : "Liga Nacional",
+      "legacyLookupKeys" : [
+        "guatemala|liga-nacional|dep mixco"
+      ],
+      "lookupKey" : "guatemala|dep mixco",
+      "relativePath" : "teams\/guatemala\/dep-mixco.png",
+      "sourceURLString" : "https:\/\/r2.thesportsdb.com\/images\/media\/team\/badge\/t3k6ii1589211341.png"
+    },
+    {
+      "countryName" : "Guatemala",
+      "displayName" : "Dep. San Pedro",
+      "entityType" : "team",
+      "leagueName" : "Primera Division de Ascenso",
+      "legacyLookupKeys" : [
+        "guatemala|primera-division-de-ascenso|dep san pedro"
+      ],
+      "lookupKey" : "guatemala|dep san pedro",
+      "relativePath" : "teams\/guatemala\/dep-san-pedro.png",
+      "sourceURLString" : "https:\/\/primeradivision-gt.com\/wp-content\/uploads\/2025\/03\/equipo-san__pedro-128x128.png"
+    },
+    {
+      "countryName" : "Guatemala",
+      "displayName" : "Huehuetecos FC",
+      "entityType" : "team",
+      "leagueName" : "Primera Division de Ascenso",
+      "legacyLookupKeys" : [
+        "guatemala|primera-division-de-ascenso|huehuetecos fc"
+      ],
+      "lookupKey" : "guatemala|huehuetecos fc",
+      "relativePath" : "teams\/guatemala\/huehuetecos-fc.png",
+      "sourceURLString" : "https:\/\/primeradivision-gt.com\/wp-content\/uploads\/2025\/07\/HUEHUETECOS-128x128.png"
+    },
+    {
+      "countryName" : "Guatemala",
+      "displayName" : "Juventud Copalera",
+      "entityType" : "team",
+      "leagueName" : "Primera Division de Ascenso",
+      "legacyLookupKeys" : [
+        "guatemala|primera-division-de-ascenso|juventud copalera"
+      ],
+      "lookupKey" : "guatemala|juventud copalera",
+      "relativePath" : "teams\/guatemala\/juventud-copalera.png",
+      "sourceURLString" : "https:\/\/primeradivision-gt.com\/wp-content\/uploads\/2025\/03\/equipo-juventud__copalera-128x128.png"
+    },
+    {
+      "countryName" : "Guatemala",
+      "displayName" : "Juventud Teculuteca",
+      "entityType" : "team",
+      "leagueName" : "Segunda Division",
+      "legacyLookupKeys" : [
+        "guatemala|segunda-division|juventud teculuteca"
+      ],
+      "lookupKey" : "guatemala|juventud teculuteca",
+      "relativePath" : "teams\/guatemala\/juventud-teculuteca.png",
+      "sourceURLString" : "https:\/\/tmssl.akamaized.net\/\/images\/wappen\/head\/83530.png?lm=1721397754"
+    },
+    {
+      "countryName" : "Guatemala",
+      "displayName" : "Municipal",
+      "entityType" : "team",
+      "leagueName" : "Liga Nacional",
+      "legacyLookupKeys" : [
+        "guatemala|liga-nacional|municipal"
+      ],
+      "lookupKey" : "guatemala|municipal",
+      "relativePath" : "teams\/guatemala\/municipal.png",
+      "sourceURLString" : "https:\/\/r2.thesportsdb.com\/images\/media\/team\/badge\/9phgwv1589210412.png"
+    },
+    {
+      "countryName" : "Guatemala",
+      "displayName" : "Nueva Santa Rosa",
+      "entityType" : "team",
+      "leagueName" : "Primera Division de Ascenso",
+      "legacyLookupKeys" : [
+        "guatemala|primera-division-de-ascenso|nueva santa rosa"
+      ],
+      "lookupKey" : "guatemala|nueva santa rosa",
+      "relativePath" : "teams\/guatemala\/nueva-santa-rosa.png",
+      "sourceURLString" : "https:\/\/primeradivision-gt.com\/wp-content\/uploads\/2025\/07\/nueva-santa-rosa-128x128.png"
+    },
+    {
+      "countryName" : "Guatemala",
+      "displayName" : "Poptun",
+      "entityType" : "team",
+      "leagueName" : "Segunda Division de",
+      "legacyLookupKeys" : [
+        "guatemala|segunda-division-de|poptun"
+      ],
+      "lookupKey" : "guatemala|poptun",
+      "relativePath" : "teams\/guatemala\/poptun.png",
+      "sourceURLString" : "https:\/\/imagecache.365scores.com\/image\/upload\/f_png,w_250,h_250,c_limit,q_auto:eco,d_Competitors:default1.png\/v2\/Competitors\/90083"
+    },
+    {
+      "countryName" : "Guatemala",
+      "displayName" : "Quiche FC",
+      "entityType" : "team",
+      "leagueName" : "Primera Division de Ascenso",
+      "legacyLookupKeys" : [
+        "guatemala|primera-division-de-ascenso|quiche fc"
+      ],
+      "lookupKey" : "guatemala|quiche fc",
+      "relativePath" : "teams\/guatemala\/quiche-fc.png",
+      "sourceURLString" : "https:\/\/primeradivision-gt.com\/wp-content\/uploads\/2025\/03\/equipo-quiche_fc-128x128.png"
+    },
+    {
+      "countryName" : "Guatemala",
+      "displayName" : "San Benito Peten",
+      "entityType" : "team",
+      "leagueName" : "Primera Division de Ascenso",
+      "legacyLookupKeys" : [
+        "guatemala|primera-division-de-ascenso|san benito peten"
+      ],
+      "lookupKey" : "guatemala|san benito peten",
+      "relativePath" : "teams\/guatemala\/san-benito-peten.png",
+      "sourceURLString" : "https:\/\/primeradivision-gt.com\/wp-content\/uploads\/2025\/03\/equipo-san_benito-128x128.png"
+    },
+    {
+      "countryName" : "Guatemala",
+      "displayName" : "Santa Lucia Cotzumalguapa",
+      "entityType" : "team",
+      "leagueName" : "Primera Division de Ascenso",
+      "legacyLookupKeys" : [
+        "guatemala|primera-division-de-ascenso|santa lucia cotzumalguapa"
+      ],
+      "lookupKey" : "guatemala|santa lucia cotzumalguapa",
+      "relativePath" : "teams\/guatemala\/santa-lucia-cotzumalguapa.png",
+      "sourceURLString" : "https:\/\/primeradivision-gt.com\/wp-content\/uploads\/2025\/03\/equipo-santa_lucia-128x128.png"
+    },
+    {
+      "countryName" : "Guatemala",
+      "displayName" : "Suchitepequez",
+      "entityType" : "team",
+      "leagueName" : "Primera Division de Ascenso",
+      "legacyLookupKeys" : [
+        "guatemala|primera-division-de-ascenso|suchitepequez"
+      ],
+      "lookupKey" : "guatemala|suchitepequez",
+      "relativePath" : "teams\/guatemala\/suchitepequez.png",
+      "sourceURLString" : "https:\/\/primeradivision-gt.com\/wp-content\/uploads\/2025\/03\/equipo-suchitepequez-128x128.png"
     }
   ],
-  "generatedAt" : "2026-04-22T15:53:39Z"
+  "generatedAt" : "2026-04-22T18:07:39Z"
 }
