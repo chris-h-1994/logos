@@ -1,17 +1,19 @@
 {
   "entries" : [
     {
-      "countryName" : "Ecuador",
-      "displayName" : "Ind. Juniors",
-      "entityType" : "team",
-      "leagueName" : "Copa",
       "legacyLookupKeys" : [
         "ecuador|copa|ind juniors"
       ],
       "lookupKey" : "ecuador|ind juniors",
-      "relativePath" : "teams\/ecuador\/ind-juniors.png",
-      "sourceURLString" : "https:\/\/r2.thesportsdb.com\/images\/media\/team\/badge\/fwtb9j1615839275.png\/medium"
+      "relativePath" : "teams\/ecuador\/ind-juniors.png"
+    },
+    {
+      "legacyLookupKeys" : [
+        "guatemala|segunda-division-de"
+      ],
+      "lookupKey" : "league|guatemala|segunda-division-de",
+      "relativePath" : "leagues\/guatemala\/segunda-division-de.png"
     }
   ],
-  "generatedAt" : "2026-04-22T15:33:59Z"
+  "generatedAt" : "2026-04-22T15:53:39Z"
 }
