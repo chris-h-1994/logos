@@ -25,434 +25,244 @@
       "sourceURLString" : "https:\/\/sportcdns.live\/team\/66c8320e6b1492ea43857102408bbedd1a3c9afa56c782c7fc68446cde36b00b.webp"
     },
     {
-      "countryName" : "Mittelamerika",
-      "displayName" : "Concacaf Central American Cup",
+      "countryName" : "Panama",
+      "displayName" : "Liga Prom",
       "entityType" : "league",
       "legacyLookupKeys" : [
-        "mittelamerika|concacaf-central-american-cup"
+        "panama|liga-prom"
       ],
-      "lookupKey" : "league|mittelamerika|concacaf-central-american-cup",
-      "relativePath" : "leagues\/mittelamerika\/concacaf-central-american-cup.png",
-      "sourceURLString" : "https:\/\/r2.thesportsdb.com\/images\/media\/league\/badge\/qp8k4n1719350541.png\/medium"
-    },
-    {
-      "countryName" : "Mittelamerika",
-      "displayName" : "Concacaf Champions Cup",
-      "entityType" : "league",
-      "legacyLookupKeys" : [
-        "mittelamerika|concacaf-champions-cup"
-      ],
-      "lookupKey" : "league|mittelamerika|concacaf-champions-cup",
-      "relativePath" : "leagues\/mittelamerika\/concacaf-champions-cup.png",
-      "sourceURLString" : "https:\/\/r2.thesportsdb.com\/images\/media\/league\/badge\/njx38y1691129615.png\/medium"
+      "lookupKey" : "league|panama|liga-prom",
+      "relativePath" : "leagues\/panama\/liga-prom.png",
+      "sourceURLString" : "https:\/\/image-service.onefootball.com\/transform?w=280&h=280&dpr=2&image=https%3A%2F%2Fi0.wp.com%2Fpanamagol.com%2Fwp-content%2Fuploads%2F2023%2F11%2FLigaProm-logo.png%3Fresize%3D200%252C200%26ssl%3D1"
     },
     {
       "countryName" : "Panama",
-      "displayName" : "Liga Panamena",
-      "entityType" : "league",
-      "legacyLookupKeys" : [
-        "panama|liga-panamena"
-      ],
-      "lookupKey" : "league|panama|liga-panamena",
-      "relativePath" : "leagues\/panama\/liga-panamena.png",
-      "sourceURLString" : "https:\/\/r2.thesportsdb.com\/images\/media\/league\/badge\/at4ycu1589140484.png\/medium"
-    },
-    {
-      "countryName" : "Mittelamerika",
-      "displayName" : "Atl. Ottawa",
+      "displayName" : "Academia Costa del Este",
       "entityType" : "team",
-      "leagueName" : "Concacaf Champions Cup",
+      "leagueName" : "Liga Prom ( Division 2)",
       "legacyLookupKeys" : [
-        "mittelamerika|concacaf-champions-cup|atl ottawa"
+        "panama|liga-prom-division-2|academia costa del este"
       ],
-      "lookupKey" : "mittelamerika|atl ottawa",
-      "relativePath" : "teams\/mittelamerika\/atl-ottawa.png",
-      "sourceURLString" : "https:\/\/r2.thesportsdb.com\/images\/media\/team\/badge\/k5gzuw1583351260.png"
-    },
-    {
-      "countryName" : "Mittelamerika",
-      "displayName" : "CF America",
-      "entityType" : "team",
-      "leagueName" : "Concacaf Champions Cup",
-      "legacyLookupKeys" : [
-        "mittelamerika|concacaf-champions-cup|cf america"
-      ],
-      "lookupKey" : "mittelamerika|cf america",
-      "relativePath" : "teams\/mittelamerika\/cf-america.png",
-      "sourceURLString" : "https:\/\/r2.thesportsdb.com\/images\/media\/team\/badge\/amy1xs1581857392.png"
-    },
-    {
-      "countryName" : "Mittelamerika",
-      "displayName" : "Defence Force",
-      "entityType" : "team",
-      "leagueName" : "Concacaf Champions Cup",
-      "legacyLookupKeys" : [
-        "mittelamerika|concacaf-champions-cup|defence force"
-      ],
-      "lookupKey" : "mittelamerika|defence force",
-      "relativePath" : "teams\/mittelamerika\/defence-force.png",
-      "sourceURLString" : "https:\/\/r2.thesportsdb.com\/images\/media\/team\/badge\/wnmt401758817028.png"
-    },
-    {
-      "countryName" : "Mittelamerika",
-      "displayName" : "FC Cincinnati",
-      "entityType" : "team",
-      "leagueName" : "Concacaf Champions Cup",
-      "legacyLookupKeys" : [
-        "mittelamerika|concacaf-champions-cup|fc cincinnati"
-      ],
-      "lookupKey" : "mittelamerika|fc cincinnati",
-      "relativePath" : "teams\/mittelamerika\/fc-cincinnati.png",
-      "sourceURLString" : "https:\/\/r2.thesportsdb.com\/images\/media\/team\/badge\/vvhsqc1707631046.png"
-    },
-    {
-      "countryName" : "Mittelamerika",
-      "displayName" : "Forge",
-      "entityType" : "team",
-      "leagueName" : "Concacaf Champions Cup",
-      "legacyLookupKeys" : [
-        "mittelamerika|concacaf-champions-cup|forge"
-      ],
-      "lookupKey" : "mittelamerika|forge",
-      "relativePath" : "teams\/mittelamerika\/forge.png",
-      "sourceURLString" : "https:\/\/r2.thesportsdb.com\/images\/media\/team\/badge\/48dk0h1582572865.png"
-    },
-    {
-      "countryName" : "Mittelamerika",
-      "displayName" : "Ind. de la Chorrera",
-      "entityType" : "team",
-      "leagueName" : "Concacaf Central American Cup",
-      "legacyLookupKeys" : [
-        "mittelamerika|concacaf-central-american-cup|ind de la chorrera"
-      ],
-      "lookupKey" : "mittelamerika|ind de la chorrera",
-      "relativePath" : "teams\/mittelamerika\/ind-de-la-chorrera.png",
-      "sourceURLString" : "https:\/\/r2.thesportsdb.com\/images\/media\/team\/badge\/dra6xs1768358312.png"
-    },
-    {
-      "countryName" : "Mittelamerika",
-      "displayName" : "Monterrey",
-      "entityType" : "team",
-      "leagueName" : "Concacaf Champions Cup",
-      "legacyLookupKeys" : [
-        "mittelamerika|concacaf-champions-cup|monterrey"
-      ],
-      "lookupKey" : "mittelamerika|monterrey",
-      "relativePath" : "teams\/mittelamerika\/monterrey.png",
-      "sourceURLString" : "https:\/\/r2.thesportsdb.com\/images\/media\/team\/badge\/yglj911721542561.png"
-    },
-    {
-      "countryName" : "Mittelamerika",
-      "displayName" : "Mount Pleasant",
-      "entityType" : "team",
-      "leagueName" : "Concacaf Champions Cup",
-      "legacyLookupKeys" : [
-        "mittelamerika|concacaf-champions-cup|mount pleasant"
-      ],
-      "lookupKey" : "mittelamerika|mount pleasant",
-      "relativePath" : "teams\/mittelamerika\/mount-pleasant.png",
-      "sourceURLString" : "https:\/\/r2.thesportsdb.com\/images\/media\/team\/badge\/jdypva1624889083.png"
-    },
-    {
-      "countryName" : "Mittelamerika",
-      "displayName" : "Plaza Amador",
-      "entityType" : "team",
-      "leagueName" : "Concacaf N Cup",
-      "legacyLookupKeys" : [
-        "mittelamerika|concacaf-n-cup|plaza amador"
-      ],
-      "lookupKey" : "mittelamerika|plaza amador",
-      "relativePath" : "teams\/mittelamerika\/plaza-amador.png",
-      "sourceURLString" : "https:\/\/r2.thesportsdb.com\/images\/media\/team\/badge\/78pior1589297968.png"
-    },
-    {
-      "countryName" : "Mittelamerika",
-      "displayName" : "Pumas",
-      "entityType" : "team",
-      "leagueName" : "Concacaf Champions Cup",
-      "legacyLookupKeys" : [
-        "mittelamerika|concacaf-champions-cup|pumas"
-      ],
-      "lookupKey" : "mittelamerika|pumas",
-      "relativePath" : "teams\/mittelamerika\/pumas.png",
-      "sourceURLString" : "https:\/\/r2.thesportsdb.com\/images\/media\/team\/badge\/o01nvl1695734937.png"
-    },
-    {
-      "countryName" : "Mittelamerika",
-      "displayName" : "San Diego FC",
-      "entityType" : "team",
-      "leagueName" : "Concacaf Champions Cup",
-      "legacyLookupKeys" : [
-        "mittelamerika|concacaf-champions-cup|san diego fc"
-      ],
-      "lookupKey" : "mittelamerika|san diego fc",
-      "relativePath" : "teams\/mittelamerika\/san-diego-fc.png",
-      "sourceURLString" : "https:\/\/r2.thesportsdb.com\/images\/media\/team\/badge\/7ka2xd1734621068.png"
-    },
-    {
-      "countryName" : "Mittelamerika",
-      "displayName" : "Sporting San Miguelito",
-      "entityType" : "team",
-      "leagueName" : "Concacaf Champions Cup",
-      "legacyLookupKeys" : [
-        "mittelamerika|concacaf-champions-cup|sporting san miguelito"
-      ],
-      "lookupKey" : "mittelamerika|sporting san miguelito",
-      "relativePath" : "teams\/mittelamerika\/sporting-san-miguelito.png",
-      "sourceURLString" : "https:\/\/r2.thesportsdb.com\/images\/media\/team\/badge\/3y4hof1768358419.png"
-    },
-    {
-      "countryName" : "Mittelamerika",
-      "displayName" : "Tigres",
-      "entityType" : "team",
-      "leagueName" : "Concacaf Champions Cup",
-      "legacyLookupKeys" : [
-        "mittelamerika|concacaf-champions-cup|tigres"
-      ],
-      "lookupKey" : "mittelamerika|tigres",
-      "relativePath" : "teams\/mittelamerika\/tigres.png",
-      "sourceURLString" : "https:\/\/r2.thesportsdb.com\/images\/media\/team\/badge\/lh80fx1701423708.png"
-    },
-    {
-      "countryName" : "Mittelamerika",
-      "displayName" : "Toluca",
-      "entityType" : "team",
-      "leagueName" : "Concacaf Champions Cup",
-      "legacyLookupKeys" : [
-        "mittelamerika|concacaf-champions-cup|toluca"
-      ],
-      "lookupKey" : "mittelamerika|toluca",
-      "relativePath" : "teams\/mittelamerika\/toluca.png",
-      "sourceURLString" : "https:\/\/r2.thesportsdb.com\/images\/media\/team\/badge\/y64wy91523913186.png"
-    },
-    {
-      "countryName" : "Mittelamerika",
-      "displayName" : "Universidad O and M",
-      "entityType" : "team",
-      "leagueName" : "Concacaf Champions Cup",
-      "legacyLookupKeys" : [
-        "mittelamerika|concacaf-champions-cup|universidad o and m"
-      ],
-      "lookupKey" : "mittelamerika|universidad o and m",
-      "relativePath" : "teams\/mittelamerika\/universidad-o-and-m.png",
-      "sourceURLString" : "https:\/\/r2.thesportsdb.com\/images\/media\/team\/badge\/34fj5u1615824153.png"
-    },
-    {
-      "countryName" : "Mittelamerika",
-      "displayName" : "Vancouver FC",
-      "entityType" : "team",
-      "leagueName" : "Concacaf Champions Cup",
-      "legacyLookupKeys" : [
-        "mittelamerika|concacaf-champions-cup|vancouver fc"
-      ],
-      "lookupKey" : "mittelamerika|vancouver fc",
-      "relativePath" : "teams\/mittelamerika\/vancouver-fc.png",
-      "sourceURLString" : "https:\/\/r2.thesportsdb.com\/images\/media\/team\/badge\/map6vh1770132710.png"
-    },
-    {
-      "countryName" : "Mittelamerika",
-      "displayName" : "Verdes",
-      "entityType" : "team",
-      "leagueName" : "Concacaf Central American Cup",
-      "legacyLookupKeys" : [
-        "mittelamerika|concacaf-central-american-cup|verdes"
-      ],
-      "lookupKey" : "mittelamerika|verdes",
-      "relativePath" : "teams\/mittelamerika\/verdes.png",
-      "sourceURLString" : "https:\/\/r2.thesportsdb.com\/images\/media\/team\/badge\/cc1aqs1659089610.png"
-    },
-    {
-      "countryName" : "Nicaragua",
-      "displayName" : "Export Sebaco",
-      "entityType" : "team",
-      "leagueName" : "Primera Division",
-      "legacyLookupKeys" : [
-        "nicaragua|primera-division|export sebaco"
-      ],
-      "lookupKey" : "nicaragua|export sebaco",
-      "relativePath" : "teams\/nicaragua\/export-sebaco.png",
-      "sourceURLString" : "https:\/\/r2.thesportsdb.com\/images\/media\/team\/badge\/ciscys1691128473.png"
-    },
-    {
-      "countryName" : "Nicaragua",
-      "displayName" : "Matagalpa",
-      "entityType" : "team",
-      "leagueName" : "Primera Division",
-      "legacyLookupKeys" : [
-        "nicaragua|primera-division|matagalpa"
-      ],
-      "lookupKey" : "nicaragua|matagalpa",
-      "relativePath" : "teams\/nicaragua\/matagalpa.png",
-      "sourceURLString" : "https:\/\/r2.thesportsdb.com\/images\/media\/team\/badge\/7g579j1694900767.png"
-    },
-    {
-      "countryName" : "Nicaragua",
-      "displayName" : "Rancho Santana",
-      "entityType" : "team",
-      "leagueName" : "Primera Division",
-      "legacyLookupKeys" : [
-        "nicaragua|primera-division|rancho santana"
-      ],
-      "lookupKey" : "nicaragua|rancho santana",
-      "relativePath" : "teams\/nicaragua\/rancho-santana.png",
-      "sourceURLString" : "https:\/\/r2.thesportsdb.com\/images\/media\/team\/badge\/2cog2y1721372089.png"
-    },
-    {
-      "countryName" : "Nicaragua",
-      "displayName" : "Walter Ferretti",
-      "entityType" : "team",
-      "leagueName" : "Primera Division",
-      "legacyLookupKeys" : [
-        "nicaragua|primera-division|walter ferretti"
-      ],
-      "lookupKey" : "nicaragua|walter ferretti",
-      "relativePath" : "teams\/nicaragua\/walter-ferretti.png",
-      "sourceURLString" : "https:\/\/r2.thesportsdb.com\/images\/media\/team\/badge\/xyjqnm1596464167.png"
+      "lookupKey" : "panama|academia costa del este",
+      "relativePath" : "teams\/panama\/academia-costa-del-este.png",
+      "sourceURLString" : "https:\/\/sportcdns.live\/team\/230148bb2ea9ccb283b6043cec093493c028a4dda6b9547812a71ec870e8423f.webp"
     },
     {
       "countryName" : "Panama",
-      "displayName" : "Alianza",
+      "displayName" : "Academia Mario Mendez",
       "entityType" : "team",
-      "leagueName" : "Liga Panamena",
+      "leagueName" : "Liga Prom ( Division 2)",
       "legacyLookupKeys" : [
-        "panama|liga-panamena|alianza"
+        "panama|liga-prom-division-2|academia mario mendez"
       ],
-      "lookupKey" : "panama|alianza",
-      "relativePath" : "teams\/panama\/alianza.png",
-      "sourceURLString" : "https:\/\/r2.thesportsdb.com\/images\/media\/team\/badge\/4qhii21589297781.png"
+      "lookupKey" : "panama|academia mario mendez",
+      "relativePath" : "teams\/panama\/academia-mario-mendez.png",
+      "sourceURLString" : "https:\/\/sportcdns.live\/team\/bb57a3a92c10afaafe29b3e99490b60ddf1457c952d74a32ff9f9b57c71745d5.webp"
     },
     {
       "countryName" : "Panama",
-      "displayName" : "Arabe Unido",
+      "displayName" : "Aguilas de la Universidad de Panama",
       "entityType" : "team",
-      "leagueName" : "Liga Panamena",
+      "leagueName" : "Liga Prom ( Division 2)",
       "legacyLookupKeys" : [
-        "panama|liga-panamena|arabe unido"
+        "panama|liga-prom-division-2|aguilas de la universidad de panama"
+      ],
+      "lookupKey" : "panama|aguilas de la universidad de panama",
+      "relativePath" : "teams\/panama\/aguilas-de-la-universidad-de-panama.png",
+      "sourceURLString" : "https:\/\/sportcdns.live\/team\/663cf15fabffd2067e1ea7e95447c9ba2ee211eaf4bf5944da3dfdd575d8158d.webp"
+    },
+    {
+      "countryName" : "Panama",
+      "displayName" : "Alianza Panama II",
+      "entityType" : "team",
+      "leagueName" : "Liga Prom ( Division 2)",
+      "legacyLookupKeys" : [
+        "panama|liga-prom-division-2|alianza panama"
+      ],
+      "lookupKey" : "panama|alianza panama",
+      "relativePath" : "teams\/panama\/alianza-panama-ii.png",
+      "sourceURLString" : "https:\/\/sportcdns.live\/team\/b22169309b135d81fb92162a58f2489b26315b61fe4816106a8894f432469f08.webp"
+    },
+    {
+      "countryName" : "Panama",
+      "displayName" : "Arabe Unido II",
+      "entityType" : "team",
+      "leagueName" : "Liga Prom ( Division 2)",
+      "legacyLookupKeys" : [
+        "panama|liga-prom-division-2|arabe unido"
       ],
       "lookupKey" : "panama|arabe unido",
-      "relativePath" : "teams\/panama\/arabe-unido.png",
-      "sourceURLString" : "https:\/\/r2.thesportsdb.com\/images\/media\/team\/badge\/lkhkf11589297941.png\/medium"
+      "relativePath" : "teams\/panama\/arabe-unido-ii.png",
+      "sourceURLString" : "https:\/\/sportcdns.live\/team\/c4a7a567f8ad0c888e6cd47f8a6638b09674114a1f3874235edc119c7d639691.webp"
     },
     {
       "countryName" : "Panama",
-      "displayName" : "CD Universitario",
+      "displayName" : "CA Ind. de La Chorrera II",
       "entityType" : "team",
-      "leagueName" : "Liga Panamena",
+      "leagueName" : "Liga Prom ( Division 2)",
       "legacyLookupKeys" : [
-        "panama|liga-panamena|cd universitario"
+        "panama|liga-prom-division-2|ca ind de la chorrera"
       ],
-      "lookupKey" : "panama|cd universitario",
-      "relativePath" : "teams\/panama\/cd-universitario.png",
-      "sourceURLString" : "https:\/\/r2.thesportsdb.com\/images\/media\/team\/badge\/nb1eut1768358103.png"
-    },
-    {
-      "countryName" : "Panama",
-      "displayName" : "Herrera",
-      "entityType" : "team",
-      "leagueName" : "Liga Panamena",
-      "legacyLookupKeys" : [
-        "panama|liga-panamena|herrera"
-      ],
-      "lookupKey" : "panama|herrera",
-      "relativePath" : "teams\/panama\/herrera.png",
-      "sourceURLString" : "https:\/\/r2.thesportsdb.com\/images\/media\/team\/badge\/qn68sl1644515521.png"
-    },
-    {
-      "countryName" : "Panama",
-      "displayName" : "Ind. de La Chorrera",
-      "entityType" : "team",
-      "leagueName" : "Liga Panamena",
-      "legacyLookupKeys" : [
-        "panama|liga-panamena|ind de la chorrera"
-      ],
-      "lookupKey" : "panama|ind de la chorrera",
-      "relativePath" : "teams\/panama\/ind-de-la-chorrera.png",
+      "lookupKey" : "panama|ca ind de la chorrera",
+      "relativePath" : "teams\/panama\/ca-ind-de-la-chorrera-ii.png",
       "sourceURLString" : "https:\/\/r2.thesportsdb.com\/images\/media\/team\/badge\/dra6xs1768358312.png"
     },
     {
       "countryName" : "Panama",
-      "displayName" : "Plaza Amador",
+      "displayName" : "CD Plaza Amador II",
       "entityType" : "team",
-      "leagueName" : "Liga Panamena",
+      "leagueName" : "Liga Prom ( Division 2)",
       "legacyLookupKeys" : [
-        "panama|liga-panamena|plaza amador"
+        "panama|liga-prom-division-2|cd plaza amador"
       ],
-      "lookupKey" : "panama|plaza amador",
-      "relativePath" : "teams\/panama\/plaza-amador.png",
+      "lookupKey" : "panama|cd plaza amador",
+      "relativePath" : "teams\/panama\/cd-plaza-amador-ii.png",
       "sourceURLString" : "https:\/\/r2.thesportsdb.com\/images\/media\/team\/badge\/78pior1589297968.png"
     },
     {
       "countryName" : "Panama",
-      "displayName" : "San Francisco",
+      "displayName" : "Champions FC Academy",
       "entityType" : "team",
-      "leagueName" : "Liga Panamena",
+      "leagueName" : "Liga Prom ( Division 2)",
       "legacyLookupKeys" : [
-        "panama|liga-panamena|san francisco"
+        "panama|liga-prom-division-2|champions fc academy"
       ],
-      "lookupKey" : "panama|san francisco",
-      "relativePath" : "teams\/panama\/san-francisco.png",
-      "sourceURLString" : "https:\/\/r2.thesportsdb.com\/images\/media\/team\/badge\/16pi2m1582143972.png"
+      "lookupKey" : "panama|champions fc academy",
+      "relativePath" : "teams\/panama\/champions-fc-academy.png",
+      "sourceURLString" : "https:\/\/sportcdns.live\/team\/e99a476afe1f790ba38cf04f55fb5e5d3ff0e4e458aab9d028427cdcf0e5c30b.webp"
     },
     {
       "countryName" : "Panama",
-      "displayName" : "Sporting San Miguelito",
+      "displayName" : "Chorrillo",
       "entityType" : "team",
-      "leagueName" : "Liga Panamena",
+      "leagueName" : "Liga Prom ( Division 2)",
       "legacyLookupKeys" : [
-        "panama|liga-panamena|sporting san miguelito"
+        "panama|liga-prom-division-2|chorrillo"
       ],
-      "lookupKey" : "panama|sporting san miguelito",
-      "relativePath" : "teams\/panama\/sporting-san-miguelito.png",
-      "sourceURLString" : "https:\/\/r2.thesportsdb.com\/images\/media\/team\/badge\/3y4hof1768358419.png"
+      "lookupKey" : "panama|chorrillo",
+      "relativePath" : "teams\/panama\/chorrillo.png",
+      "sourceURLString" : "https:\/\/r2.thesportsdb.com\/images\/media\/team\/badge\/3senwi1760593628.png"
     },
     {
       "countryName" : "Panama",
-      "displayName" : "Tauro",
+      "displayName" : "Dep. Bocas",
       "entityType" : "team",
-      "leagueName" : "Liga Panamena",
+      "leagueName" : "Liga Prom ( Division 2)",
       "legacyLookupKeys" : [
-        "panama|liga-panamena|tauro"
+        "panama|liga-prom-division-2|dep bocas"
       ],
-      "lookupKey" : "panama|tauro",
-      "relativePath" : "teams\/panama\/tauro.png",
-      "sourceURLString" : "https:\/\/r2.thesportsdb.com\/images\/media\/team\/badge\/paw2ia1768358478.png"
+      "lookupKey" : "panama|dep bocas",
+      "relativePath" : "teams\/panama\/dep-bocas.png",
+      "sourceURLString" : "https:\/\/sportcdns.live\/team\/fb2db3f062170662383e0e52ec4b7ed32ebb76dd861d60b8dff383923b4c77ae.webp"
     },
     {
       "countryName" : "Panama",
-      "displayName" : "UMECIT",
+      "displayName" : "Herrera FC",
       "entityType" : "team",
-      "leagueName" : "Liga Panamena",
+      "leagueName" : "Liga Prom ( Division 2)",
       "legacyLookupKeys" : [
-        "panama|liga-panamena|umecit"
+        "panama|liga-prom-division-2|herrera fc"
+      ],
+      "lookupKey" : "panama|herrera fc",
+      "relativePath" : "teams\/panama\/herrera-fc.png",
+      "sourceURLString" : "https:\/\/sportcdns.live\/team\/15c4dbc43518104f989a543ae25f8fcd98ccede9fa1265e28f16f41cf52b2f65.webp"
+    },
+    {
+      "countryName" : "Panama",
+      "displayName" : "La Familia Atalaya",
+      "entityType" : "team",
+      "leagueName" : "Liga Prom",
+      "legacyLookupKeys" : [
+        "panama|liga-prom|la familia atalaya"
+      ],
+      "lookupKey" : "panama|la familia atalaya",
+      "relativePath" : "teams\/panama\/la-familia-atalaya.png",
+      "sourceURLString" : "https:\/\/sportcdns.live\/team\/6db28d3944f644ceb5f9cfb6c9b9726b0d817e949d18e2412b9df850502cb8fd.webp"
+    },
+    {
+      "countryName" : "Panama",
+      "displayName" : "Panama City Sporting",
+      "entityType" : "team",
+      "leagueName" : "Liga Prom ( Division 2)",
+      "legacyLookupKeys" : [
+        "panama|liga-prom-division-2|panama city sporting"
+      ],
+      "lookupKey" : "panama|panama city sporting",
+      "relativePath" : "teams\/panama\/panama-city-sporting.png",
+      "sourceURLString" : "https:\/\/sportcdns.live\/team\/2e67b35e39a7c0b4d8e0a38ae7b5bbfd7f8dcf8db76bbc0383706a98c3b8e8cc.webp"
+    },
+    {
+      "countryName" : "Panama",
+      "displayName" : "San Martin Del Este",
+      "entityType" : "team",
+      "leagueName" : "Liga Prom ( Division 2)",
+      "legacyLookupKeys" : [
+        "panama|liga-prom-division-2|san martin del este"
+      ],
+      "lookupKey" : "panama|san martin del este",
+      "relativePath" : "teams\/panama\/san-martin-del-este.png",
+      "sourceURLString" : "https:\/\/sportcdns.live\/team\/484445a3ecbc2a54ae0d1b2b4ff9ad79fe9a755cba30f48da6821dc85fc1ab1c.webp"
+    },
+    {
+      "countryName" : "Panama",
+      "displayName" : "San Miguelito II",
+      "entityType" : "team",
+      "leagueName" : "Liga Prom ( Division 2)",
+      "legacyLookupKeys" : [
+        "panama|liga-prom-division-2|san miguelito"
+      ],
+      "lookupKey" : "panama|san miguelito",
+      "relativePath" : "teams\/panama\/san-miguelito-ii.png",
+      "sourceURLString" : "https:\/\/sportcdns.live\/team\/454fc1e5b841983a4ecd1c68b95f88237683a0b9c653f6b71791b3483e551ca6.webp"
+    },
+    {
+      "countryName" : "Panama",
+      "displayName" : "SD Atl. Nacional",
+      "entityType" : "team",
+      "leagueName" : "Liga Prom ( Division 2)",
+      "legacyLookupKeys" : [
+        "panama|liga-prom-division-2|sd atl nacional"
+      ],
+      "lookupKey" : "panama|sd atl nacional",
+      "relativePath" : "teams\/panama\/sd-atl-nacional.png",
+      "sourceURLString" : "https:\/\/sportcdns.live\/team\/e561aecb9703889b11a7787d76f682129c6720ed6f352e6a8a13688b7cc893d4.webp"
+    },
+    {
+      "countryName" : "Panama",
+      "displayName" : "Udelas",
+      "entityType" : "team",
+      "leagueName" : "Liga Prom ( Division 2)",
+      "legacyLookupKeys" : [
+        "panama|liga-prom-division-2|udelas"
+      ],
+      "lookupKey" : "panama|udelas",
+      "relativePath" : "teams\/panama\/udelas.png",
+      "sourceURLString" : "https:\/\/sportcdns.live\/team\/d5a1840ae4d8f345bad4f79a4ff371866db2dd5faa386d8be2d6d08db1538b02.webp"
+    },
+    {
+      "countryName" : "Panama",
+      "displayName" : "UMECIT II",
+      "entityType" : "team",
+      "leagueName" : "Liga Prom ( Division 2)",
+      "legacyLookupKeys" : [
+        "panama|liga-prom-division-2|umecit"
       ],
       "lookupKey" : "panama|umecit",
-      "relativePath" : "teams\/panama\/umecit.png",
+      "relativePath" : "teams\/panama\/umecit-ii.png",
       "sourceURLString" : "https:\/\/r2.thesportsdb.com\/images\/media\/team\/badge\/nhwml41674118697.png"
     },
     {
       "countryName" : "Panama",
-      "displayName" : "Union Cocle",
+      "displayName" : "Veraguas United II",
       "entityType" : "team",
-      "leagueName" : "Liga Panamena",
+      "leagueName" : "Liga Prom ( Division 2)",
       "legacyLookupKeys" : [
-        "panama|liga-panamena|union cocle"
-      ],
-      "lookupKey" : "panama|union cocle",
-      "relativePath" : "teams\/panama\/union-cocle.png",
-      "sourceURLString" : "https:\/\/r2.thesportsdb.com\/images\/media\/team\/badge\/d725k41768357587.png"
-    },
-    {
-      "countryName" : "Panama",
-      "displayName" : "Veraguas United",
-      "entityType" : "team",
-      "leagueName" : "Liga Panamena",
-      "legacyLookupKeys" : [
-        "panama|liga-panamena|veraguas united"
+        "panama|liga-prom-division-2|veraguas united"
       ],
       "lookupKey" : "panama|veraguas united",
-      "relativePath" : "teams\/panama\/veraguas-united.png",
+      "relativePath" : "teams\/panama\/veraguas-united-ii.png",
       "sourceURLString" : "https:\/\/r2.thesportsdb.com\/images\/media\/team\/badge\/zwx9x51649354013.png"
     }
   ],
-  "generatedAt" : "2026-04-22T19:47:08Z"
+  "generatedAt" : "2026-04-22T20:04:56Z"
 }
