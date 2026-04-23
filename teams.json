@@ -16,11 +16,18 @@
     },
     {
       "legacyLookupKeys" : [
+        "guatemala|segunda-division-de|dep catocha"
+      ],
+      "lookupKey" : "guatemala|dep catocha",
+      "relativePath" : "teams\/guatemala\/dep-catocha.png"
+    },
+    {
+      "legacyLookupKeys" : [
         "honduras|liga-de-ascenso|ca boca juniors tocoa"
       ],
       "lookupKey" : "honduras|ca boca juniors tocoa",
       "relativePath" : "teams\/honduras\/ca-boca-juniors-tocoa.png"
     }
   ],
-  "generatedAt" : "2026-04-23T09:04:11Z"
+  "generatedAt" : "2026-04-23T09:06:35Z"
 }
