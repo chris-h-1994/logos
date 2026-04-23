@@ -58,11 +58,18 @@
     },
     {
       "legacyLookupKeys" : [
+        "guatemala|segunda-division|san luis fc"
+      ],
+      "lookupKey" : "guatemala|san luis fc",
+      "relativePath" : "teams\/guatemala\/san-luis-fc.png"
+    },
+    {
+      "legacyLookupKeys" : [
         "honduras|liga-de-ascenso|ca boca juniors tocoa"
       ],
       "lookupKey" : "honduras|ca boca juniors tocoa",
       "relativePath" : "teams\/honduras\/ca-boca-juniors-tocoa.png"
     }
   ],
-  "generatedAt" : "2026-04-23T09:17:26Z"
+  "generatedAt" : "2026-04-23T09:20:50Z"
 }
