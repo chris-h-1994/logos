@@ -1,54 +1,41 @@
 {
   "entries" : [
     {
+      "countryName" : "Ecuador",
+      "displayName" : "Ind. Juniors",
+      "entityType" : "team",
+      "leagueName" : "Copa",
       "legacyLookupKeys" : [
         "ecuador|copa|ind juniors"
       ],
       "lookupKey" : "ecuador|ind juniors",
-      "relativePath" : "teams\/ecuador\/ind-juniors.png"
+      "relativePath" : "teams\/ecuador\/ind-juniors.png",
+      "sourceURLString" : "https:\/\/r2.thesportsdb.com\/images\/media\/team\/badge\/fwtb9j1615839275.png\/medium"
     },
     {
+      "countryName" : "Honduras",
+      "displayName" : "Boca Juniors Tocoa",
+      "entityType" : "team",
+      "leagueName" : "Liga de Ascenso",
       "legacyLookupKeys" : [
         "honduras|liga-de-ascenso|boca juniors tocoa"
       ],
       "lookupKey" : "honduras|boca juniors tocoa",
-      "relativePath" : "teams\/honduras\/boca-juniors-tocoa.png"
+      "relativePath" : "teams\/honduras\/boca-juniors-tocoa.png",
+      "sourceURLString" : "https:\/\/github.com\/chris-h-1994\/logos\/blob\/main\/teams\/honduras\/boca-juniors-tocoa.png?raw=true"
     },
     {
-      "legacyLookupKeys" : [
-        "honduras|liga-de-ascenso|cuervos"
-      ],
-      "lookupKey" : "honduras|cuervos",
-      "relativePath" : "teams\/honduras\/cuervos.png"
-    },
-    {
-      "legacyLookupKeys" : [
-        "panama|liga-panamena|arabe unido"
-      ],
-      "lookupKey" : "panama|arabe unido",
-      "relativePath" : "teams\/panama\/arabe-unido.png"
-    },
-    {
-      "legacyLookupKeys" : [
-        "panama|liga-panamena|umecit"
-      ],
-      "lookupKey" : "panama|umecit",
-      "relativePath" : "teams\/panama\/umecit.png"
-    },
-    {
-      "legacyLookupKeys" : [
-        "panama|liga-panamena|veraguas united"
-      ],
-      "lookupKey" : "panama|veraguas united",
-      "relativePath" : "teams\/panama\/veraguas-united.png"
-    },
-    {
+      "countryName" : "Südamerika",
+      "displayName" : "Boca Juniors",
+      "entityType" : "team",
+      "leagueName" : "Conmebol Libertadores",
       "legacyLookupKeys" : [
         "sudamerika|conmebol-libertadores|boca juniors"
       ],
       "lookupKey" : "sudamerika|boca juniors",
-      "relativePath" : "teams\/sudamerika\/boca-juniors.png"
+      "relativePath" : "teams\/sudamerika\/boca-juniors.png",
+      "sourceURLString" : "https:\/\/r2.thesportsdb.com\/images\/media\/team\/badge\/bm7krb1775741582.png\/medium"
     }
   ],
-  "generatedAt" : "2026-04-23T22:10:43Z"
+  "generatedAt" : "2026-04-23T22:34:38Z"
 }
