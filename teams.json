@@ -23,11 +23,18 @@
     },
     {
       "legacyLookupKeys" : [
+        "guatemala|segunda-division-de|dep san sebastian"
+      ],
+      "lookupKey" : "guatemala|dep san sebastian",
+      "relativePath" : "teams\/guatemala\/dep-san-sebastian.png"
+    },
+    {
+      "legacyLookupKeys" : [
         "honduras|liga-de-ascenso|ca boca juniors tocoa"
       ],
       "lookupKey" : "honduras|ca boca juniors tocoa",
       "relativePath" : "teams\/honduras\/ca-boca-juniors-tocoa.png"
     }
   ],
-  "generatedAt" : "2026-04-23T09:06:35Z"
+  "generatedAt" : "2026-04-23T09:08:07Z"
 }
