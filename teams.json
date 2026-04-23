@@ -51,11 +51,18 @@
     },
     {
       "legacyLookupKeys" : [
+        "guatemala|segunda-division|juventud cachacera"
+      ],
+      "lookupKey" : "guatemala|juventud cachacera",
+      "relativePath" : "teams\/guatemala\/juventud-cachacera.png"
+    },
+    {
+      "legacyLookupKeys" : [
         "honduras|liga-de-ascenso|ca boca juniors tocoa"
       ],
       "lookupKey" : "honduras|ca boca juniors tocoa",
       "relativePath" : "teams\/honduras\/ca-boca-juniors-tocoa.png"
     }
   ],
-  "generatedAt" : "2026-04-23T09:15:28Z"
+  "generatedAt" : "2026-04-23T09:17:26Z"
 }
