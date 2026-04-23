@@ -1,29 +1,26 @@
 {
   "entries" : [
     {
-      "countryName" : "Ecuador",
-      "displayName" : "Ind. Juniors",
-      "entityType" : "team",
-      "leagueName" : "Copa",
       "legacyLookupKeys" : [
         "ecuador|copa|ind juniors"
       ],
       "lookupKey" : "ecuador|ind juniors",
-      "relativePath" : "teams\/ecuador\/ind-juniors.png",
-      "sourceURLString" : "https:\/\/r2.thesportsdb.com\/images\/media\/team\/badge\/fwtb9j1615839275.png\/medium"
+      "relativePath" : "teams\/ecuador\/ind-juniors.png"
     },
     {
-      "countryName" : "Honduras",
-      "displayName" : "CA Boca Juniors Tocoa",
-      "entityType" : "team",
-      "leagueName" : "Liga de Ascenso",
+      "legacyLookupKeys" : [
+        "guatemala|segunda-division-de|champs academy"
+      ],
+      "lookupKey" : "guatemala|champs academy",
+      "relativePath" : "teams\/guatemala\/champs-academy.png"
+    },
+    {
       "legacyLookupKeys" : [
         "honduras|liga-de-ascenso|ca boca juniors tocoa"
       ],
       "lookupKey" : "honduras|ca boca juniors tocoa",
-      "relativePath" : "teams\/honduras\/ca-boca-juniors-tocoa.png",
-      "sourceURLString" : "https:\/\/sportcdns.live\/team\/66c8320e6b1492ea43857102408bbedd1a3c9afa56c782c7fc68446cde36b00b.webp"
+      "relativePath" : "teams\/honduras\/ca-boca-juniors-tocoa.png"
     }
   ],
-  "generatedAt" : "2026-04-22T21:08:43Z"
+  "generatedAt" : "2026-04-23T09:04:11Z"
 }
