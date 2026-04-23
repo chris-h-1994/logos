@@ -13,340 +13,16 @@
       "sourceURLString" : "https:\/\/r2.thesportsdb.com\/images\/media\/team\/badge\/fwtb9j1615839275.png\/medium"
     },
     {
-      "countryName" : "Guatemala",
-      "displayName" : "America Salcaja",
+      "countryName" : "Ecuador",
+      "displayName" : "LDU Quito",
       "entityType" : "team",
-      "leagueName" : "Segunda Division",
+      "leagueName" : "Conmebol Libertadores",
       "legacyLookupKeys" : [
-        "guatemala|segunda-division|america salcaja"
+        "ecuador|conmebol-libertadores|ldu quito"
       ],
-      "lookupKey" : "guatemala|america salcaja",
-      "relativePath" : "teams\/guatemala\/america-salcaja.png",
-      "sourceURLString" : "https:\/\/img.sofascore.com\/api\/v1\/team\/407864\/image"
-    },
-    {
-      "countryName" : "Guatemala",
-      "displayName" : "CD Cabanas",
-      "entityType" : "team",
-      "leagueName" : "Segunda Division",
-      "legacyLookupKeys" : [
-        "guatemala|segunda-division|cd cabanas"
-      ],
-      "lookupKey" : "guatemala|cd cabanas",
-      "relativePath" : "teams\/guatemala\/cd-cabanas.png",
-      "sourceURLString" : "https:\/\/tmssl.akamaized.net\/\/images\/wappen\/head\/134421.png?lm=1758158137"
-    },
-    {
-      "countryName" : "Guatemala",
-      "displayName" : "CD San Jorge",
-      "entityType" : "team",
-      "leagueName" : "Segunda Division",
-      "legacyLookupKeys" : [
-        "guatemala|segunda-division|cd san jorge"
-      ],
-      "lookupKey" : "guatemala|cd san jorge",
-      "relativePath" : "teams\/guatemala\/cd-san-jorge.png",
-      "sourceURLString" : "https:\/\/img.sofascore.com\/api\/v1\/team\/375377\/image"
-    },
-    {
-      "countryName" : "Guatemala",
-      "displayName" : "Chiantla",
-      "entityType" : "team",
-      "leagueName" : "Segunda Division",
-      "legacyLookupKeys" : [
-        "guatemala|segunda-division|chiantla"
-      ],
-      "lookupKey" : "guatemala|chiantla",
-      "relativePath" : "teams\/guatemala\/chiantla.png",
-      "sourceURLString" : "https:\/\/img.sofascore.com\/api\/v1\/team\/293408\/image"
-    },
-    {
-      "countryName" : "Guatemala",
-      "displayName" : "Colomba FC",
-      "entityType" : "team",
-      "leagueName" : "Segunda Division",
-      "legacyLookupKeys" : [
-        "guatemala|segunda-division|colomba fc"
-      ],
-      "lookupKey" : "guatemala|colomba fc",
-      "relativePath" : "teams\/guatemala\/colomba-fc.png",
-      "sourceURLString" : "https:\/\/img.sofascore.com\/api\/v1\/team\/375946\/image"
-    },
-    {
-      "countryName" : "Guatemala",
-      "displayName" : "CSD Amatitlan",
-      "entityType" : "team",
-      "leagueName" : "Segunda Division de",
-      "legacyLookupKeys" : [
-        "guatemala|segunda-division-de|csd amatitlan"
-      ],
-      "lookupKey" : "guatemala|csd amatitlan",
-      "relativePath" : "teams\/guatemala\/csd-amatitlan.png",
-      "sourceURLString" : "https:\/\/img.sofascore.com\/api\/v1\/team\/375934\/image"
-    },
-    {
-      "countryName" : "Guatemala",
-      "displayName" : "CSD Ayutla",
-      "entityType" : "team",
-      "leagueName" : "Segunda Division",
-      "legacyLookupKeys" : [
-        "guatemala|segunda-division|csd ayutla"
-      ],
-      "lookupKey" : "guatemala|csd ayutla",
-      "relativePath" : "teams\/guatemala\/csd-ayutla.png",
-      "sourceURLString" : "https:\/\/img.sofascore.com\/api\/v1\/team\/296078\/image"
-    },
-    {
-      "countryName" : "Guatemala",
-      "displayName" : "CSD Sayaxche",
-      "entityType" : "team",
-      "leagueName" : "Segunda Division de",
-      "legacyLookupKeys" : [
-        "guatemala|segunda-division-de|csd sayaxche"
-      ],
-      "lookupKey" : "guatemala|csd sayaxche",
-      "relativePath" : "teams\/guatemala\/csd-sayaxche.png",
-      "sourceURLString" : "https:\/\/img.sofascore.com\/api\/v1\/team\/464640\/image"
-    },
-    {
-      "countryName" : "Guatemala",
-      "displayName" : "Cuilapa",
-      "entityType" : "team",
-      "leagueName" : "Segunda Division de",
-      "legacyLookupKeys" : [
-        "guatemala|segunda-division-de|cuilapa"
-      ],
-      "lookupKey" : "guatemala|cuilapa",
-      "relativePath" : "teams\/guatemala\/cuilapa.png",
-      "sourceURLString" : "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/c\/c0\/Escudo_de_Santa_Rosa_y_Cuilapa.svg\/500px-Escudo_de_Santa_Rosa_y_Cuilapa.svg.png"
-    },
-    {
-      "countryName" : "Guatemala",
-      "displayName" : "Dep. Barillas",
-      "entityType" : "team",
-      "leagueName" : "Segunda Division de",
-      "legacyLookupKeys" : [
-        "guatemala|segunda-division-de|dep barillas"
-      ],
-      "lookupKey" : "guatemala|dep barillas",
-      "relativePath" : "teams\/guatemala\/dep-barillas.png",
-      "sourceURLString" : "https:\/\/img.sofascore.com\/api\/v1\/team\/464769\/image"
-    },
-    {
-      "countryName" : "Guatemala",
-      "displayName" : "Dep. Palencia",
-      "entityType" : "team",
-      "leagueName" : "Segunda Division",
-      "legacyLookupKeys" : [
-        "guatemala|segunda-division|dep palencia"
-      ],
-      "lookupKey" : "guatemala|dep palencia",
-      "relativePath" : "teams\/guatemala\/dep-palencia.png",
-      "sourceURLString" : "https:\/\/img.sofascore.com\/api\/v1\/team\/464646\/image"
-    },
-    {
-      "countryName" : "Guatemala",
-      "displayName" : "Dep. Patutul",
-      "entityType" : "team",
-      "leagueName" : "Segunda Division de",
-      "legacyLookupKeys" : [
-        "guatemala|segunda-division-de|dep patutul"
-      ],
-      "lookupKey" : "guatemala|dep patutul",
-      "relativePath" : "teams\/guatemala\/dep-patutul.png",
-      "sourceURLString" : "https:\/\/sportcdns.live\/team\/b1ce2968d508f5bc45d1d562f3aa982412f9a03432e04c1b448a6cc697d63cf4.webp"
-    },
-    {
-      "countryName" : "Guatemala",
-      "displayName" : "El Mazateco AF",
-      "entityType" : "team",
-      "leagueName" : "Segunda Division",
-      "legacyLookupKeys" : [
-        "guatemala|segunda-division|el mazateco af"
-      ],
-      "lookupKey" : "guatemala|el mazateco af",
-      "relativePath" : "teams\/guatemala\/el-mazateco-af.png",
-      "sourceURLString" : "https:\/\/img.sofascore.com\/api\/v1\/team\/485567\/image"
-    },
-    {
-      "countryName" : "Guatemala",
-      "displayName" : "Fraijanes",
-      "entityType" : "team",
-      "leagueName" : "Segunda Division de",
-      "legacyLookupKeys" : [
-        "guatemala|segunda-division-de|fraijanes"
-      ],
-      "lookupKey" : "guatemala|fraijanes",
-      "relativePath" : "teams\/guatemala\/fraijanes.png",
-      "sourceURLString" : "https:\/\/imagecache.365scores.com\/image\/upload\/f_png,w_250,h_250,c_limit,q_auto:eco,d_Competitors:default1.png\/v2\/Competitors\/76447"
-    },
-    {
-      "countryName" : "Guatemala",
-      "displayName" : "Jacalteco",
-      "entityType" : "team",
-      "leagueName" : "Segunda Division",
-      "legacyLookupKeys" : [
-        "guatemala|segunda-division|jacalteco"
-      ],
-      "lookupKey" : "guatemala|jacalteco",
-      "relativePath" : "teams\/guatemala\/jacalteco.png",
-      "sourceURLString" : "https:\/\/img.sofascore.com\/api\/v1\/team\/485564\/image"
-    },
-    {
-      "countryName" : "Guatemala",
-      "displayName" : "Jocotan",
-      "entityType" : "team",
-      "leagueName" : "Segunda Division",
-      "legacyLookupKeys" : [
-        "guatemala|segunda-division|jocotan"
-      ],
-      "lookupKey" : "guatemala|jocotan",
-      "relativePath" : "teams\/guatemala\/jocotan.png",
-      "sourceURLString" : "https:\/\/sortitoutsi.b-cdn.net\/uploads\/team\/87033704.png"
-    },
-    {
-      "countryName" : "Guatemala",
-      "displayName" : "Jutiapa",
-      "entityType" : "team",
-      "leagueName" : "Segunda Division de",
-      "legacyLookupKeys" : [
-        "guatemala|segunda-division-de|jutiapa"
-      ],
-      "lookupKey" : "guatemala|jutiapa",
-      "relativePath" : "teams\/guatemala\/jutiapa.png",
-      "sourceURLString" : "https:\/\/img.sofascore.com\/api\/v1\/team\/464643\/image"
-    },
-    {
-      "countryName" : "Guatemala",
-      "displayName" : "Juventud Esquipulteca",
-      "entityType" : "team",
-      "leagueName" : "Segunda Division",
-      "legacyLookupKeys" : [
-        "guatemala|segunda-division|juventud esquipulteca"
-      ],
-      "lookupKey" : "guatemala|juventud esquipulteca",
-      "relativePath" : "teams\/guatemala\/juventud-esquipulteca.png",
-      "sourceURLString" : "https:\/\/imagecache.365scores.com\/image\/upload\/f_png,w_250,h_250,c_limit,q_auto:eco,d_Competitors:default1.png\/v2\/Competitors\/90081"
-    },
-    {
-      "countryName" : "Guatemala",
-      "displayName" : "Monjas FC",
-      "entityType" : "team",
-      "leagueName" : "Segunda Division",
-      "legacyLookupKeys" : [
-        "guatemala|segunda-division|monjas fc"
-      ],
-      "lookupKey" : "guatemala|monjas fc",
-      "relativePath" : "teams\/guatemala\/monjas-fc.png",
-      "sourceURLString" : "https:\/\/imagecache.365scores.com\/image\/upload\/f_png,w_250,h_250,c_limit,q_auto:eco,d_Competitors:default1.png\/v2\/Competitors\/90085"
-    },
-    {
-      "countryName" : "Guatemala",
-      "displayName" : "Puerto San Jose",
-      "entityType" : "team",
-      "leagueName" : "Segunda Division",
-      "legacyLookupKeys" : [
-        "guatemala|segunda-division|puerto san jose"
-      ],
-      "lookupKey" : "guatemala|puerto san jose",
-      "relativePath" : "teams\/guatemala\/puerto-san-jose.png",
-      "sourceURLString" : "https:\/\/img.sofascore.com\/api\/v1\/team\/463194\/image"
-    },
-    {
-      "countryName" : "Guatemala",
-      "displayName" : "San Jose del Golfo",
-      "entityType" : "team",
-      "leagueName" : "Segunda Division",
-      "legacyLookupKeys" : [
-        "guatemala|segunda-division|san jose del golfo"
-      ],
-      "lookupKey" : "guatemala|san jose del golfo",
-      "relativePath" : "teams\/guatemala\/san-jose-del-golfo.png",
-      "sourceURLString" : "https:\/\/imagecache.365scores.com\/image\/upload\/f_png,w_250,h_250,c_limit,q_auto:eco,d_Competitors:default1.png\/v2\/Competitors\/90088"
-    },
-    {
-      "countryName" : "Guatemala",
-      "displayName" : "San Pedro FC",
-      "entityType" : "team",
-      "leagueName" : "Segunda Division",
-      "legacyLookupKeys" : [
-        "guatemala|segunda-division|san pedro fc"
-      ],
-      "lookupKey" : "guatemala|san pedro fc",
-      "relativePath" : "teams\/guatemala\/san-pedro-fc.png",
-      "sourceURLString" : "https:\/\/img.sofascore.com\/api\/v1\/team\/355000\/image"
-    },
-    {
-      "countryName" : "Guatemala",
-      "displayName" : "Sanarate FC",
-      "entityType" : "team",
-      "leagueName" : "Segunda Division",
-      "legacyLookupKeys" : [
-        "guatemala|segunda-division|sanarate fc"
-      ],
-      "lookupKey" : "guatemala|sanarate fc",
-      "relativePath" : "teams\/guatemala\/sanarate-fc.png",
-      "sourceURLString" : "https:\/\/img.sofascore.com\/api\/v1\/team\/261285\/image"
-    },
-    {
-      "countryName" : "Guatemala",
-      "displayName" : "Sansare",
-      "entityType" : "team",
-      "leagueName" : "Segunda Division de",
-      "legacyLookupKeys" : [
-        "guatemala|segunda-division-de|sansare"
-      ],
-      "lookupKey" : "guatemala|sansare",
-      "relativePath" : "teams\/guatemala\/sansare.png",
-      "sourceURLString" : "https:\/\/cd.futbolchapin.app\/wp-content\/uploads\/2021\/01\/logo-sansare.png"
-    },
-    {
-      "countryName" : "Guatemala",
-      "displayName" : "Santa Cruz AV",
-      "entityType" : "team",
-      "leagueName" : "Segunda Division",
-      "legacyLookupKeys" : [
-        "guatemala|segunda-division|santa cruz av"
-      ],
-      "lookupKey" : "guatemala|santa cruz av",
-      "relativePath" : "teams\/guatemala\/santa-cruz-av.png",
-      "sourceURLString" : "https:\/\/img.sofascore.com\/api\/v1\/team\/464639\/image"
-    },
-    {
-      "countryName" : "Guatemala",
-      "displayName" : "Sija FC",
-      "entityType" : "team",
-      "leagueName" : "Segunda Division",
-      "legacyLookupKeys" : [
-        "guatemala|segunda-division|sija fc"
-      ],
-      "lookupKey" : "guatemala|sija fc",
-      "relativePath" : "teams\/guatemala\/sija-fc.png",
-      "sourceURLString" : "https:\/\/img.sofascore.com\/api\/v1\/team\/464774\/image"
-    },
-    {
-      "countryName" : "Guatemala",
-      "displayName" : "Tigres del Jumay",
-      "entityType" : "team",
-      "leagueName" : "Segunda Division de",
-      "legacyLookupKeys" : [
-        "guatemala|segunda-division-de|tigres del jumay"
-      ],
-      "lookupKey" : "guatemala|tigres del jumay",
-      "relativePath" : "teams\/guatemala\/tigres-del-jumay.png",
-      "sourceURLString" : "https:\/\/img.sofascore.com\/api\/v1\/team\/464644\/image"
-    },
-    {
-      "countryName" : "Guatemala",
-      "displayName" : "Universidad de San Carlos",
-      "entityType" : "team",
-      "leagueName" : "Segunda Division de",
-      "legacyLookupKeys" : [
-        "guatemala|segunda-division-de|universidad de san carlos"
-      ],
-      "lookupKey" : "guatemala|universidad de san carlos",
-      "relativePath" : "teams\/guatemala\/universidad-de-san-carlos.png",
-      "sourceURLString" : "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/4\/4a\/Usac_logo.png"
+      "lookupKey" : "ecuador|ldu quito",
+      "relativePath" : "teams\/ecuador\/ldu-quito.png",
+      "sourceURLString" : "https:\/\/r2.thesportsdb.com\/images\/media\/team\/badge\/5tf5ch1736404372.png"
     },
     {
       "countryName" : "Honduras",
@@ -361,351 +37,280 @@
       "sourceURLString" : "https:\/\/sportcdns.live\/team\/66c8320e6b1492ea43857102408bbedd1a3c9afa56c782c7fc68446cde36b00b.webp"
     },
     {
-      "countryName" : "Paraguay",
-      "displayName" : "Copa",
+      "countryName" : "Uruguay",
+      "displayName" : "Tercera Division Reserves",
       "entityType" : "league",
       "legacyLookupKeys" : [
-        "paraguay|copa"
+        "uruguay|tercera-division-reserves"
       ],
-      "lookupKey" : "league|paraguay|copa",
-      "relativePath" : "leagues\/paraguay\/copa.png",
-      "sourceURLString" : "https:\/\/r2.thesportsdb.com\/images\/media\/league\/badge\/sk46bb1764024619.png\/medium"
+      "lookupKey" : "league|uruguay|tercera-division-reserves",
+      "relativePath" : "leagues\/uruguay\/tercera-division-reserves.png",
+      "sourceURLString" : "https:\/\/imagecache.365scores.com\/image\/upload\/f_png,w_250,h_250,c_limit,q_auto:eco,d_Countries:Round:111.png\/v2\/Competitions\/7715"
     },
     {
-      "countryName" : "Peru",
-      "displayName" : "Liga Femenina",
-      "entityType" : "league",
-      "legacyLookupKeys" : [
-        "peru|liga-femenina"
-      ],
-      "lookupKey" : "league|peru|liga-femenina",
-      "relativePath" : "leagues\/peru\/liga-femenina.png",
-      "sourceURLString" : "https:\/\/img.sofascore.com\/api\/v1\/unique-tournament\/18718\/image"
-    },
-    {
-      "countryName" : "Peru",
-      "displayName" : "Alianza Universidad",
-      "entityType" : "team",
-      "leagueName" : "Liga 2",
-      "legacyLookupKeys" : [
-        "peru|liga-2|alianza universidad"
-      ],
-      "lookupKey" : "peru|alianza universidad",
-      "relativePath" : "teams\/peru\/alianza-universidad.png",
-      "sourceURLString" : "https:\/\/r2.thesportsdb.com\/images\/media\/team\/badge\/z3nftr1681318889.png"
-    },
-    {
-      "countryName" : "Peru",
-      "displayName" : "Atl. Andahuaylas Frauen",
-      "entityType" : "team",
-      "leagueName" : "Liga Femenina",
-      "legacyLookupKeys" : [
-        "peru|liga-femenina|atl andahuaylas"
-      ],
-      "lookupKey" : "peru|atl andahuaylas",
-      "relativePath" : "teams\/peru\/atl-andahuaylas-frauen.png",
-      "sourceURLString" : "https:\/\/img.sofascore.com\/api\/v1\/team\/1176810\/image"
-    },
-    {
-      "countryName" : "Peru",
-      "displayName" : "Biavo Frauen",
-      "entityType" : "team",
-      "leagueName" : "Liga Femenina",
-      "legacyLookupKeys" : [
-        "peru|liga-femenina|biavo"
-      ],
-      "lookupKey" : "peru|biavo",
-      "relativePath" : "teams\/peru\/biavo-frauen.png",
-      "sourceURLString" : "https:\/\/img.sofascore.com\/api\/v1\/team\/511131\/image"
-    },
-    {
-      "countryName" : "Peru",
-      "displayName" : "CD Estudiantil Cni",
-      "entityType" : "team",
-      "leagueName" : "Liga 2",
-      "legacyLookupKeys" : [
-        "peru|liga-2|cd estudiantil cni"
-      ],
-      "lookupKey" : "peru|cd estudiantil cni",
-      "relativePath" : "teams\/peru\/cd-estudiantil-cni.png",
-      "sourceURLString" : "https:\/\/r2.thesportsdb.com\/images\/media\/team\/badge\/pwin5j1773330180.png"
-    },
-    {
-      "countryName" : "Peru",
-      "displayName" : "Comerciantes",
-      "entityType" : "team",
-      "leagueName" : "Liga 2",
-      "legacyLookupKeys" : [
-        "peru|liga-2|comerciantes"
-      ],
-      "lookupKey" : "peru|comerciantes",
-      "relativePath" : "teams\/peru\/comerciantes.png",
-      "sourceURLString" : "https:\/\/r2.thesportsdb.com\/images\/media\/team\/badge\/e94k6k1680186677.png"
-    },
-    {
-      "countryName" : "Peru",
-      "displayName" : "Defensores Del Ilucan Frauen",
-      "entityType" : "team",
-      "leagueName" : "Liga Femenina",
-      "legacyLookupKeys" : [
-        "peru|liga-femenina|defensores del ilucan"
-      ],
-      "lookupKey" : "peru|defensores del ilucan",
-      "relativePath" : "teams\/peru\/defensores-del-ilucan-frauen.png",
-      "sourceURLString" : "https:\/\/img.sofascore.com\/api\/v1\/team\/466931\/image"
-    },
-    {
-      "countryName" : "Peru",
-      "displayName" : "FC Cajamarca",
-      "entityType" : "team",
-      "leagueName" : "Liga 1",
-      "legacyLookupKeys" : [
-        "peru|liga-1|fc cajamarca"
-      ],
-      "lookupKey" : "peru|fc cajamarca",
-      "relativePath" : "teams\/peru\/fc-cajamarca.png",
-      "sourceURLString" : "https:\/\/r2.thesportsdb.com\/images\/media\/team\/badge\/fl9mlx1768236425.png"
-    },
-    {
-      "countryName" : "Peru",
-      "displayName" : "Flamengo FBC Frauen",
-      "entityType" : "team",
-      "leagueName" : "Liga Femenina",
-      "legacyLookupKeys" : [
-        "peru|liga-femenina|flamengo fbc"
-      ],
-      "lookupKey" : "peru|flamengo fbc",
-      "relativePath" : "teams\/peru\/flamengo-fbc-frauen.png",
-      "sourceURLString" : "https:\/\/img.sofascore.com\/api\/v1\/team\/1079688\/image"
-    },
-    {
-      "countryName" : "Peru",
-      "displayName" : "Killas Frauen",
-      "entityType" : "team",
-      "leagueName" : "Liga Femenina",
-      "legacyLookupKeys" : [
-        "peru|liga-femenina|killas"
-      ],
-      "lookupKey" : "peru|killas",
-      "relativePath" : "teams\/peru\/killas-frauen.png",
-      "sourceURLString" : "https:\/\/img.sofascore.com\/api\/v1\/team\/414076\/image"
-    },
-    {
-      "countryName" : "Peru",
-      "displayName" : "Santos Ica",
-      "entityType" : "team",
-      "leagueName" : "Liga 2",
-      "legacyLookupKeys" : [
-        "peru|liga-2|santos ica"
-      ],
-      "lookupKey" : "peru|santos ica",
-      "relativePath" : "teams\/peru\/santos-ica.png",
-      "sourceURLString" : "https:\/\/r2.thesportsdb.com\/images\/media\/team\/badge\/ygs51r1734970363.png\/medium"
-    },
-    {
-      "countryName" : "Peru",
-      "displayName" : "Universidad San Martin",
-      "entityType" : "team",
-      "leagueName" : "Liga 2",
-      "legacyLookupKeys" : [
-        "peru|liga-2|universidad san martin"
-      ],
-      "lookupKey" : "peru|universidad san martin",
-      "relativePath" : "teams\/peru\/universidad-san-martin.png",
-      "sourceURLString" : "https:\/\/r2.thesportsdb.com\/images\/media\/team\/badge\/0syddp1678412224.png\/medium"
-    },
-    {
-      "countryName" : "Peru",
-      "displayName" : "Universitario Frauen",
-      "entityType" : "team",
-      "leagueName" : "Liga Femenina",
-      "legacyLookupKeys" : [
-        "peru|liga-femenina|universitario"
-      ],
-      "lookupKey" : "peru|universitario",
-      "relativePath" : "teams\/peru\/universitario-frauen.png",
-      "sourceURLString" : "https:\/\/r2.thesportsdb.com\/images\/media\/team\/badge\/xt290m1603137966.png"
-    },
-    {
-      "countryName" : "Peru",
-      "displayName" : "UNSAAC Frauen",
-      "entityType" : "team",
-      "leagueName" : "Liga Femenina",
-      "legacyLookupKeys" : [
-        "peru|liga-femenina|unsaac"
-      ],
-      "lookupKey" : "peru|unsaac",
-      "relativePath" : "teams\/peru\/unsaac-frauen.png",
-      "sourceURLString" : "https:\/\/img.sofascore.com\/api\/v1\/team\/511132\/image"
-    },
-    {
-      "countryName" : "Peru",
-      "displayName" : "Yanapuma Frauen",
-      "entityType" : "team",
-      "leagueName" : "Liga Femenina",
-      "legacyLookupKeys" : [
-        "peru|liga-femenina|yanapuma"
-      ],
-      "lookupKey" : "peru|yanapuma",
-      "relativePath" : "teams\/peru\/yanapuma-frauen.png",
-      "sourceURLString" : "https:\/\/img.sofascore.com\/api\/v1\/team\/1176809\/image"
-    },
-    {
-      "countryName" : "Venezuela",
-      "displayName" : "AC Mineros de Guayana",
-      "entityType" : "team",
-      "leagueName" : "Segunda Division",
-      "legacyLookupKeys" : [
-        "venezuela|segunda-division|ac mineros de guayana"
-      ],
-      "lookupKey" : "venezuela|ac mineros de guayana",
-      "relativePath" : "teams\/venezuela\/ac-mineros-de-guayana.png",
-      "sourceURLString" : "https:\/\/r2.thesportsdb.com\/images\/media\/team\/badge\/dokbz71751736828.png"
-    },
-    {
-      "countryName" : "Venezuela",
-      "displayName" : "Academia Anzoategui",
-      "entityType" : "team",
-      "leagueName" : "Primera Division",
-      "legacyLookupKeys" : [
-        "venezuela|primera-division|academia anzoategui"
-      ],
-      "lookupKey" : "venezuela|academia anzoategui",
-      "relativePath" : "teams\/venezuela\/academia-anzoategui.png",
-      "sourceURLString" : "https:\/\/r2.thesportsdb.com\/images\/media\/team\/badge\/20ye1d1576506458.png"
-    },
-    {
-      "countryName" : "Venezuela",
-      "displayName" : "Atl. Avila FC",
-      "entityType" : "team",
-      "leagueName" : "Segunda Division",
-      "legacyLookupKeys" : [
-        "venezuela|segunda-division|atl avila fc"
-      ],
-      "lookupKey" : "venezuela|atl avila fc",
-      "relativePath" : "teams\/venezuela\/atl-avila-fc.png",
-      "sourceURLString" : "https:\/\/r2.thesportsdb.com\/images\/media\/team\/badge\/nkl86z1771987927.png"
-    },
-    {
-      "countryName" : "Venezuela",
-      "displayName" : "Atl. El Vigia",
-      "entityType" : "team",
-      "leagueName" : "Segunda Division",
-      "legacyLookupKeys" : [
-        "venezuela|segunda-division|atl el vigia"
-      ],
-      "lookupKey" : "venezuela|atl el vigia",
-      "relativePath" : "teams\/venezuela\/atl-el-vigia.png",
-      "sourceURLString" : "https:\/\/r2.thesportsdb.com\/images\/media\/team\/badge\/ug6ba21751737545.png"
-    },
-    {
-      "countryName" : "Venezuela",
-      "displayName" : "Barquisimeto",
-      "entityType" : "team",
-      "leagueName" : "Segunda Division",
-      "legacyLookupKeys" : [
-        "venezuela|segunda-division|barquisimeto"
-      ],
-      "lookupKey" : "venezuela|barquisimeto",
-      "relativePath" : "teams\/venezuela\/barquisimeto.png",
-      "sourceURLString" : "https:\/\/r2.thesportsdb.com\/images\/media\/team\/badge\/jmjdsu1751738243.png"
-    },
-    {
-      "countryName" : "Venezuela",
-      "displayName" : "CA Barinas",
-      "entityType" : "team",
-      "leagueName" : "Segunda Division",
-      "legacyLookupKeys" : [
-        "venezuela|segunda-division|ca barinas"
-      ],
-      "lookupKey" : "venezuela|ca barinas",
-      "relativePath" : "teams\/venezuela\/ca-barinas.png",
-      "sourceURLString" : "https:\/\/r2.thesportsdb.com\/images\/media\/team\/badge\/uy8jxp1771777431.png"
-    },
-    {
-      "countryName" : "Venezuela",
-      "displayName" : "Dep. Lara",
-      "entityType" : "team",
-      "leagueName" : "Segunda Division",
-      "legacyLookupKeys" : [
-        "venezuela|segunda-division|dep lara"
-      ],
-      "lookupKey" : "venezuela|dep lara",
-      "relativePath" : "teams\/venezuela\/dep-lara.png",
-      "sourceURLString" : "https:\/\/r2.thesportsdb.com\/images\/media\/team\/badge\/u8wjqf1639000788.png"
-    },
-    {
-      "countryName" : "Venezuela",
-      "displayName" : "Dep. Miranda",
-      "entityType" : "team",
-      "leagueName" : "Segunda Division",
-      "legacyLookupKeys" : [
-        "venezuela|segunda-division|dep miranda"
-      ],
-      "lookupKey" : "venezuela|dep miranda",
-      "relativePath" : "teams\/venezuela\/dep-miranda.png",
-      "sourceURLString" : "https:\/\/r2.thesportsdb.com\/images\/media\/team\/badge\/v994g21746251541.png"
-    },
-    {
-      "countryName" : "Venezuela",
-      "displayName" : "Dep. Rayo Zuliano",
-      "entityType" : "team",
-      "leagueName" : "Primera Division",
-      "legacyLookupKeys" : [
-        "venezuela|primera-division|dep rayo zuliano"
-      ],
-      "lookupKey" : "venezuela|dep rayo zuliano",
-      "relativePath" : "teams\/venezuela\/dep-rayo-zuliano.png",
-      "sourceURLString" : "https:\/\/r2.thesportsdb.com\/images\/media\/team\/badge\/xtof4v1675332828.png"
-    },
-    {
-      "countryName" : "Venezuela",
-      "displayName" : "Maritimo La Guaira",
-      "entityType" : "team",
-      "leagueName" : "Segunda Division",
-      "legacyLookupKeys" : [
-        "venezuela|segunda-division|maritimo la guaira"
-      ],
-      "lookupKey" : "venezuela|maritimo la guaira",
-      "relativePath" : "teams\/venezuela\/maritimo-la-guaira.png",
-      "sourceURLString" : "https:\/\/r2.thesportsdb.com\/images\/media\/team\/badge\/c7p2081766113170.png"
-    },
-    {
-      "countryName" : "Venezuela",
-      "displayName" : "Portuguesa",
-      "entityType" : "team",
-      "leagueName" : "Primera Division",
-      "legacyLookupKeys" : [
-        "venezuela|primera-division|portuguesa"
-      ],
-      "lookupKey" : "venezuela|portuguesa",
-      "relativePath" : "teams\/venezuela\/portuguesa.png",
-      "sourceURLString" : "https:\/\/r2.thesportsdb.com\/images\/media\/team\/badge\/nbjzn31766113635.png"
-    },
-    {
-      "countryName" : "Venezuela",
-      "displayName" : "Puerto Cabello II",
-      "entityType" : "team",
-      "leagueName" : "Segunda Division",
-      "legacyLookupKeys" : [
-        "venezuela|segunda-division|puerto cabello"
-      ],
-      "lookupKey" : "venezuela|puerto cabello",
-      "relativePath" : "teams\/venezuela\/puerto-cabello-ii.png",
-      "sourceURLString" : "https:\/\/r2.thesportsdb.com\/images\/media\/team\/badge\/a04fro1639001630.png"
-    },
-    {
-      "countryName" : "Venezuela",
-      "displayName" : "Universidad Central de Venezuela",
+      "countryName" : "Südamerika",
+      "displayName" : "Argentinos Junior",
       "entityType" : "team",
       "leagueName" : "Conmebol Libertadores",
       "legacyLookupKeys" : [
-        "venezuela|conmebol-libertadores|universidad central de venezuela"
+        "sudamerika|conmebol-libertadores|argentinos junior"
       ],
-      "lookupKey" : "venezuela|universidad central de venezuela",
-      "relativePath" : "teams\/venezuela\/universidad-central-de-venezuela.png",
-      "sourceURLString" : "https:\/\/r2.thesportsdb.com\/images\/media\/team\/badge\/x167yg1690791367.png"
+      "lookupKey" : "sudamerika|argentinos junior",
+      "relativePath" : "teams\/sudamerika\/argentinos-junior.png",
+      "sourceURLString" : "https:\/\/r2.thesportsdb.com\/images\/media\/team\/badge\/uqfjuo1769234850.png"
+    },
+    {
+      "countryName" : "Südamerika",
+      "displayName" : "Bahia",
+      "entityType" : "team",
+      "leagueName" : "Conmebol Libertadores",
+      "legacyLookupKeys" : [
+        "sudamerika|conmebol-libertadores|bahia"
+      ],
+      "lookupKey" : "sudamerika|bahia",
+      "relativePath" : "teams\/sudamerika\/bahia.png",
+      "sourceURLString" : "https:\/\/r2.thesportsdb.com\/images\/media\/team\/badge\/xuvtsv1473539308.png"
+    },
+    {
+      "countryName" : "Südamerika",
+      "displayName" : "Boca Juniors",
+      "entityType" : "team",
+      "leagueName" : "Conmebol Libertadores",
+      "legacyLookupKeys" : [
+        "sudamerika|conmebol-libertadores|boca juniors"
+      ],
+      "lookupKey" : "sudamerika|boca juniors",
+      "relativePath" : "teams\/sudamerika\/boca-juniors.png",
+      "sourceURLString" : "https:\/\/r2.thesportsdb.com\/images\/media\/team\/badge\/bm7krb1775741582.png\/medium"
+    },
+    {
+      "countryName" : "Südamerika",
+      "displayName" : "Cobresal",
+      "entityType" : "team",
+      "leagueName" : "Conmebol Sudamericana",
+      "legacyLookupKeys" : [
+        "sudamerika|conmebol-sudamericana|cobresal"
+      ],
+      "lookupKey" : "sudamerika|cobresal",
+      "relativePath" : "teams\/sudamerika\/cobresal.png",
+      "sourceURLString" : "https:\/\/r2.thesportsdb.com\/images\/media\/team\/badge\/36tqoo1602187477.png"
+    },
+    {
+      "countryName" : "Südamerika",
+      "displayName" : "Dep. Riestra",
+      "entityType" : "team",
+      "leagueName" : "Conmebol Sudamericana",
+      "legacyLookupKeys" : [
+        "sudamerika|conmebol-sudamericana|dep riestra"
+      ],
+      "lookupKey" : "sudamerika|dep riestra",
+      "relativePath" : "teams\/sudamerika\/dep-riestra.png",
+      "sourceURLString" : "https:\/\/r2.thesportsdb.com\/images\/media\/team\/badge\/332h0l1578824392.png"
+    },
+    {
+      "countryName" : "Südamerika",
+      "displayName" : "Huachipato",
+      "entityType" : "team",
+      "leagueName" : "Conmebol Libertadores",
+      "legacyLookupKeys" : [
+        "sudamerika|conmebol-libertadores|huachipato"
+      ],
+      "lookupKey" : "sudamerika|huachipato",
+      "relativePath" : "teams\/sudamerika\/huachipato.png",
+      "sourceURLString" : "https:\/\/r2.thesportsdb.com\/images\/media\/team\/badge\/uhzow91736214236.png"
+    },
+    {
+      "countryName" : "Südamerika",
+      "displayName" : "Ind. Rivadavia",
+      "entityType" : "team",
+      "leagueName" : "Conmebol Libertadores",
+      "legacyLookupKeys" : [
+        "sudamerika|conmebol-libertadores|ind rivadavia"
+      ],
+      "lookupKey" : "sudamerika|ind rivadavia",
+      "relativePath" : "teams\/sudamerika\/ind-rivadavia.png",
+      "sourceURLString" : "https:\/\/r2.thesportsdb.com\/images\/media\/team\/badge\/qgzi2b1769406125.png"
+    },
+    {
+      "countryName" : "Südamerika",
+      "displayName" : "Lanus",
+      "entityType" : "team",
+      "leagueName" : "Conmebol Libertadores",
+      "legacyLookupKeys" : [
+        "sudamerika|conmebol-libertadores|lanus"
+      ],
+      "lookupKey" : "sudamerika|lanus",
+      "relativePath" : "teams\/sudamerika\/lanus.png",
+      "sourceURLString" : "https:\/\/r2.thesportsdb.com\/images\/media\/team\/badge\/ddty0w1769146364.png"
+    },
+    {
+      "countryName" : "Südamerika",
+      "displayName" : "Mirassol",
+      "entityType" : "team",
+      "leagueName" : "Conmebol Libertadores",
+      "legacyLookupKeys" : [
+        "sudamerika|conmebol-libertadores|mirassol"
+      ],
+      "lookupKey" : "sudamerika|mirassol",
+      "relativePath" : "teams\/sudamerika\/mirassol.png",
+      "sourceURLString" : "https:\/\/r2.thesportsdb.com\/images\/media\/team\/badge\/pw8uo11765900737.png"
+    },
+    {
+      "countryName" : "Südamerika",
+      "displayName" : "O’Higgins",
+      "entityType" : "team",
+      "leagueName" : "Conmebol Libertadores",
+      "legacyLookupKeys" : [
+        "sudamerika|conmebol-libertadores|o’higgins"
+      ],
+      "lookupKey" : "sudamerika|o’higgins",
+      "relativePath" : "teams\/sudamerika\/o-higgins.png",
+      "sourceURLString" : "https:\/\/r2.thesportsdb.com\/images\/media\/team\/badge\/g44b1l1756095484.png\/medium"
+    },
+    {
+      "countryName" : "Südamerika",
+      "displayName" : "Palestino",
+      "entityType" : "team",
+      "leagueName" : "Conmebol Sudamericana",
+      "legacyLookupKeys" : [
+        "sudamerika|conmebol-sudamericana|palestino"
+      ],
+      "lookupKey" : "sudamerika|palestino",
+      "relativePath" : "teams\/sudamerika\/palestino.png",
+      "sourceURLString" : "https:\/\/r2.thesportsdb.com\/images\/media\/team\/badge\/62site1756091114.png"
+    },
+    {
+      "countryName" : "Südamerika",
+      "displayName" : "Platense",
+      "entityType" : "team",
+      "leagueName" : "Conmebol Libertadores",
+      "legacyLookupKeys" : [
+        "sudamerika|conmebol-libertadores|platense"
+      ],
+      "lookupKey" : "sudamerika|platense",
+      "relativePath" : "teams\/sudamerika\/platense.png",
+      "sourceURLString" : "https:\/\/r2.thesportsdb.com\/images\/media\/team\/badge\/lbs14n1769317149.png"
+    },
+    {
+      "countryName" : "Südamerika",
+      "displayName" : "Racing Club",
+      "entityType" : "team",
+      "leagueName" : "Conmebol Sudamericana",
+      "legacyLookupKeys" : [
+        "sudamerika|conmebol-sudamericana|racing club"
+      ],
+      "lookupKey" : "sudamerika|racing club",
+      "relativePath" : "teams\/sudamerika\/racing-club.png",
+      "sourceURLString" : "https:\/\/r2.thesportsdb.com\/images\/media\/team\/badge\/vi4mu41695734959.png"
+    },
+    {
+      "countryName" : "Südamerika",
+      "displayName" : "River Plate",
+      "entityType" : "team",
+      "leagueName" : "Conmebol Sudamericana",
+      "legacyLookupKeys" : [
+        "sudamerika|conmebol-sudamericana|river plate"
+      ],
+      "lookupKey" : "sudamerika|river plate",
+      "relativePath" : "teams\/sudamerika\/river-plate.png",
+      "sourceURLString" : "https:\/\/r2.thesportsdb.com\/images\/media\/team\/badge\/03dmi31645539717.png"
+    },
+    {
+      "countryName" : "Südamerika",
+      "displayName" : "Rosario Central",
+      "entityType" : "team",
+      "leagueName" : "Conmebol Libertadores",
+      "legacyLookupKeys" : [
+        "sudamerika|conmebol-libertadores|rosario central"
+      ],
+      "lookupKey" : "sudamerika|rosario central",
+      "relativePath" : "teams\/sudamerika\/rosario-central.png",
+      "sourceURLString" : "https:\/\/r2.thesportsdb.com\/images\/media\/team\/badge\/y6q1ds1769660256.png"
+    },
+    {
+      "countryName" : "Südamerika",
+      "displayName" : "Santos",
+      "entityType" : "team",
+      "leagueName" : "Conmebol Sudamericana",
+      "legacyLookupKeys" : [
+        "sudamerika|conmebol-sudamericana|santos"
+      ],
+      "lookupKey" : "sudamerika|santos",
+      "relativePath" : "teams\/sudamerika\/santos.png",
+      "sourceURLString" : "https:\/\/r2.thesportsdb.com\/images\/media\/team\/badge\/j8xk9g1679447486.png"
+    },
+    {
+      "countryName" : "Südamerika",
+      "displayName" : "Tigre",
+      "entityType" : "team",
+      "leagueName" : "Conmebol Sudamericana",
+      "legacyLookupKeys" : [
+        "sudamerika|conmebol-sudamericana|tigre"
+      ],
+      "lookupKey" : "sudamerika|tigre",
+      "relativePath" : "teams\/sudamerika\/tigre.png",
+      "sourceURLString" : "https:\/\/r2.thesportsdb.com\/images\/media\/team\/badge\/krryg71765858882.png"
+    },
+    {
+      "countryName" : "Südamerika",
+      "displayName" : "Universidad Catolica (Chile)",
+      "entityType" : "team",
+      "leagueName" : "Conmebol Libertadores",
+      "legacyLookupKeys" : [
+        "sudamerika|conmebol-libertadores|universidad catolica (chile)"
+      ],
+      "lookupKey" : "sudamerika|universidad catolica (chile)",
+      "relativePath" : "teams\/sudamerika\/universidad-catolica-chile.png",
+      "sourceURLString" : "https:\/\/r2.thesportsdb.com\/images\/media\/team\/badge\/h2pcuc1602188028.png\/medium"
+    },
+    {
+      "countryName" : "Südamerika",
+      "displayName" : "Universidad de Chile",
+      "entityType" : "team",
+      "leagueName" : "Conmebol Sudamericana",
+      "legacyLookupKeys" : [
+        "sudamerika|conmebol-sudamericana|universidad de chile"
+      ],
+      "lookupKey" : "sudamerika|universidad de chile",
+      "relativePath" : "teams\/sudamerika\/universidad-de-chile.png",
+      "sourceURLString" : "https:\/\/r2.thesportsdb.com\/images\/media\/team\/badge\/po0o3c1578347873.png"
+    },
+    {
+      "countryName" : "Venezuela",
+      "displayName" : "Anzoategui",
+      "entityType" : "team",
+      "leagueName" : "Primera Division",
+      "legacyLookupKeys" : [
+        "venezuela|primera-division|anzoategui"
+      ],
+      "lookupKey" : "venezuela|anzoategui",
+      "relativePath" : "teams\/venezuela\/anzoategui.png",
+      "sourceURLString" : "https:\/\/r2.thesportsdb.com\/images\/media\/team\/badge\/n36vyr1737129376.png"
+    },
+    {
+      "countryName" : "Venezuela",
+      "displayName" : "Maritimo de La Guaira",
+      "entityType" : "team",
+      "leagueName" : "Segunda Division",
+      "legacyLookupKeys" : [
+        "venezuela|segunda-division|maritimo de la guaira"
+      ],
+      "lookupKey" : "venezuela|maritimo de la guaira",
+      "relativePath" : "teams\/venezuela\/maritimo-de-la-guaira.png",
+      "sourceURLString" : "https:\/\/r2.thesportsdb.com\/images\/media\/team\/badge\/jbwzii1746253263.png"
+    },
+    {
+      "countryName" : "Venezuela",
+      "displayName" : "Universidad Central",
+      "entityType" : "team",
+      "leagueName" : "Conmebol Libertadores",
+      "legacyLookupKeys" : [
+        "venezuela|conmebol-libertadores|universidad central"
+      ],
+      "lookupKey" : "venezuela|universidad central",
+      "relativePath" : "teams\/venezuela\/universidad-central.png",
+      "sourceURLString" : "https:\/\/r2.thesportsdb.com\/images\/media\/team\/badge\/ok2ssk1766114071.png"
     }
   ],
-  "generatedAt" : "2026-04-23T09:35:00Z"
+  "generatedAt" : "2026-04-23T12:14:48Z"
 }
