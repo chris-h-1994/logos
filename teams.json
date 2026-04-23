@@ -37,11 +37,18 @@
     },
     {
       "legacyLookupKeys" : [
+        "guatemala|segunda-division-de|draco"
+      ],
+      "lookupKey" : "guatemala|draco",
+      "relativePath" : "teams\/guatemala\/draco.png"
+    },
+    {
+      "legacyLookupKeys" : [
         "honduras|liga-de-ascenso|ca boca juniors tocoa"
       ],
       "lookupKey" : "honduras|ca boca juniors tocoa",
       "relativePath" : "teams\/honduras\/ca-boca-juniors-tocoa.png"
     }
   ],
-  "generatedAt" : "2026-04-23T09:09:19Z"
+  "generatedAt" : "2026-04-23T09:12:46Z"
 }
