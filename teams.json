@@ -13,75 +13,15 @@
       "sourceURLString" : "https:\/\/r2.thesportsdb.com\/images\/media\/team\/badge\/fwtb9j1615839275.png\/medium"
     },
     {
-      "countryName" : "Ecuador",
-      "displayName" : "Macara",
-      "entityType" : "team",
-      "leagueName" : "Serie A",
-      "legacyLookupKeys" : [
-        "ecuador|serie-a|macara"
-      ],
-      "lookupKey" : "ecuador|macara",
-      "relativePath" : "teams\/ecuador\/macara.png",
-      "sourceURLString" : "https:\/\/r2.thesportsdb.com\/images\/media\/team\/badge\/bretri1579959665.png"
-    },
-    {
-      "countryName" : "Ecuador",
-      "displayName" : "Universidad Catolica",
-      "entityType" : "team",
-      "leagueName" : "Serie A",
-      "legacyLookupKeys" : [
-        "ecuador|serie-a|universidad catolica"
-      ],
-      "lookupKey" : "ecuador|universidad catolica",
-      "relativePath" : "teams\/ecuador\/universidad-catolica.png",
-      "sourceURLString" : "https:\/\/r2.thesportsdb.com\/images\/media\/team\/badge\/25pb661770394991.png\/small"
-    },
-    {
-      "countryName" : "El Salvador",
-      "displayName" : "El Roble",
-      "entityType" : "team",
-      "leagueName" : "Copa Presidente",
-      "legacyLookupKeys" : [
-        "el-salvador|copa-presidente|el roble"
-      ],
-      "lookupKey" : "el-salvador|el roble",
-      "relativePath" : "teams\/el-salvador\/el-roble.png",
-      "sourceURLString" : "https:\/\/static.flashscore.com\/res\/image\/data\/GUATWKFG-Y1qRVqvl.png"
-    },
-    {
-      "countryName" : "El Salvador",
-      "displayName" : "Izalco",
-      "entityType" : "team",
-      "leagueName" : "Copa Presidente",
-      "legacyLookupKeys" : [
-        "el-salvador|copa-presidente|izalco"
-      ],
-      "lookupKey" : "el-salvador|izalco",
-      "relativePath" : "teams\/el-salvador\/izalco.png",
-      "sourceURLString" : "https:\/\/static.flashscore.com\/res\/image\/data\/OEIoa4g5-zZosfl1m.png"
-    },
-    {
-      "countryName" : "Guatemala",
-      "displayName" : "Municipal",
-      "entityType" : "team",
-      "leagueName" : "Liga Nacional",
-      "legacyLookupKeys" : [
-        "guatemala|liga-nacional|municipal"
-      ],
-      "lookupKey" : "guatemala|municipal",
-      "relativePath" : "teams\/guatemala\/municipal.png",
-      "sourceURLString" : "https:\/\/r2.thesportsdb.com\/images\/media\/team\/badge\/9phgwv1589210412.png"
-    },
-    {
       "countryName" : "Honduras",
-      "displayName" : "CA Boca Juniors Tocoa",
+      "displayName" : "Boca Juniors Tocoa",
       "entityType" : "team",
       "leagueName" : "Liga de Ascenso",
       "legacyLookupKeys" : [
-        "honduras|liga-de-ascenso|ca boca juniors tocoa"
+        "honduras|liga-de-ascenso|boca juniors tocoa"
       ],
-      "lookupKey" : "honduras|ca boca juniors tocoa",
-      "relativePath" : "teams\/honduras\/ca-boca-juniors-tocoa.png",
+      "lookupKey" : "honduras|boca juniors tocoa",
+      "relativePath" : "teams\/honduras\/boca-juniors-tocoa.png",
       "sourceURLString" : "https:\/\/sportcdns.live\/team\/66c8320e6b1492ea43857102408bbedd1a3c9afa56c782c7fc68446cde36b00b.webp"
     },
     {
@@ -97,5 +37,5 @@
       "sourceURLString" : "https:\/\/r2.thesportsdb.com\/images\/media\/team\/badge\/bm7krb1775741582.png\/medium"
     }
   ],
-  "generatedAt" : "2026-04-23T20:34:59Z"
+  "generatedAt" : "2026-04-23T21:03:48Z"
 }
