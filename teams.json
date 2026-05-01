@@ -27,7 +27,14 @@
       ],
       "lookupKey" : "uruguay|deutscher",
       "relativePath" : "teams\/uruguay\/deutscher.png"
+    },
+    {
+      "legacyLookupKeys" : [
+        "uruguay|primera-divisional-c|terremoto"
+      ],
+      "lookupKey" : "uruguay|terremoto",
+      "relativePath" : "teams\/uruguay\/terremoto.png"
     }
   ],
-  "generatedAt" : "2026-05-01T20:54:31Z"
+  "generatedAt" : "2026-05-01T20:58:35Z"
 }
