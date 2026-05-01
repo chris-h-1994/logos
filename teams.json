@@ -30,11 +30,18 @@
     },
     {
       "legacyLookupKeys" : [
+        "uruguay|primera-divisional-c|rocha"
+      ],
+      "lookupKey" : "uruguay|rocha",
+      "relativePath" : "teams\/uruguay\/rocha.png"
+    },
+    {
+      "legacyLookupKeys" : [
         "uruguay|primera-divisional-c|terremoto"
       ],
       "lookupKey" : "uruguay|terremoto",
       "relativePath" : "teams\/uruguay\/terremoto.png"
     }
   ],
-  "generatedAt" : "2026-05-01T21:00:14Z"
+  "generatedAt" : "2026-05-01T21:18:06Z"
 }
