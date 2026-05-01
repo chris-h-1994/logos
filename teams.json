@@ -37,6 +37,13 @@
     },
     {
       "legacyLookupKeys" : [
+        "uruguay|primera-divisional-c|huracan buceo"
+      ],
+      "lookupKey" : "uruguay|huracan buceo",
+      "relativePath" : "teams\/uruguay\/huracan-buceo.png"
+    },
+    {
+      "legacyLookupKeys" : [
         "uruguay|primera-divisional-c|rocha"
       ],
       "lookupKey" : "uruguay|rocha",
@@ -50,5 +57,5 @@
       "relativePath" : "teams\/uruguay\/terremoto.png"
     }
   ],
-  "generatedAt" : "2026-05-01T21:20:55Z"
+  "generatedAt" : "2026-05-01T21:27:19Z"
 }
