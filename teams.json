@@ -10,7 +10,7 @@
       ],
       "lookupKey" : "ecuador|ind juniors",
       "relativePath" : "teams\/ecuador\/ind-juniors.png",
-      "sourceURLString" : "https:\/\/r2.thesportsdb.com\/images\/media\/team\/badge\/fwtb9j1615839275.png\/medium"
+      "sourceURLString" : "https:\/\/r2.thesportsdb.com\/images\/media\/team\/badge\/fwtb9j1615839275.png"
     },
     {
       "countryName" : "Honduras",
@@ -37,5 +37,5 @@
       "sourceURLString" : "https:\/\/r2.thesportsdb.com\/images\/media\/team\/badge\/bm7krb1775741582.png"
     }
   ],
-  "generatedAt" : "2026-05-01T10:38:20Z"
+  "generatedAt" : "2026-05-01T10:43:24Z"
 }
