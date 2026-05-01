@@ -16,6 +16,13 @@
     },
     {
       "legacyLookupKeys" : [
+        "uruguay|primera-divisional-c"
+      ],
+      "lookupKey" : "league|uruguay|primera-divisional-c",
+      "relativePath" : "leagues\/uruguay\/primera-divisional-c.png"
+    },
+    {
+      "legacyLookupKeys" : [
         "sudamerika|conmebol-libertadores|boca juniors"
       ],
       "lookupKey" : "sudamerika|boca juniors",
@@ -57,5 +64,5 @@
       "relativePath" : "teams\/uruguay\/terremoto.png"
     }
   ],
-  "generatedAt" : "2026-05-01T21:27:19Z"
+  "generatedAt" : "2026-05-01T21:30:53Z"
 }
