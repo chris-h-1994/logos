@@ -30,6 +30,13 @@
     },
     {
       "legacyLookupKeys" : [
+        "uruguay|primera-divisional-c|frontera rivera renegades"
+      ],
+      "lookupKey" : "uruguay|frontera rivera renegades",
+      "relativePath" : "teams\/uruguay\/frontera-rivera-renegades.png"
+    },
+    {
+      "legacyLookupKeys" : [
         "uruguay|primera-divisional-c|rocha"
       ],
       "lookupKey" : "uruguay|rocha",
@@ -43,5 +50,5 @@
       "relativePath" : "teams\/uruguay\/terremoto.png"
     }
   ],
-  "generatedAt" : "2026-05-01T21:18:06Z"
+  "generatedAt" : "2026-05-01T21:20:55Z"
 }
