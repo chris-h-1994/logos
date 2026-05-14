@@ -1,29 +1,26 @@
 {
   "entries" : [
     {
-      "countryName" : "El Salvador",
-      "displayName" : "Alianza Frauen",
-      "entityType" : "team",
-      "leagueName" : "Liga Femenina",
       "legacyLookupKeys" : [
         "el-salvador|liga-femenina|alianza"
       ],
       "lookupKey" : "el-salvador|alianza",
-      "relativePath" : "teams\/el-salvador\/alianza-frauen.png",
-      "sourceURLString" : "https:\/\/sportcdns.live\/team\/050cb8d25ac2397679d7ca74e1ce40d4a909514975fbc0a1c73eb50dbd7d4476.webp"
+      "relativePath" : "teams\/el-salvador\/alianza-frauen.png"
     },
     {
-      "countryName" : "El Salvador",
-      "displayName" : "Zacatecoluca Frauen",
-      "entityType" : "team",
-      "leagueName" : "Liga Femenina",
       "legacyLookupKeys" : [
         "el-salvador|liga-femenina|zacatecoluca"
       ],
       "lookupKey" : "el-salvador|zacatecoluca",
-      "relativePath" : "teams\/el-salvador\/zacatecoluca-frauen.png",
-      "sourceURLString" : "https:\/\/sportcdns.live\/team\/a55a395efb5be1390c0c1d15921a155ee5be7ce3cb7ac4056427bcdc0dcf6743.webp"
+      "relativePath" : "teams\/el-salvador\/zacatecoluca-frauen.png"
+    },
+    {
+      "legacyLookupKeys" : [
+        "kolumbien|u19-championship|real santuario"
+      ],
+      "lookupKey" : "kolumbien|real santuario",
+      "relativePath" : "teams\/kolumbien\/real-santuario-u19.png"
     }
   ],
-  "generatedAt" : "2026-05-03T00:07:50Z"
+  "generatedAt" : "2026-05-14T23:22:22Z"
 }
