@@ -1,26 +1,548 @@
 {
   "entries" : [
     {
+      "countryName" : "Bolivien",
+      "displayName" : "ABB",
+      "entityType" : "team",
+      "leagueName" : "Division Profesional",
       "legacyLookupKeys" : [
-        "el-salvador|liga-femenina|alianza"
+        "bolivien|division-profesional|abb"
       ],
-      "lookupKey" : "el-salvador|alianza",
-      "relativePath" : "teams\/el-salvador\/alianza-frauen.png"
+      "lookupKey" : "bolivien|abb",
+      "relativePath" : "teams\/bolivien\/abb.png",
+      "sourceURLString" : "https:\/\/img.sofascore.com\/api\/v1\/team\/423188\/image"
     },
     {
+      "countryName" : "Bolivien",
+      "displayName" : "Academia de Balompie Boliviano U19",
+      "entityType" : "team",
+      "leagueName" : "Liga Nacional Sub 19",
       "legacyLookupKeys" : [
-        "el-salvador|liga-femenina|zacatecoluca"
+        "bolivien|liga-nacional-sub-19|academia de balompie boliviano"
       ],
-      "lookupKey" : "el-salvador|zacatecoluca",
-      "relativePath" : "teams\/el-salvador\/zacatecoluca-frauen.png"
+      "lookupKey" : "bolivien|academia de balompie boliviano",
+      "relativePath" : "teams\/bolivien\/academia-de-balompie-boliviano-u19.png",
+      "sourceURLString" : "https:\/\/img.sofascore.com\/api\/v1\/team\/423188\/image"
     },
     {
+      "countryName" : "Bolivien",
+      "displayName" : "Always Ready",
+      "entityType" : "team",
+      "leagueName" : "Division Profesional",
       "legacyLookupKeys" : [
-        "kolumbien|u19-championship|real santuario"
+        "bolivien|division-profesional|always ready"
       ],
-      "lookupKey" : "kolumbien|real santuario",
-      "relativePath" : "teams\/kolumbien\/real-santuario-u19.png"
+      "lookupKey" : "bolivien|always ready",
+      "relativePath" : "teams\/bolivien\/always-ready.png",
+      "sourceURLString" : "https:\/\/r2.thesportsdb.com\/images\/media\/team\/badge\/g7rlnw1618943620.png"
+    },
+    {
+      "countryName" : "Bolivien",
+      "displayName" : "Atl. Juniors",
+      "entityType" : "team",
+      "leagueName" : "Copa Simon Bolivar",
+      "legacyLookupKeys" : [
+        "bolivien|copa-simon-bolivar|atl juniors"
+      ],
+      "lookupKey" : "bolivien|atl juniors",
+      "relativePath" : "teams\/bolivien\/atl-juniors.png",
+      "sourceURLString" : "https:\/\/img.sofascore.com\/api\/v1\/team\/1164058\/image"
+    },
+    {
+      "countryName" : "Bolivien",
+      "displayName" : "Atl. Sucre",
+      "entityType" : "team",
+      "leagueName" : "Copa Simon Bolivar",
+      "legacyLookupKeys" : [
+        "bolivien|copa-simon-bolivar|atl sucre"
+      ],
+      "lookupKey" : "bolivien|atl sucre",
+      "relativePath" : "teams\/bolivien\/atl-sucre.png",
+      "sourceURLString" : "https:\/\/img.sofascore.com\/api\/v1\/team\/1084621\/image"
+    },
+    {
+      "countryName" : "Bolivien",
+      "displayName" : "Blooming",
+      "entityType" : "team",
+      "leagueName" : "Division Profesional",
+      "legacyLookupKeys" : [
+        "bolivien|division-profesional|blooming"
+      ],
+      "lookupKey" : "bolivien|blooming",
+      "relativePath" : "teams\/bolivien\/blooming.png",
+      "sourceURLString" : "https:\/\/r2.thesportsdb.com\/images\/media\/team\/badge\/mslln91766423827.png"
+    },
+    {
+      "countryName" : "Bolivien",
+      "displayName" : "Bolivar",
+      "entityType" : "team",
+      "leagueName" : "Division Profesional",
+      "legacyLookupKeys" : [
+        "bolivien|division-profesional|bolivar"
+      ],
+      "lookupKey" : "bolivien|bolivar",
+      "relativePath" : "teams\/bolivien\/bolivar.png",
+      "sourceURLString" : "https:\/\/r2.thesportsdb.com\/images\/media\/team\/badge\/0o5jrz1579798499.png"
+    },
+    {
+      "countryName" : "Bolivien",
+      "displayName" : "Dep. San Martin",
+      "entityType" : "team",
+      "leagueName" : "Copa Simon Bolivar",
+      "legacyLookupKeys" : [
+        "bolivien|copa-simon-bolivar|dep san martin"
+      ],
+      "lookupKey" : "bolivien|dep san martin",
+      "relativePath" : "teams\/bolivien\/dep-san-martin.png",
+      "sourceURLString" : "https:\/\/img.sofascore.com\/api\/v1\/team\/1099252\/image"
+    },
+    {
+      "countryName" : "Bolivien",
+      "displayName" : "FC Flamengo de Sucre",
+      "entityType" : "team",
+      "leagueName" : "Copa Simon Bolivar",
+      "legacyLookupKeys" : [
+        "bolivien|copa-simon-bolivar|fc flamengo de sucre"
+      ],
+      "lookupKey" : "bolivien|fc flamengo de sucre",
+      "relativePath" : "teams\/bolivien\/fc-flamengo-de-sucre.png",
+      "sourceURLString" : "https:\/\/img.sofascore.com\/api\/v1\/team\/1084621\/image"
+    },
+    {
+      "countryName" : "Bolivien",
+      "displayName" : "Flamengo de Sucre",
+      "entityType" : "team",
+      "leagueName" : "Copa Simon Bolivar",
+      "legacyLookupKeys" : [
+        "bolivien|copa-simon-bolivar|flamengo de sucre"
+      ],
+      "lookupKey" : "bolivien|flamengo de sucre",
+      "relativePath" : "teams\/bolivien\/flamengo-de-sucre.png",
+      "sourceURLString" : "https:\/\/img.sofascore.com\/api\/v1\/team\/1084621\/image"
+    },
+    {
+      "countryName" : "Bolivien",
+      "displayName" : "Guabira",
+      "entityType" : "team",
+      "leagueName" : "Division Profesional",
+      "legacyLookupKeys" : [
+        "bolivien|division-profesional|guabira"
+      ],
+      "lookupKey" : "bolivien|guabira",
+      "relativePath" : "teams\/bolivien\/guabira.png",
+      "sourceURLString" : "https:\/\/r2.thesportsdb.com\/images\/media\/team\/badge\/84bxl51579798562.png"
+    },
+    {
+      "countryName" : "Bolivien",
+      "displayName" : "GV San Jose de Oruro U19",
+      "entityType" : "team",
+      "leagueName" : "Liga Nacional Sub 19",
+      "legacyLookupKeys" : [
+        "bolivien|liga-nacional-sub-19|gv san jose de oruro"
+      ],
+      "lookupKey" : "bolivien|gv san jose de oruro",
+      "relativePath" : "teams\/bolivien\/gv-san-jose-de-oruro-u19.png",
+      "sourceURLString" : "https:\/\/r2.thesportsdb.com\/images\/media\/team\/badge\/9nnb521579798747.png"
+    },
+    {
+      "countryName" : "Bolivien",
+      "displayName" : "Jorge Wilstermann U19",
+      "entityType" : "team",
+      "leagueName" : "Liga Nacional Sub 19",
+      "legacyLookupKeys" : [
+        "bolivien|liga-nacional-sub-19|jorge wilstermann"
+      ],
+      "lookupKey" : "bolivien|jorge wilstermann",
+      "relativePath" : "teams\/bolivien\/jorge-wilstermann-u19.png",
+      "sourceURLString" : "https:\/\/r2.thesportsdb.com\/images\/media\/team\/badge\/xij8521681104519.png"
+    },
+    {
+      "countryName" : "Bolivien",
+      "displayName" : "San Antonio Bulo Bulo",
+      "entityType" : "team",
+      "leagueName" : "Division Profesional",
+      "legacyLookupKeys" : [
+        "bolivien|division-profesional|san antonio bulo bulo"
+      ],
+      "lookupKey" : "bolivien|san antonio bulo bulo",
+      "relativePath" : "teams\/bolivien\/san-antonio-bulo-bulo.png",
+      "sourceURLString" : "https:\/\/r2.thesportsdb.com\/images\/media\/team\/badge\/cy8orr1706108672.png"
+    },
+    {
+      "countryName" : "Bolivien",
+      "displayName" : "The Strongest",
+      "entityType" : "team",
+      "leagueName" : "Division Profesional",
+      "legacyLookupKeys" : [
+        "bolivien|division-profesional|the strongest"
+      ],
+      "lookupKey" : "bolivien|the strongest",
+      "relativePath" : "teams\/bolivien\/the-strongest.png",
+      "sourceURLString" : "https:\/\/r2.thesportsdb.com\/images\/media\/team\/badge\/syfk6e1703003459.png"
+    },
+    {
+      "countryName" : "Costa Rica",
+      "displayName" : "Sporting FC Frauen",
+      "entityType" : "team",
+      "leagueName" : "Liga FPD",
+      "legacyLookupKeys" : [
+        "costa-rica|liga-fpd|sporting fc"
+      ],
+      "lookupKey" : "costa-rica|sporting fc",
+      "relativePath" : "teams\/costa-rica\/sporting-fc-frauen.png",
+      "sourceURLString" : "https:\/\/r2.thesportsdb.com\/images\/media\/team\/badge\/7wzxlo1606770023.png"
+    },
+    {
+      "countryName" : "Honduras",
+      "displayName" : "CD Olimpia",
+      "entityType" : "team",
+      "leagueName" : "Liga Hondubet",
+      "legacyLookupKeys" : [
+        "honduras|liga-hondubet|cd olimpia"
+      ],
+      "lookupKey" : "honduras|cd olimpia",
+      "relativePath" : "teams\/honduras\/cd-olimpia.png",
+      "sourceURLString" : "https:\/\/r2.thesportsdb.com\/images\/media\/team\/badge\/a8229b1580931621.png"
+    },
+    {
+      "countryName" : "Bolivien",
+      "displayName" : "Liga Nacional Sub 19",
+      "entityType" : "league",
+      "legacyLookupKeys" : [
+        "bolivien|liga-nacional-sub-19"
+      ],
+      "lookupKey" : "league|bolivien|liga-nacional-sub-19",
+      "relativePath" : "leagues\/bolivien\/liga-nacional-sub-19.png",
+      "sourceURLString" : "https:\/\/img.sofascore.com\/api\/v1\/unique-tournament\/22711\/image"
+    },
+    {
+      "countryName" : "Bolivien",
+      "displayName" : "Torneo Amistoso De Verano",
+      "entityType" : "league",
+      "legacyLookupKeys" : [
+        "bolivien|torneo-amistoso-de-verano"
+      ],
+      "lookupKey" : "league|bolivien|torneo-amistoso-de-verano",
+      "relativePath" : "leagues\/bolivien\/torneo-amistoso-de-verano.png",
+      "sourceURLString" : "https:\/\/img.sofascore.com\/api\/v1\/unique-tournament\/18593\/image"
+    },
+    {
+      "countryName" : "Costa Rica",
+      "displayName" : "Frauen",
+      "entityType" : "league",
+      "legacyLookupKeys" : [
+        "costa-rica|frauen"
+      ],
+      "lookupKey" : "league|costa-rica|frauen",
+      "relativePath" : "leagues\/costa-rica\/frauen.png",
+      "sourceURLString" : "https:\/\/r2.thesportsdb.com\/images\/media\/league\/badge\/97r4et1716292122.png"
+    },
+    {
+      "countryName" : "El Salvador",
+      "displayName" : "Primera Division",
+      "entityType" : "league",
+      "legacyLookupKeys" : [
+        "el-salvador|primera-division"
+      ],
+      "lookupKey" : "league|el-salvador|primera-division",
+      "relativePath" : "leagues\/el-salvador\/primera-division.png",
+      "sourceURLString" : "https:\/\/img.sofascore.com\/api\/v1\/unique-tournament\/11537\/image"
+    },
+    {
+      "countryName" : "El Salvador",
+      "displayName" : "Primera Division Reserves",
+      "entityType" : "league",
+      "legacyLookupKeys" : [
+        "el-salvador|primera-division-reserves"
+      ],
+      "lookupKey" : "league|el-salvador|primera-division-reserves",
+      "relativePath" : "leagues\/el-salvador\/primera-division-reserves.png",
+      "sourceURLString" : "https:\/\/img.sofascore.com\/api\/v1\/unique-tournament\/18523\/image"
+    },
+    {
+      "countryName" : "Guatemala",
+      "displayName" : "Liga Nacional",
+      "entityType" : "league",
+      "legacyLookupKeys" : [
+        "guatemala|liga-nacional"
+      ],
+      "lookupKey" : "league|guatemala|liga-nacional",
+      "relativePath" : "leagues\/guatemala\/liga-nacional.png",
+      "sourceURLString" : "https:\/\/img.sofascore.com\/api\/v1\/unique-tournament\/11619\/image"
+    },
+    {
+      "countryName" : "Honduras",
+      "displayName" : "Liga Hondubet",
+      "entityType" : "league",
+      "legacyLookupKeys" : [
+        "honduras|liga-hondubet"
+      ],
+      "lookupKey" : "league|honduras|liga-hondubet",
+      "relativePath" : "leagues\/honduras\/liga-hondubet.png",
+      "sourceURLString" : "https:\/\/img.sofascore.com\/api\/v1\/unique-tournament\/11613\/image"
+    },
+    {
+      "countryName" : "Nicaragua",
+      "displayName" : "Copa Primera",
+      "entityType" : "league",
+      "legacyLookupKeys" : [
+        "nicaragua|copa-primera"
+      ],
+      "lookupKey" : "league|nicaragua|copa-primera",
+      "relativePath" : "leagues\/nicaragua\/copa-primera.png",
+      "sourceURLString" : "https:\/\/img.sofascore.com\/api\/v1\/unique-tournament\/35020\/image"
+    },
+    {
+      "countryName" : "Peru",
+      "displayName" : "Liga 3",
+      "entityType" : "league",
+      "legacyLookupKeys" : [
+        "peru|liga-3"
+      ],
+      "lookupKey" : "league|peru|liga-3",
+      "relativePath" : "leagues\/peru\/liga-3.png",
+      "sourceURLString" : "https:\/\/img.sofascore.com\/api\/v1\/unique-tournament\/29030\/image"
+    },
+    {
+      "countryName" : "Nicaragua",
+      "displayName" : "Blancos FC",
+      "entityType" : "team",
+      "leagueName" : "Liga de Ascenso",
+      "legacyLookupKeys" : [
+        "nicaragua|liga-de-ascenso|blancos fc"
+      ],
+      "lookupKey" : "nicaragua|blancos fc",
+      "relativePath" : "teams\/nicaragua\/blancos-fc.png",
+      "sourceURLString" : "https:\/\/img.sofascore.com\/api\/v1\/team\/1115166\/image"
+    },
+    {
+      "countryName" : "Nicaragua",
+      "displayName" : "Bravos del Primavera",
+      "entityType" : "team",
+      "leagueName" : "Liga de Ascenso",
+      "legacyLookupKeys" : [
+        "nicaragua|liga-de-ascenso|bravos del primavera"
+      ],
+      "lookupKey" : "nicaragua|bravos del primavera",
+      "relativePath" : "teams\/nicaragua\/bravos-del-primavera.png",
+      "sourceURLString" : "https:\/\/img.sofascore.com\/api\/v1\/team\/363465\/image"
+    },
+    {
+      "countryName" : "Nicaragua",
+      "displayName" : "Catarina FC",
+      "entityType" : "team",
+      "leagueName" : "Liga de Ascenso",
+      "legacyLookupKeys" : [
+        "nicaragua|liga-de-ascenso|catarina fc"
+      ],
+      "lookupKey" : "nicaragua|catarina fc",
+      "relativePath" : "teams\/nicaragua\/catarina-fc.png",
+      "sourceURLString" : "https:\/\/img.sofascore.com\/api\/v1\/team\/1115161\/image"
+    },
+    {
+      "countryName" : "Nicaragua",
+      "displayName" : "CD Junior de Managua",
+      "entityType" : "team",
+      "leagueName" : "Liga de Ascenso",
+      "legacyLookupKeys" : [
+        "nicaragua|liga-de-ascenso|cd junior de managua"
+      ],
+      "lookupKey" : "nicaragua|cd junior de managua",
+      "relativePath" : "teams\/nicaragua\/cd-junior-de-managua.png",
+      "sourceURLString" : "https:\/\/img.sofascore.com\/api\/v1\/team\/342161\/image"
+    },
+    {
+      "countryName" : "Nicaragua",
+      "displayName" : "CD Rio Blanco",
+      "entityType" : "team",
+      "leagueName" : "Liga de Ascenso",
+      "legacyLookupKeys" : [
+        "nicaragua|liga-de-ascenso|cd rio blanco"
+      ],
+      "lookupKey" : "nicaragua|cd rio blanco",
+      "relativePath" : "teams\/nicaragua\/cd-rio-blanco.png",
+      "sourceURLString" : "https:\/\/img.sofascore.com\/api\/v1\/team\/343083\/image"
+    },
+    {
+      "countryName" : "Nicaragua",
+      "displayName" : "Dep. Masaya",
+      "entityType" : "team",
+      "leagueName" : "Liga de Ascenso",
+      "legacyLookupKeys" : [
+        "nicaragua|liga-de-ascenso|dep masaya"
+      ],
+      "lookupKey" : "nicaragua|dep masaya",
+      "relativePath" : "teams\/nicaragua\/dep-masaya.png",
+      "sourceURLString" : "https:\/\/img.sofascore.com\/api\/v1\/team\/346386\/image"
+    },
+    {
+      "countryName" : "Nicaragua",
+      "displayName" : "Dep. Ocotal",
+      "entityType" : "team",
+      "leagueName" : "Liga de Ascenso",
+      "legacyLookupKeys" : [
+        "nicaragua|liga-de-ascenso|dep ocotal"
+      ],
+      "lookupKey" : "nicaragua|dep ocotal",
+      "relativePath" : "teams\/nicaragua\/dep-ocotal.png",
+      "sourceURLString" : "https:\/\/r2.thesportsdb.com\/images\/media\/team\/badge\/si29h31596464158.png"
+    },
+    {
+      "countryName" : "Nicaragua",
+      "displayName" : "FC Esteli",
+      "entityType" : "team",
+      "leagueName" : "Liga de Ascenso",
+      "legacyLookupKeys" : [
+        "nicaragua|liga-de-ascenso|fc esteli"
+      ],
+      "lookupKey" : "nicaragua|fc esteli",
+      "relativePath" : "teams\/nicaragua\/fc-esteli.png",
+      "sourceURLString" : "https:\/\/img.sofascore.com\/api\/v1\/team\/314989\/image"
+    },
+    {
+      "countryName" : "Nicaragua",
+      "displayName" : "Juventus Managua",
+      "entityType" : "team",
+      "leagueName" : "Liga de Ascenso",
+      "legacyLookupKeys" : [
+        "nicaragua|liga-de-ascenso|juventus managua"
+      ],
+      "lookupKey" : "nicaragua|juventus managua",
+      "relativePath" : "teams\/nicaragua\/juventus-managua.png",
+      "sourceURLString" : "https:\/\/img.sofascore.com\/api\/v1\/team\/233406\/image"
+    },
+    {
+      "countryName" : "Nicaragua",
+      "displayName" : "Masachapa FC",
+      "entityType" : "team",
+      "leagueName" : "Liga de Ascenso",
+      "legacyLookupKeys" : [
+        "nicaragua|liga-de-ascenso|masachapa fc"
+      ],
+      "lookupKey" : "nicaragua|masachapa fc",
+      "relativePath" : "teams\/nicaragua\/masachapa-fc.png",
+      "sourceURLString" : "https:\/\/img.sofascore.com\/api\/v1\/team\/372581\/image"
+    },
+    {
+      "countryName" : "Nicaragua",
+      "displayName" : "Matiguas FC",
+      "entityType" : "team",
+      "leagueName" : "Liga de Ascenso",
+      "legacyLookupKeys" : [
+        "nicaragua|liga-de-ascenso|matiguas fc"
+      ],
+      "lookupKey" : "nicaragua|matiguas fc",
+      "relativePath" : "teams\/nicaragua\/matiguas-fc.png",
+      "sourceURLString" : "https:\/\/img.sofascore.com\/api\/v1\/team\/372993\/image"
+    },
+    {
+      "countryName" : "Nicaragua",
+      "displayName" : "Pumas FC Dario",
+      "entityType" : "team",
+      "leagueName" : "Liga de Ascenso",
+      "legacyLookupKeys" : [
+        "nicaragua|liga-de-ascenso|pumas fc dario"
+      ],
+      "lookupKey" : "nicaragua|pumas fc dario",
+      "relativePath" : "teams\/nicaragua\/pumas-fc-dario.png",
+      "sourceURLString" : "https:\/\/img.sofascore.com\/api\/v1\/team\/1115162\/image"
+    },
+    {
+      "countryName" : "Nicaragua",
+      "displayName" : "San Marcos FC",
+      "entityType" : "team",
+      "leagueName" : "Liga de Ascenso",
+      "legacyLookupKeys" : [
+        "nicaragua|liga-de-ascenso|san marcos fc"
+      ],
+      "lookupKey" : "nicaragua|san marcos fc",
+      "relativePath" : "teams\/nicaragua\/san-marcos-fc.png",
+      "sourceURLString" : "https:\/\/img.sofascore.com\/api\/v1\/team\/324951\/image"
+    },
+    {
+      "countryName" : "Nicaragua",
+      "displayName" : "Tigres de Chinandega",
+      "entityType" : "team",
+      "leagueName" : "Liga de Ascenso",
+      "legacyLookupKeys" : [
+        "nicaragua|liga-de-ascenso|tigres de chinandega"
+      ],
+      "lookupKey" : "nicaragua|tigres de chinandega",
+      "relativePath" : "teams\/nicaragua\/tigres-de-chinandega.png",
+      "sourceURLString" : "https:\/\/img.sofascore.com\/api\/v1\/team\/1115165\/image"
+    },
+    {
+      "countryName" : "Peru",
+      "displayName" : "AD Agropecuaria",
+      "entityType" : "team",
+      "leagueName" : "Copa de la Liga",
+      "legacyLookupKeys" : [
+        "peru|copa-de-la-liga|ad agropecuaria"
+      ],
+      "lookupKey" : "peru|ad agropecuaria",
+      "relativePath" : "teams\/peru\/ad-agropecuaria.png",
+      "sourceURLString" : "https:\/\/r2.thesportsdb.com\/images\/media\/team\/badge\/lb4iq11730672379.png"
+    },
+    {
+      "countryName" : "Peru",
+      "displayName" : "Pirata FC",
+      "entityType" : "team",
+      "leagueName" : "Copa de la Liga",
+      "legacyLookupKeys" : [
+        "peru|copa-de-la-liga|pirata fc"
+      ],
+      "lookupKey" : "peru|pirata fc",
+      "relativePath" : "teams\/peru\/pirata-fc.png",
+      "sourceURLString" : "https:\/\/r2.thesportsdb.com\/images\/media\/team\/badge\/u7zgvn1638924035.png"
+    },
+    {
+      "countryName" : "Peru",
+      "displayName" : "Santos FC de Nazca",
+      "entityType" : "team",
+      "leagueName" : "Copa de la Liga",
+      "legacyLookupKeys" : [
+        "peru|copa-de-la-liga|santos fc de nazca"
+      ],
+      "lookupKey" : "peru|santos fc de nazca",
+      "relativePath" : "teams\/peru\/santos-fc-de-nazca.png",
+      "sourceURLString" : "https:\/\/r2.thesportsdb.com\/images\/media\/team\/badge\/ygs51r1734970363.png"
+    },
+    {
+      "countryName" : "Peru",
+      "displayName" : "Union Huaral",
+      "entityType" : "team",
+      "leagueName" : "Liga 3",
+      "legacyLookupKeys" : [
+        "peru|liga-3|union huaral"
+      ],
+      "lookupKey" : "peru|union huaral",
+      "relativePath" : "teams\/peru\/union-huaral.png",
+      "sourceURLString" : "https:\/\/r2.thesportsdb.com\/images\/media\/team\/badge\/wlw4n21624654969.png"
+    },
+    {
+      "countryName" : "Peru",
+      "displayName" : "Universidad Tecnica de Cajamarca",
+      "entityType" : "team",
+      "leagueName" : "Copa de la Liga",
+      "legacyLookupKeys" : [
+        "peru|copa-de-la-liga|universidad tecnica de cajamarca"
+      ],
+      "lookupKey" : "peru|universidad tecnica de cajamarca",
+      "relativePath" : "teams\/peru\/universidad-tecnica-de-cajamarca.png",
+      "sourceURLString" : "https:\/\/r2.thesportsdb.com\/images\/media\/team\/badge\/ea4ez01580040095.png"
+    },
+    {
+      "countryName" : "Uruguay",
+      "displayName" : "Rampla Juniors",
+      "entityType" : "team",
+      "leagueName" : "Primera Divisional C",
+      "legacyLookupKeys" : [
+        "uruguay|primera-divisional-c|rampla juniors"
+      ],
+      "lookupKey" : "uruguay|rampla juniors",
+      "relativePath" : "teams\/uruguay\/rampla-juniors.png",
+      "sourceURLString" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/2\/20\/Rampla_juniors_fc_logo.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled"
     }
   ],
-  "generatedAt" : "2026-05-14T23:22:22Z"
+  "generatedAt" : "2026-06-15T12:55:40Z"
 }
